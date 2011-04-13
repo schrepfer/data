@@ -23,10 +23,10 @@ Mental Cost: 150 SPs.
 Skill type: neutral.
 Affecting stat(s): skill percent.
 With this skill, a monk can take advantage of his mastery of his mind to
-aid in combat.  By using this skill, the monk summons control of his mental
+aid in combat. By using this skill, the monk summons control of his mental
 abilities to force his glands to release a burst of adrenaline, which
 rushes through his bloodstream and provides his muscles with extra power
-and speed, greatly enhancing his combat abilities.  Unfortunately, this
+and speed, greatly enhancing his combat abilities. Unfortunately, this
 depletes the muscles'natural ability to cleanse themselves of toxins and
 restore fuel, and the result is that after the adrenaline leaves the
 monk's bloodstream, he is left weaker and sluggish for a time.
@@ -36,11 +36,11 @@ Usage duration: automatic.
 Skill type: neutral.
 While even an inexperienced monk may be able to complete a great number of
 martial arts techniques competently, there are several that can be mastered
-only by someone of advanced training.  These techniques may look overly
+only by someone of advanced training. These techniques may look overly
 flashy and useless in practice to someone who is not familiar with them,
 they are in fact just the opposite, highly specialized and necessary
 techniques that make a truly experienced monk capable of doing vast
-amounts of damage.  This skill describes a monk's total knowledge of
+amounts of damage. This skill describes a monk's total knowledge of
 advanced martial arts techniques.
 
 Help on skill: Aegis.
@@ -48,7 +48,7 @@ Usage duration: 4.
 Skill type: neutral..
 Affecting stat: skill percentage.
 This skill allows a Templar to focus his attention more fully
-on defense for a short time.  After that, he tires and must rest
+on defense for a short time. After that, he tires and must rest
 a moment before resuming the heightened defensive state.
 
 Help on skill: Aiming.
@@ -63,6 +63,34 @@ Help on skill: Air lore.
 Usage duration: automatic.
 Skill type: special.
 This skill measures a Druid's knowledge of Air Elemental magic.
+
+Help on skill: Algar loakemen
+Usage duration: 3
+Skill type: neutral
+Unlike the mundane, yet spiritually fulfilling, tasks used in
+gardening a simple plot of land, the skill of Algar Loakemen is
+one which in turn tends to such needs by manipulating several elven
+words of power. Roughly translating to 'Glorious Earth-Growth' in
+the tongue of man, and much unlike the spell 'Fenn Ram' which forms
+the barrier wall along our borders, this skill fortifies the well
+being of all that exists within. It is learned only by the Valeodien,
+for only then does one understand enough of their homeland to feel is
+needs like they were her own, and to act upon them.
+Its effects are known to vary per season. In cold months, its usage
+will banish the frosts. In the months of rebirth it aids in the
+awakening of new life in the ancient grove. Tied to the forest
+as they are, the use of this skill to better the forest also improves
+the strength of all skills and statistics temporarily learned when tales
+are retold to the ears of the world by the elf who knows them. It is
+also known that when this skill has been learned, the High Elves
+even become a part of the seasons themselves. Adjusting their actions
+based upon which season effects the forest. One such example of this
+being that in the time of the falling leaves, the eldest and more learned
+of the the Valeodien are more apt to take on an apprentice, for it is the
+time of teaching as well.
+From a truly thriving forest, great power eminates. Should Eliendien's
+welfare wane, so wanes the strength of tales retold and the seasonal
+bonuses whose power lies rooted deep within.
 
 Help on skill: Allegro con foco.
 Usage duration: automatic.
@@ -79,14 +107,14 @@ Help on skill: Ambidextrous attack.
 Usage duration: automatic.
 Skill type: neutral.
 This skill comes as a necessary part of a monk's training in unarmed
-combat.  Nearly all monks naturally favor one leg over the other, and
+combat. Nearly all monks naturally favor one leg over the other, and
 one arm over the other as well, when it comes to completing martial
-arts techniques.  This is clearly dangerous, since it often results in
-the monk missing opportunities to strike at his opponent.  To correct
+arts techniques. This is clearly dangerous, since it often results in
+the monk missing opportunities to strike at his opponent. To correct
 this natural behavior, monks are taught to fight equally well with
 both sides of their body, and to ignore their natural preferences,
 and then to be able to strike at the opponent as often and well as
-possible, taking advantage of all openings in the defense.  This skill
+possible, taking advantage of all openings in the defense. This skill
 describes that training.
 
 Help on skill: Ambush.
@@ -132,16 +160,16 @@ Help on skill: Animal summoning.
 Usage duration: 15.
 Skill type: neutral.
 This skill allows you to summon an animal from the wild to come to your
-aid.  Obviously, it won't work indoors.  To attempt and control the
-animal you must use the animal handling skill.  The animal that you summon
-is dependant upon your level and skill knowledge.  The amount of time the
+aid. Obviously, it won't work indoors. To attempt and control the
+animal you must use the animal handling skill. The animal that you summon
+is dependant upon your level and skill knowledge. The amount of time the
 animal remains by your side is also dependant upon your skill knowledge.
 If your animal is killed you will lose 1/5 of your experience, so be careful
 with how you handle your animal friends.
 
 Help on skill: apply makeup
 There is no help available for this skill. (UNKNOWN)
-No such known skill.  Check 'all skills'.
+No such known skill. Check 'all skills'.
 
 Help on skill: Appraise.
 Usage duration: 4.
@@ -157,7 +185,7 @@ Help on skill: Arcane focus.
 Usage duration: automatic.
 Skill type: neutral.
 This powerful skill allows a cleric to exert a great amount of sacred power
-over her enemies, causing powerful harm spells to be avoided less.  With
+over her enemies, causing powerful harm spells to be avoided less. With
 a great deal of training in this skill, a cleric can expect her.
 Skills to be tumbled less.
 This skill is automatically in use.
@@ -181,7 +209,7 @@ Help on skill: Armour piercing.
 Usage duration: automatic.
 Skill type: special.
 The skill grants a skilled polearm fighter knowledge on the various
-types of armours and their weak spots.  This skill is automatically
+types of armours and their weak spots. This skill is automatically
 in use, and when a successful proficiency check is made, the warrior
 has successfully found a weak spot in his opponent's armour, allowing
 him to deal a wicked blow.
@@ -193,6 +221,30 @@ Affecting stat(s): dex.
 Knowledge in this skill speeds up loading your ranged weapon.
 This skill is automatically in use.
 
+Help on skill: The art of bushido
+Usage duration: automatic
+Skill type: special
+ Gi - Rectitude
+ Yuu - Courage
+ Jin - Benevolence
+ Rei - Respect
+ Shin - Honesty
+ Yo - Honor
+ Chuu - Loyalty
+Bushido is the tradition of the Samurai, the ethical and moral
+pinnacle carried through the ages from each Samurai Warrior to their
+eldest proven son. It is the very essence of the Way, and to neglect it
+is to forfeit all privilege and status of the Samurai. Bushido can not be
+taught, it is only observed and learned through faithful and diligent
+adherence to its virtues. This skill does not teach the Art of Bushido,
+as each Samurai to reach the status of Samurai Shogunate is brought up to
+this tradition from the cradle. Instead, this Art teaches the Samurai
+Shogunate on how to display their virtue and adherence to the traditions
+to the younger Samurais. As a result, each young Samurai fortunate enough
+to join the party of a Samurai Shogunate shall learn from his experience,
+gaining mastery in the Samurai's special skills considerably faster.
+Skill percent determines the Samurai Shogunate's extent of influence.
+
 Help on skill: Art of telepathy.
 Usage duration: automatic.
 Skill type: knowledge.
@@ -203,7 +255,7 @@ different telepathics spells.
 Help on skill: Artistic license.
 Usage duration: automatic.
 Skill type: special.
-The creation of jewelry is as much an art as it is a science.  Some of most valuable jewlery has been created by those whom throw out the conventional rules of jewelry making.  This skills allows one to carve one's gems into new, 'special' shapes that normally would never be done.  However it must be noted it that if one trains this skill, he is even more likely to produce utter garbage rather than world-reknown jewelry.
+The creation of jewelry is as much an art as it is a science. Some of most valuable jewlery has been created by those whom throw out the conventional rules of jewelry making. This skills allows one to carve one's gems into new, 'special' shapes that normally would never be done. However it must be noted it that if one trains this skill, he is even more likely to produce utter garbage rather than world-reknown jewelry.
 
 Help on skill: Assassins dream poison.
 Usage duration: automatic.
@@ -330,7 +382,7 @@ Help on skill: Bargain.
 Usage duration: automatic.
 Skill type: special.
 This skill allows you to effectively haggle
-purchases to a lower price.  It is automatically
+purchases to a lower price. It is automatically
 in use at all possible times.
 
 Help on skill: Bash.
@@ -417,6 +469,19 @@ It takes different time to express different things..
 Usage: use beast speech at <message>
 For help: use beast speech at help me
 
+Help on skill: Ben fuin
+Usage duration: 2
+Skill type: neutral
+Loosely translated to 'without darkness' in the tongue of man, the Valeodien
+taught skill of Ben Fuin is one used often to bring the soul closer to
+Eliendien. It is a meditative rite, used to subtly purify a heart heavy
+with the taint of deeds past which had to be done. For as a Valeodien,
+one has truly walked long enough in the light, to know that there are times
+when one must also walk the shadows briefly, in order to do what is right
+and just. With this skill, a Valeodien recalls the light into herself, and
+can not only repent deeds of an evil nature, but also wipe away a few of the
+deep scars of taint with one powerful step toward the light.
+
 Help on skill: Benediction of embedding.
 Usage duration: random.
 Skill type: neutral.
@@ -430,8 +495,8 @@ the Shard has been properly embedded, it will grant to its host item
 mystical powers that vary greatly from one Shard to another, due to
 multiple forms and sizes the Shards take.
 Syntax: Place the item and the Shard you wish to embed on the ground,
-        and use this skill with the armour's name as argument. The
-        first Shard on the ground will be used.
+ and use this skill with the armour's name as argument. The
+ first Shard on the ground will be used.
 
 Help on skill: Benumb.
 Usage duration: 6.
@@ -469,19 +534,19 @@ Help on skill: Blade parry.
 Usage duration: automatic.
 Skill type: defensive.
 This skill allows you to parry hits in combat
-using a sword in your leftwield.  It requires
+using a sword in your leftwield. It requires
 knowledge of regular parry.
 
 Help on skill: Bladed fury.
 Usage duration: random.
 Skill type: attack.
 This skill is used for powerful attack maneuvers
-with edged weapons.  The damage caused by this.
+with edged weapons. The damage caused by this.
 Skill is based on your weapon, stats and skill
 knowledge.
 Note: this skill is most effective when using
-      two edged weapons (axe, dagger, polearm
-      and sword), and only edged weapons.
+ two edged weapons (axe, dagger, polearm
+ and sword), and only edged weapons.
 
 Help on skill: Bless.
 Usage duration: 3.
@@ -503,7 +568,7 @@ Help on skill: Bloodletting.
 Usage duration: 4.
 Skill type: neutral.
 This skill is used to collect blood for various purposes, including
-for use in Elixirs.  Your cauldron must be present to collect the blood.
+for use in Elixirs. Your cauldron must be present to collect the blood.
 Blood can be collected from corpses (not very effective), from
 other players (fairly effective) and yourself(most effective).
 
@@ -556,8 +621,8 @@ with such deadly force that a skilled brawler is a terror to any opponent.
 The damage caused by this skill is based on your weapon, physical statistics
 and skill knowledge in brawl and dirty blow.
 NOTE: these ancient weapons differ so much from each other that the damage
-      caused by them can vary greatly. Whips cause great pain whereas mauls
-      tend to cause vast internal damage.
+ caused by them can vary greatly. Whips cause great pain whereas mauls
+ tend to cause vast internal damage.
 
 Help on skill: Build body.
 Usage duration: 5.
@@ -598,7 +663,7 @@ Affecting stat(s): level and skill percent.
 One of the main reasons monks are taught control over their minds is so that
 they might master the elemental forces of the world around them, and capture
 some of those forces into their knuckles through the use of the natural magic
-their minds possess.  This skill allows a mentally strong monk to capture the
+their minds possess. This skill allows a mentally strong monk to capture the
 warmth of the world around him and channel some of it into his knuckles,
 literally setting them afire, so that the knuckles will burn the monk's
 enemies in combat.
@@ -611,7 +676,7 @@ Affecting stat(s): level and skill percent.
 One of the main reasons monks are taught control over their minds is so that
 they might master the elemental forces of the world around them, and capture
 some of those forces into their knuckles through the use of the natural magic
-their minds possess.  This skill allows a mentally strong monk to force all
+their minds possess. This skill allows a mentally strong monk to force all
 of the nearby warmth away from his knuckles, making them extremely cold, so
 that the knuckles will freeze the monk's enemies in combat.
 
@@ -623,7 +688,7 @@ Affecting stat(s): level and skill percent.
 One of the main reasons monks are taught control over their minds is so that
 they might master the elemental forces of the world around them, and capture
 some of those forces into their knuckles through the use of the natural magic
-their minds possess.  This skill allows a mentally strong monk to attract all
+their minds possess. This skill allows a mentally strong monk to attract all
 nearby static electrical energy, charging his knuckles with intense electricity
 so that they will shock the monk's enemies in combat.
 
@@ -669,7 +734,7 @@ Skill type: neutral..
 Affecting Stat: Skill Percent.
 This skill is used to SAFELY remove branches from the Millennium Tree.
 Millennium staffs may be enchanted to store spells and release them
-again later.  Millennium staffs may store up to eight charges at a
+again later. Millennium staffs may store up to eight charges at a
 time.
 
 Help on skill: Carve millennium wand.
@@ -678,7 +743,7 @@ Skill type: neutral..
 Affecting Stat: Skill Percent.
 This skill is used to SAFELY remove twigs from the Millennium Tree.
 Millennium wands may be enchanted to store spells and release them
-again later.  Millennium wands may store up to four charges at a
+again later. Millennium wands may store up to four charges at a
 time.
 
 Help on skill: Ceremony.
@@ -748,7 +813,7 @@ Mental Cost: 50 SPs.
 Skill type: neutral.
 Affecting stat(s): level and skill percent.
 The ability of a monk to use his mind to control his body is one of the
-largest portions of the mental training experienced by a monk.  One aspect
+largest portions of the mental training experienced by a monk. One aspect
 of this is the ability to mentally force the monk's blood to clot and scab,
 effectively closing a small wound and providing a small amount of healing.
 This takes more mental energy than would be expended by a true healer to
@@ -760,14 +825,14 @@ Help on skill: Commune.
 Usage duration: Random.
 Skill type: neutral.
 Clerics may pray to their god with single minded devotion, attempting
-to discover their god's attitude towards them.  This skill will never
+to discover their god's attitude towards them. This skill will never
 fail to grant the cleric his god's favor.
 
 Help on skill: Composting.
 Usage duration: 4.
 Skill type: neutral.
 This skill turns those nasty old corpses into small mounds
-of environmentally friendly compost.  The druid profits very
+of environmentally friendly compost. The druid profits very
 slightly from this, as it is relaxing, rewarding work.
 
 Help on skill: Conceal spellcasting.
@@ -778,11 +843,27 @@ only true masters trained in this skill may try to cast their spells with
 such proficiency that no one is able to notice the casting.
 You can use the skill to toggle concealing on / off.
 
+Help on skill: Con tegil
+Usage duration: automatic
+Skill type: Loc Ecsuram
+Con Tegil signifies a sacred duty of to Convey and Preserve in the
+elven tongue. As the trusted and wise guardians of Eliendien, it is a
+duty most solemnly followed by the Valeodien. The duty of care
+permeates into every aspect of the Valeodiens' life, its focal point
+being the preservation of Life that Eliendien itself enshrines.
+The Valeodien are unflinching and resolute in their pilgrimage. Where
+they choose fend, none may pass. Those who stand by them in reverence
+to this duty are often saved great tragedy by the foreseeing position
+of the Valeodien's staff. This style of Loc Ecsuram is complicated and
+requires specific concentration. You may do this by typing 'con tegil'
+or 'preserve' while focused in Loc Ecsuram. An exit may be given as an
+additional argument.
+
 Help on skill: Concentration.
 Usage duration: random.
 Skill type: neutral.
 This skill is used to store some raw energy into the
-sorcerer's aura.  Your skill percent affects what portion of the
+sorcerer's aura. Your skill percent affects what portion of the
 spell points you use during this skill actually get stored.
 
 Help on skill: Concentration of harmony.
@@ -800,9 +881,9 @@ Skill type: neutral.
 Similar to the ability of a monk to attract electrical energy to his
 knuckles to aid in combat is the ability to attract a small amount of
 this energy into a single point to serve as a light source, which will
-follow the monk around.  This is a simple skill for all but the most
+follow the monk around. This is a simple skill for all but the most
 inexperienced monks to use, requiring far less energy than that used
-to electrify the knuckles, and less mental ability as well.  Despite
+to electrify the knuckles, and less mental ability as well. Despite
 that fact, this can be a very useful ability for a monk to have,
 should he become lost in the dark and be of a race unable to see in it.
 
@@ -820,7 +901,7 @@ Help on skill: Construct roost.
 Usage duration: Random.
 Skill type: building.
 Bards, being jacks of all trades, aren't afraid to get their
-hands dirty with some manual labor to pay the bills.  Their
+hands dirty with some manual labor to pay the bills. Their
 learning eventually lets them learn the basics of carpentry
 and allows them to create marvelous pigeon roosts.
 
@@ -833,21 +914,21 @@ It helps increase the duration of the spell.
 
 Help on skill: control summoning
 There is no help available for this skill. (UNKNOWN)
-No such known skill.  Check 'all skills'.
+No such known skill. Check 'all skills'.
 
 Help on skill: Control transfer.
 Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): int.
 This skill is checked every time you cast a transfer
-damage spell.  It helps increase the damage done with the spell.
+damage spell. It helps increase the damage done with the spell.
 
 Help on skill: Convert.
 Usage duration: Random.
 Skill type: neutral.
 Clerics may attempt to not only swap the target's alignment, but to
 try and preach to a target about the merits of worshipping her god.
-With convert, a cleric does just that.  She launches into a tirade
+With convert, a cleric does just that. She launches into a tirade
 about the virtues of whatever god she has devoted her life to in an
 attempt to confuse and scare the target into worshipping that god.
 
@@ -876,7 +957,7 @@ Usage duration: 30.
 Skill type: neutral.
 This skill allows you create a trap that will
 cause anyone entering the room to fall and take
-damage from.  This skill may only be used outdoors
+damage from. This skill may only be used outdoors
 and requires a shovel.
 
 Help on skill: Cripple.
@@ -986,7 +1067,7 @@ Help on skill: Dedicate spell.
 Usage duration: 8.
 Skill type: neutral.
 This skill is used to invest a spell in a Millennium Wand or
-Millennium Staff.  Only spells known by the Druid may be dedicated
+Millennium Staff. Only spells known by the Druid may be dedicated
 and the Druid's knowledge of the spell plays a part in the success
 of the dedication.
 
@@ -1073,7 +1154,7 @@ Help on skill: Disembowel.
 Usage duration: Random.
 Skill type: Attack.
 The disembowel skill is one of the messier abilities that a skilled
-lancer may execute.  The warrior attempts to cause a horrible wound
+lancer may execute. The warrior attempts to cause a horrible wound
 in the region of his enemy's lower torso, seeking to sever the internal
 organs there, causing great damage and even greater pain, especially
 when shown in extreme detail.
@@ -1205,7 +1286,7 @@ The edged polearms skills measures a polearm fighter's ability to handle
 the massive edged weapons such as the halbard, bardiche, voulge and glaive.
 Edged polearms are known to generally cause more damage than their thrusting
 cousins, but also seem to miss quite a bit more, causing a higher degree of.
-Skill to use effectively.  It is known that certain polearm fighter's skills
+Skill to use effectively. It is known that certain polearm fighter's skills
 are more advantageous to a skill edged polearm user.
 
 Help on skill: Electric enchanting.
@@ -1218,14 +1299,14 @@ Help on skill: Elemental favor.
 Usage duration: automatic.
 Skill type: special.
 This is a measure of the honor and respect accorded a Druid by the.
-Elemental Lords.  They will forgive a favored Druid for losing his or
+Elemental Lords. They will forgive a favored Druid for losing his or
 her elemental much more rapidly than they would an ill favored Druid.
 
 Help on skill: Elemental mastery.
 Usage duration: automatic.
 Skill type: special.
 This skill is a measure of a Druid's reputation among the
-Elemental Lords.  Whenever an elemental being attacks a
+Elemental Lords. Whenever an elemental being attacks a
 Druid, this skill is checked every round to see if the
 elemental comes to its senses and breaks off the attack.
 
@@ -1246,9 +1327,9 @@ Usage duration: 3.
 Skill type: neutral.
 Affecting stat(s): dex.
 This skill allows you to mold the targets features
-so that they are more pleasing to the eye.  It can
+so that they are more pleasing to the eye. It can
 be quite painful to the target, so make sure they
-are not ill of heart.  It will be more difficult to
+are not ill of heart. It will be more difficult to
 enhance an already beautiful person's features.
 
 Help on skill: Enhance tracking.
@@ -1271,9 +1352,9 @@ Help on skill: Epitaph.
 Usage duration: Random.
 Skill type: neutral.
 Bards are nothing if not sticklers for records events as
-they happen.  Typically, the bard will insist they be
+they happen. Typically, the bard will insist they be
 allowed to bury fallen adversaries and friends, inscribing
-a little epitaph upon their headstone.  when performing
+a little epitaph upon their headstone. when performing
 this, the bard feels better about herself, gaining back
 some lost hit points and spell points.
 
@@ -1286,7 +1367,7 @@ the spell he/she is casting will go off.
 Help on skill: Establish roost.
 Usage duration: 102.
 Skill type: neutral.
-This skill allows you to establish a pigeon roost.  The
+This skill allows you to establish a pigeon roost. The
 higher your skill percent the shorter the time it will
 take to establish your roost.
 
@@ -1322,6 +1403,17 @@ race is very close to the one of the user and 10% bonus if the race of
 the target is any of the death knight races.
 The knight can use this skill with a target 'list' if he needs to see
 the creatures which have bodies similiar to his own.
+
+Help on skill: Gil lond
+Usage duration: 4
+Skill type: neutral
+While songs of power are often sung by those elves known as the Maredien,
+it is well known that one cannot form a song without the words. One of the
+most powerful Words known to the elves of the sea is one of blessing and
+purification of the element which they treasure the most. Lifegiving water
+itself. It is said that a true Maredien may find the most bitter of waters
+and charm it to sweetness so pure that it heals the elf with the simple
+breath of a word.
 
 Help on skill: Good omens.
 Usage duration: automatic.
@@ -1376,8 +1468,8 @@ Skill type: attack.
 Affecting stat(s): str and dex.
 Sometimes striking quickly at your opponent is more important than executing
 a long and difficult technique, such as when an opponent is very nearly
-dead, or attempting to flee.  For these situations, a fast and simple
-technique utilizing the superior speed of the hands is appropriate.  This.
+dead, or attempting to flee. For these situations, a fast and simple
+technique utilizing the superior speed of the hands is appropriate. This.
 Skill describes such a fast, simple technique used by the monk with his
 hands to quickly deal a small, but not insignificant, amount of damage.
 Because of this simplicity, even an inexperienced monk can often execute
@@ -1388,7 +1480,7 @@ Help on skill: Fatal blow.
 Usage duration: Random.
 Skill type: Attack.
 One of the most difficult techniques that a polearm fighter may master,
-it is also one of the most devastating.  The warrior attempts to use
+it is also one of the most devastating. The warrior attempts to use
 their knowledge of the anatomy to thrust a polearm into an opponent's
 body, dealing vast amounts of damage, in extreme detail.
 
@@ -1425,6 +1517,11 @@ Usage duration: automatic.
 Skill type: special.
 This skill measures a Druid's knowledge of Fire Elemental magic.
 
+Help on skill: Fishing
+Usage duration: 3
+Skill type: neutral
+Proficiency in the art of fishing allows one to do just as it says. Go fishing!
+
 Help on skill: Firevision.
 Usage duration: 5.
 Mental Cost: 150 SPs.
@@ -1445,7 +1542,7 @@ Skill type: Attack.
 Affecting stat(s): str, dex, boot quality and acrobatics skills.
 With this skill, the bard demostrates her versitility by
 flipping in the air several times and delivering a boot
-to the head on her opponent.  The quality of the boots
+to the head on her opponent. The quality of the boots
 and the bard's strength and acrobatics skills play a large
 part in the amount of damage done, while her dexterity and
 combat skills allow for a chance to stun or interrupt
@@ -1501,7 +1598,7 @@ Skill type: neutral.
 While the Ki skill allows a monk to concentrate his energy on producing
 a loud shout combined with a single powerful attack designed to stun an
 enemy, knowledge of the technique of Ki alone is often insufficient to
-accomplish that goal.  To enhance the Ki skill, and as part of the mastery
+accomplish that goal. To enhance the Ki skill, and as part of the mastery
 of a monk's body, he will learn to focus all of his energy into that shout
 and strike, and will greatly increase both the damage done and the intensity
 of the stun delivered.
@@ -1514,8 +1611,8 @@ mastery over his body, a Kungfu which strikes critically at the enemy's
 most undefended parts must be considered the pinnacle of its execution.
 To accomplish this feat, the monk must be able to focus his entire body
 into the execution of the Kungfu attack, relaxing and ignoring all else
-for a brief moment.  When this is accomplished, the Kungfu that results
-will do significantly more damage to the enemy.  This skill represents
+for a brief moment. When this is accomplished, the Kungfu that results
+will do significantly more damage to the enemy. This skill represents
 a monk's ability to focus his Kungfu attacks in this manner.
 
 Help on skill: Focus power.
@@ -1552,15 +1649,15 @@ Help on skill: Forge talisman.
 Usage duration: 30.
 Skill type: neutral..
 Affecting Stat: Skill Percent.
-This skill is used to forge a magical Talisman.  Talismans can be
-activated by the Awaken Talisman spell.  Once awakened, anyone can
+This skill is used to forge a magical Talisman. Talismans can be
+activated by the Awaken Talisman spell. Once awakened, anyone can
 use a Talisman to focus one of their skills or spells, increasing
-its effects.  Power and duration depend on the skill with which a
-Talisman was forged and awakened.  Note that only the Druid that
-Awakens the Talisman can take advantage of its full power.  Other
+its effects. Power and duration depend on the skill with which a
+Talisman was forged and awakened. Note that only the Druid that
+Awakens the Talisman can take advantage of its full power. Other
 Druids, and Bards, can take good advantage of the Talisman, with
 other guilds being able to take advantage of only some of a Talisman's
-power.  Talisman's can NOT be focused on the following skills/spells:
+power. Talisman's can NOT be focused on the following skills/spells:
 awaken talisman
 forge talisman
 leadership
@@ -1589,7 +1686,7 @@ action towards you because of this, he/she does so with a legimate reason.
 Help on skill: Gem placement.
 Usage duration: automatic.
 Skill type: special.
-Even if a jeweler has an exact idea of where he wants to place a gem, it requires steady hands to get the placement exactly right.  In a task where a few millimeters in any general direction determines the difference between a masterpiece and disaster, precise gem placement is crucial.
+Even if a jeweler has an exact idea of where he wants to place a gem, it requires steady hands to get the placement exactly right. In a task where a few millimeters in any general direction determines the difference between a masterpiece and disaster, precise gem placement is crucial.
 
 Help on skill: Glance.
 Usage duration: random.
@@ -1648,15 +1745,15 @@ Usage duration: automatic.
 Skill type: special.
 This skill allows a Druid to more carefully control the
 energies channeled during the charging of a Millennium
-Wand or Staff.  This is especially useful if the charging
+Wand or Staff. This is especially useful if the charging
 process should fail.
 
 Help on skill: Hack-n-slash.
 Usage duration: random.
 Skill type: attack.
 This skill is used for devastating attack maneuvers with
-axes.  This skill is based upon knowledge of the art of
-bladed fury.  With this skill you can use your axes to
+axes. This skill is based upon knowledge of the art of
+bladed fury. With this skill you can use your axes to
 butcher your opponent so badly, his own mother will not
 recognize him.
 
@@ -1687,21 +1784,24 @@ Skill type: special.
 This skill allows the Knights Templar, the 'Hand of God,' to
 enhance the protection provided by the Armour of God spell.
 
-Help on skill: Headcut.
-Usage duration: automatic.
-Skill type: special.
-Affecting stat(s): str and sword stats.
-With this excelent skill you can headcut your opponents neck.
-While in the battle, samurai can check enemys weaknesses
-in the defence and then strike headcut on the enemys neck.
-How fast you can headcut depends highly on your skill and
-level power. This skill is automatically in use.
+Help on skill: Headcut
+Usage duration: automatic
+Skill type: special
+Affecting stat(s): str, dex, skill percent, blade's weapon class, hit bonus and damage bonus.
+The Samurai are trained to constantly look for openings in their
+foe's defenses. Each strike of the Samurai blade serves one of two
+purposes; to inflict great damage, or to ruse the Samurai's opponent
+in to committing a fatal flaw. Headcutting is a powerful Samurai blade
+technique for exploiting any weaknesses in the stance of the enemy. It
+is performed by quickly side-stepping the enemy and unleashing a hard
+backhanded swing at the opponent's neck. The most powerful of these have
+been known to sever the head of the opponent clean from his shoulders.
 
 Help on skill: Healing efficiency.
 Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): con.
-This skill is checked every time you cast a healing spell.  It
+This skill is checked every time you cast a healing spell. It
 helps make healing spells more efficient.
 
 Help on skill: Healing resonance.
@@ -1729,7 +1829,7 @@ energy towards the healing of the body and regeneration of mental energy.
 While knowledge of this skill is available to all experienced monks,
 those who take the time to truly master it through training of 'Mastery
 of Healing Trance,' as part of their study of mastery of the mind will
-experience noticably better results.  Naturally, it is not possible for
+experience noticably better results. Naturally, it is not possible for
 the monk to achieve the concentration necessary for this skill while
 fighting.
 
@@ -1748,10 +1848,10 @@ Help on skill: Herb mixing.
 Usage duration: random.
 Skill type: neutral.
 This skill is used to make different types of herbal mixtures.
-  Usage: use herb mixing at <what>
-    <what> is the mixture you want to make (for example thieves kiss
-    poison. The skill checks the needed herbs automatically.
-    You need a mortar and pestle for this skill (and herbs of course.)
+ Usage: use herb mixing at <what>
+ <what> is the mixture you want to make (for example thieves kiss
+ poison. The skill checks the needed herbs automatically.
+ You need a mortar and pestle for this skill (and herbs of course.)
 
 Help on skill: Herbal eyedrops.
 Usage duration: automatic.
@@ -1817,14 +1917,14 @@ Help on skill: Hew.
 Usage duration: Random.
 Skill type: Attack..
 Affecting stats: Strength, Dexterity, Weapon Wielded, Hew Percentage,
-                 Hormanship Percentage, Mounted Attack Percentage and
-                 Charge Percentage.
+ Hormanship Percentage, Mounted Attack Percentage and
+ Charge Percentage.
 This allows a mounted Paladin to make great sweeping attacks
-with his sword.  Skill in Horsemanship and Riposte will increase
-the damage done.  The Paladin MUST be wielding a sword to use
+with his sword. Skill in Horsemanship and Riposte will increase
+the damage done. The Paladin MUST be wielding a sword to use
 this skill.
 NOTE: 1h swords strike more quickly, but do less damage.
-      2h swords strike more slowly, but do more damage.
+ 2h swords strike more slowly, but do more damage.
 
 Help on skill: Hiding.
 Usage duration: 6.
@@ -1839,9 +1939,9 @@ Help on skill: Hit placement.
 Usage duration: automatic.
 Skill type: special.
 This skill measures the polearm fighter's discipline and ability to
-carefully aim where he wants his polearm attacks to land.  This skill
+carefully aim where he wants his polearm attacks to land. This skill
 is known to affect the skill armour piercing, allowing a much greater
-chance to succeed on that skill.  Successful use of this skill may also
+chance to succeed on that skill. Successful use of this skill may also
 allow the polearm fighter to critically wound his opponent with one
 of his many manuevers, causing a great deal of damage.
 
@@ -1850,7 +1950,7 @@ Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): str and wis.
 This skill grants the cleric with a great deal of extra strength
-derived from the power of her god.  A number of the cleric's
+derived from the power of her god. A number of the cleric's
 spells and skills, such as smash, gain effectiveness with the
 more holy might the cleric has.
 
@@ -1858,11 +1958,11 @@ Help on skill: Horsemanship.
 Usage duration: automatic.
 Skill type: special.
 This skill measure the degree of control a Paladin has over
-his mount.  This skill contributes to the effectiveness of
+his mount. This skill contributes to the effectiveness of
 mounted attack, mounted parry, mounted riposte, and mounted
 combat..
 NOTE: Controlling a mount is a rigorous activity, demanding
-concentration.  The dodge skill makes it very difficult to
+concentration. The dodge skill makes it very difficult to
 maintain one's concentration and can spook the mount, reducing
 the rider's overall level of control.
 
@@ -1924,7 +2024,7 @@ Help on skill: Immortality.
 Usage duration: automatic.
 Skill type: special.
 This ritual is rumoured to allow mortals to pass on to a
-higher plane of existance.  Although, those who have survived
+higher plane of existance. Although, those who have survived
 this ritual are not here to confirm it as so.
 
 Help on skill: Impale.
@@ -1958,6 +2058,45 @@ This skill will allow offensive spells to interrupt the
 targets concentration.
 It is automatically in use.
 
+Help on skill: Introspection
+Usage duration: random
+Skill type: knowledge
+Affecting stat(s): skill knowledge
+Of all the creatures that roam our realms, but a handful are truly magical.
+Most of us are not so blessed. Forever struggle we to improve, to be more
+than we are, never surpassing what our race permits. Bound to never reach
+the heights available to those special few. Those magical creatures, the few
+who form the exception in the order of things, have the natural gift of
+Introspection. This talent is rare indeed, and by the use of it, a creature
+so gifted can envision their true potential. There is no measuring of the
+significance of this, or the power it may bestow upon its possessor.
+
+Help on skill: Introversion
+Usage duration: random
+Skill type: knowledge
+Affecting stat(s): skill knowledge
+Very few are those who truly know their limits, and even further apart are
+those who are actually able to surpass them. Those gifted with the true skill
+of Introversion are able to do this. Like any other achievement, this sadly
+comes with a price. A price far too heavy for most to pay. As the boundaries
+of what is 'possible' are crossed, something that cannot cope without
+humanity is left behind. Memories, experiences of the past life, and even
+vital knowledge fades as one alienates from the mundane. What triggers this
+process depends on the merits of specialty in the individual of question.
+Some surpass their limits by enlightenment, others through growth by pain.
+Yet one fact remains. The process is destructive and precautions must be
+taken. The gift of introversion allows its master to shape his experiences
+as a shell within which the most vital knowledge remains. Should sufficient
+experience be stored this way, it will be eaten away by the change, and the
+inmost self is left unharmed. Should such protection not exist, the effects
+of transformation are potentially monstrous. Depending on the price to pay,
+an unprotected creature may suffer partial or total loss of any or every
+skill, partial or total loss of any or every spell or the loss of one,
+several, or all levels. Experiences and memories used to shield one's mind
+stay invested in this manner until usage or reincarnation.
+Syntax: 'use introversion at <exp in millions>' to store experience OR
+ 'use introversion at check' to see the strength of your barrier.
+
 Help on skill: invocation
 There is no help available for this skill. (UNKNOWN)
 No such known skill. Check 'all skills'.
@@ -1968,11 +2107,11 @@ Skill type: neutral.
 Affecting stat(s): dex.
 Through use of this skill, a bard is able to juggle several
 specially summoned objects to entertain and please his
-audience.  One of the major effects a juggling bard enjoys
+audience. One of the major effects a juggling bard enjoys
 is the ability to dodge several incoming area attacks, or at
-least a portion thereof.  Another thing the bard may do is
+least a portion thereof. Another thing the bard may do is
 to use the skill 'toss' to throw objects at his enemy with
-great force.  The enemy, so distracted with watching the
+great force. The enemy, so distracted with watching the
 bard juggle, is usually caught completely offguard.
 
 Help on skill: Jupiter lore.
@@ -1981,26 +2120,31 @@ Skill type: special.
 This skill a measure of a Druids ability to take advantage of
 the atronomical conjunctions of the planet Jupiter.
 
-Help on skill: Kamikaze.
-Usage duration: 3.
-Skill type: neutral.
-With this skill samurai can attack against opponent
-brave and proudly. Nothing can't stop kamikaze samurai.
-Samurais kamikaze will lead in the battle where only
-one can survive.
+Help on skill: Kamikaze
+Usage duration: 3
+Skill type: neutral
+To a Samurai the act of Kamikaze is a vow, a brave challenge to
+his enemies. The essence of kamikaze is a calm decision to stand
+your ground when others would flee in terror, even against an
+insurmountable force. It is a vow that once taken, no true samurai
+breaks. With this vow comes strength and determination. Knowing
+one's path clears the mind of all ambiguity and doubt. Once set
+on the warpath known as Kamikaze, all ambiguities of life fade to
+the background. This allows the Samurai to concentrate on that which
+he does best.
 
 Help on skill: Ki.
 Usage duration: 5.
 Skill type: attack.
 Affecting stat(s): str and dex.
 Often it is not wise to start a battle against an opponent who is fully
-capable of defending itself.  To give a monk an extra edge against a tough
+capable of defending itself. To give a monk an extra edge against a tough
 enemy, he will often start the battle with a single attack combined with
-a battle shout.  This has the effect of startling and suprising the enemy,
-while at the same time inflicting some damage.  If correctly executed, this
+a battle shout. This has the effect of startling and suprising the enemy,
+while at the same time inflicting some damage. If correctly executed, this
 technique will leave the target stunned and unable to fight back, so that
 the monk and his party are able to inflict further damage without fear
-for their own health.  Also, by continuing his training, a monk who studies
+for their own health. Also, by continuing his training, a monk who studies
 the ability to focus this attack may be able to strike a second blow to the
 enemy, dealing more damage and stunning them yet again.
 
@@ -2021,19 +2165,38 @@ Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): dex.
 This skill is checked every time you use the skill.
-Flip kick.  It helps amplify the effects of the skill
+Flip kick. It helps amplify the effects of the skill
 and can even induce special properties.
 
-Help on skill: Kiru.
-Usage duration: 5.
-Skill type: attack.
-Affecting stat(s): str, dex and weapon stats.
-Samurai can put all his/her physical strength and dexterity in the
-one single blow. They call this deadly skill for: 'KIRU'. Samurais
-usually start battle with this skill. There are very few opponents
-who survive that stunning and painful blow when performed by the most
-impressive samurais. Using this skill and a sharp katana samurai
-can be very dangerous opponent indeed.
+Help on skill: Kiru
+Usage duration: 5
+Skill type: attack
+Affecting stat(s): str, dex, skill percents in kiru, zhinakoku and hiding, weapon mastery and weapon stats
+Kiru is a blade fighting technique in which the Samurai Warrior invests
+all his physical strength and dexterity to perform a stunning attack on
+his enemy. The bladed attacks of 'Kiru' were originally designed to
+inflict terror and pain to the Samurai's opponent. However, when
+employed by one of the most legendary of the Samurais, the sudden death
+of the Samurai's opponent also becomes a very real possibility.
+The Samurai's inner spirit affects his ability to follow-up his initial
+kiru attack with secondary and tertiary attack maneuvers.
+The Samurai Artists are able to perform the stronger and more exhaustive
+version of the Kiru attack developed by the legendary Samurai Artist,
+Shogun Naganoro.
+Syntax: use kiru at <target> <strong>.
+
+Help on skill: Kemen laer
+Usage duration: 6
+Skill type: neutral
+Songs of the sea are common enough in the repertoire of the Maredien,
+but when necessity comes to the fore, their resourceful nature has even
+led them to endeavour to forge a true song of the earth. The Kemen Laer,
+or quite simply 'Earth Song' in the common tongue of men, has been known
+to be so soothing and sweet that it is said to charm the smallest of
+creatures from their darkened slumbers beneath the soil. Working primarily
+only on the lowly, earth-bound things which crawl deep within the forest
+floor, it is said that every so often even sentient beasts fall under the
+sway of the rhythmic voice of the Sea elf.
 
 Help on skill: Knowledge of omens.
 Usage duration: automatic.
@@ -2050,14 +2213,14 @@ Skill type: attack.
 Affecting stat(s): dex and str.
 Monks train in a number of powerful single attacks, which are much stronger
 and more deadly than the normal routine of blows delivered in the course of
-combat.  The techniques together are called 'Kungfu', and form the most
-important part of the combat skills of the monk.  With this skill the monk
+combat. The techniques together are called 'Kungfu', and form the most
+important part of the combat skills of the monk. With this skill the monk
 is able to make use of all of his amassed knowledge in the field of the
-martial arts to strike his opponent.  Because of this nature of Kungfu,
+martial arts to strike his opponent. Because of this nature of Kungfu,
 it is necessary to have knowledge in the simpler techniques to be able
-to realize the full potential of the skill.  Specifically, knowledge in
+to realize the full potential of the skill. Specifically, knowledge in
 'fast blow', 'power kick', and 'mastery of kungfu' will increase the
-damage done.  Also, it is known that knowledge of 'focus kungfu attacks'
+damage done. Also, it is known that knowledge of 'focus kungfu attacks'
 can allow the monk to strike critically with kungfu, and that knowledge
 in the martial arts will increase the damage as well.
 
@@ -2097,7 +2260,7 @@ Usage duration: automatic.
 Skill type: attack.
 Affecting stat(s): str and dex.
 This skill will allow you to disable your opponent with
-the skill mutilate.  You must first succeed with mutilate.
+the skill mutilate. You must first succeed with mutilate.
 It also can augment the damage done by mutilate.
 
 Help on skill: Loc ecsuram.
@@ -2195,18 +2358,27 @@ focused in Loc Ecsuram to perform the ability, and 'look at yourself'
 or 'the aura' at any time to see your current aura of power.
 This ability is stackable.
 
-Help on skill: Make acid shuriken.
-Usage duration: 3.
-Skill type: neutral.
-This skill allows a samurai to create a special shuriken for
-use in combat.  Its rather difficult so you may need to practice
-this a lot.
+Help on skill: Make acid shuriken
+Usage duration: 3
+Skill type: neutral
+A part of the Samurai Arts is the creation of the deadly battlestars
+known as shuriken. As a Samurai reaches a higher circle in his studies,
+he obtains the techniques necessary to treat his weapons, both his blade
+and the shuriken, with various enchanting properties that modify the type
+of damage they inflict. While the blade requires a magical blessing to
+inflict other damage types beyond the physical, the shurikens can be created
+in select types directly. Many aspects of the Samurai's talents aid in the
+construction of these special weapons. Skill knowledge in making the type
+of shuriken used, the art of Zhinakoku, and the mastery in making shuriken,
+that can only be obtained through practice and devotion, all further develope
+this aspect of the Samurai Arts. Shurikens created with this skill will char
+away the flesh of their targets.
 
 Help on skill: Make bumerang.
 Usage duration: 6.
 Skill type: neutral.
 This skill allows a samurai to create a special bumerang for
-use in combat.  Its rather difficult so you may need to practice
+use in combat. Its rather difficult so you may need to practice
 this a lot.
 
 Help on skill: Make disguise wax.
@@ -2216,19 +2388,52 @@ This skill is used to create wax needed in disguises.
 This skill is used in conjunction with the skill herb mixing.
 Using this skill will show you the correct reagents.
 
-Help on skill: Make poison shuriken.
-Usage duration: 3.
-Skill type: neutral.
-This skill allows a samurai to create a special shuriken for
-use in combat.  Its rather difficult so you may need to practice
-this a lot.
+Help on skill: Make incendiary shuriken
+Usage duration: 3
+Skill type: neutral
+A part of the Samurai Arts is the creation of the deadly battlestars
+known as shuriken. As a Samurai reaches a higher circle in his studies,
+he obtains the techniques necessary to treat his weapons, both his blade
+and the shuriken, with various enchanting properties that modify the type
+of damage they inflict. While the blade requires a magical blessing to
+inflict other damage types beyond the physical, the shurikens can be created
+in select types directly. Many aspects of the Samurai's talents aid in the
+construction of these special weapons. Skill knowledge in making the type
+of shuriken used, the art of Zhinakoku, and the mastery in making shuriken,
+that can only be obtained through practice and devotion, all further develope
+this aspect of the Samurai Arts. Shurikens created with this skill will ignite
+once thrown, burning the flesh of anyone in their path.
 
-Help on skill: Make shuriken.
-Usage duration: 3.
-Skill type: neutral.
-This skill allows a samurai to create a special shuriken for
-use in combat.  Its rather difficult so you may need to practice
-this a lot.
+Help on skill: Make poison shuriken
+Usage duration: 3
+Skill type: neutral
+A part of the Samurai Arts is the creation of the deadly battlestars
+known as shuriken. As a Samurai reaches a higher circle in his studies,
+he obtains the techniques necessary to treat his weapons, both his blade
+and the shuriken, with various enchanting properties that modify the type
+of damage they inflict. While the blade requires a magical blessing to
+inflict other damage types beyond the physical, the shurikens can be created
+in select types directly. Many aspects of the Samurai's talents aid in the
+construction of these special weapons. Skill knowledge in making the type
+of shuriken used, the art of Zhinakoku, and the mastery in making shuriken,
+that can only be obtained through practice and devotion, all further develope
+this aspect of the Samurai Arts. Shurikens created with this skill will poison
+the flesh surrounding the puncture wound, causing grave damage.
+
+Help on skill: Make shuriken
+Usage duration: 3
+Skill type: neutral
+A part of the samurai arts is the creation of the deadly battlestars
+known as shuriken. As a samurai reaches a higher circle in his studies,
+he obtains the techniques necessary to treat his weapons, both his blade
+and the shuriken, with various enchanting properties that modify the type
+of damage they inflict. While the blade requires a magical blessing to
+inflict other damage types beyond the physical, the shurikens can be created
+in select types directly. Many aspects of the samurai's talents aid in the
+construction of these special weapons. Skill knowledge in making the type
+of shuriken used, the art of Zhinakoku, and the mastery in making shuriken,
+that can only be obtained through practice and devotion, all further develope
+this aspect of the samurai arts.
 
 Help on skill: Mangle.
 Usage duration: 2.
@@ -2261,10 +2466,10 @@ Help on skill: Martial arts.
 Usage duration: automatic.
 Skill type: neutral.
 The basis of every monk's training is a number of techniques used primarily
-in melee combat.  These techniques, when considered together, are trained
-by the monk as 'martial arts'.  This covers all of these, as well as the
+in melee combat. These techniques, when considered together, are trained
+by the monk as 'martial arts'. This covers all of these, as well as the
 more fundamental aspects of fighting with the hands and feet rather than
-with some weapon.  This general knowledge of the martial arts is important
+with some weapon. This general knowledge of the martial arts is important
 to every monk, regardless of his level of experience, and it is known to
 affect the monk's ability to do damage with his Kungfu attacks.
 
@@ -2274,13 +2479,25 @@ Skill type: neutral.
 One skill practiced by many monks is that of tumbling to avoid some spells.
 This is accomplished through careful study of the physical paths traveled
 by those spells towards the monk, as well as of the movements necessary to
-leave that path as quickly as possible.  It is not an easy task to tumble
+leave that path as quickly as possible. It is not an easy task to tumble
 and avoid an incoming spell, made more difficult by the speed of the spell
 and the sometimes unnatural position the monk is left in in the middle of
-a fight.  However, those who study exceptionally hard at mastering their
+a fight. However, those who study exceptionally hard at mastering their
 bodies and the techniques of tumbling are known to have a significant
-advantage in this act.  This skill describes that advanced knowledge in
+advantage in this act. This skill describes that advanced knowledge in
 the area of tumbling.
+
+Help on skill: Mastery of coating
+Usage duration: automatic
+Skill type: special
+The art of coating the deadly battlestars known as shuriken takes
+the better part of a Samurai's life to master. While the Artists of
+the Samurai are legendary in their ability to treat the shuriken, all
+sects of the Samurai Guild receive training in this aspect of the
+Samurai Art. Often, the best mentors are Artists of the Samurai
+themselves. Proficiency in the mastery of coating increases the
+effect of poisonous, incendiary and corrosive coatings applied
+to the Samurai's shuriken.
 
 Help on skill: Mastery of death illusions.
 Usage duration: automatic.
@@ -2316,7 +2533,7 @@ Usage duration: automatic.
 Skill type: neutral.
 Though the use of a simple healing trance can be learned, even to a high
 level of proficiency, by most monks, it is not correct to think that it
-is a simple skill.  Through training the mind in some of the finer points
+is a simple skill. Through training the mind in some of the finer points
 of this technique, the monk is able to achieve a more potent trance, and
 will heal faster while in it.
 
@@ -2340,11 +2557,11 @@ Usage duration: automatic.
 Skill type: neutral.
 The skill Kungfu relies on knowledge of several simpler techniques.
 However, this does not mean that these techniques are sufficient to
-execute the Kungfu in the most powerful way.  In fact, the more
+execute the Kungfu in the most powerful way. In fact, the more
 difficult parts of the knowledge of Kungfu are numerous and important
-enough that a monk must train himself in them separately.  This skill
+enough that a monk must train himself in them separately. This skill
 encompasses the knowledge learned by a monk to complete his training
-in the techniques that are together known as Kungfu.  This knowledge
+in the techniques that are together known as Kungfu. This knowledge
 will allow the monk to more accurately aim and time his Kungfus,
 increasing the damage done.
 
@@ -2352,7 +2569,7 @@ Help on skill: Mastery of medicine.
 Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): wis.
-This skill is checked every time you cast a healing spell.  It
+This skill is checked every time you cast a healing spell. It
 helps increase the max healing done with healing spells.
 
 Help on skill: Mastery of psychokinetics.
@@ -2451,29 +2668,29 @@ Help on skill: Mounted attack.
 Usage duration: automatic.
 Skill type: special.
 This skill is added to a Paladin's attack skill whenever
-the Paladin is mounted.  Horsemanship has an impact on
+the Paladin is mounted. Horsemanship has an impact on
 this skill.
 
 Help on skill: Mounted combat.
 Usage duration: automatic.
 Skill type: special.
 This skill adds to the Paladin's stun, critical, doublehit and
-whirlwind attack skills while the Paladin is mounted.  Note
-that it does NOT add its full rating to each skill.  Horsemanship
+whirlwind attack skills while the Paladin is mounted. Note
+that it does NOT add its full rating to each skill. Horsemanship
 has an impact on this skill.
 
 Help on skill: Mounted parry.
 Usage duration: automatic.
 Skill type: special.
 This skill is added to a Paladin's parry skill whenever
-the Paladin is mounted.  Horsemanship has an impact on
+the Paladin is mounted. Horsemanship has an impact on
 this skill.
 
 Help on skill: Mounted riposte.
 Usage duration: automatic.
 Skill type: special.
 This skill is added to a Paladin's riposte skill whenever
-the Paladin is mounted.  Horsemanship has an impact on
+the Paladin is mounted. Horsemanship has an impact on
 this skill.
 
 Help on skill: Munch magic item.
@@ -2489,9 +2706,9 @@ Help on skill: Mutilate.
 Usage duration: random.
 Skill type: attack.
 This skill is used for powerful attack maneuvers
-with bludgeons.  The damage caused by this.
+with bludgeons. The damage caused by this.
 Skill is based on your weapon, stats and skill
-knowledge.  In addition knowledge of strike may help
+knowledge. In addition knowledge of strike may help
 make this skill work better.
 This skill takes into account different
 weapon damage types.
@@ -2526,8 +2743,8 @@ Usage duration: Random.
 Skill type: neutral.
 Affecting stat(s): int.
 This skill allows a skilled navigator to find where certain
-areas lie.  This skill is more accurate as the navigator
-becomes more skilled in navigator's way.  The skill is also
+areas lie. This skill is more accurate as the navigator
+becomes more skilled in navigator's way. The skill is also
 much more accurate for intelligent users.
  Usage: use navigate at <area mask>.
 Note that searching for 'castle' or 'city' will find all
@@ -2555,11 +2772,21 @@ Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): int and cha.
 With this powerful ability, a skilled bard is able to talk an
-enemy down from combat.  The bard actually launches into a
+enemy down from combat. The bard actually launches into a
 lengthy tirade about the values of peace over war and how
-a bigger man would forgive and forget.  The result is that
+a bigger man would forgive and forget. The result is that
 the bard can randomly remove herself from combat with an
 enemy, while the rest of her party is still fighting.
+
+Help on skill: Nen lond
+Usage duration: 2
+Skill type: neutral
+While it is said the mariners of the seas know many a song and shanty,
+the Marudien elves who travel the waves teach their children songs of
+such power that they may call to the Ocean's Soul itself. One such song
+is the 'Nen Lond', or 'Water Haven' in the common tongue. With this, sea
+elves may raise their voices on high, to call the creatures of the deep
+to come to their aid.
 
 Help on skill: Neptune lore.
 Usage duration: automatic.
@@ -2597,17 +2824,17 @@ It is automatically in use.
 Help on skill: Ogham rhetoric.
 Usage duration: automatic.
 Skill type: special.
-The Ogham is the written language of the Druids.  Using it, a Druid
+The Ogham is the written language of the Druids. Using it, a Druid
 may make better use of the knowledge he or she has gained in the guild.
 Once learned, this skill in language will lower the spell point cost
 and raise the maximum damage of Druid offensive spells..
-     Approaching a tree we approach a sacred being who can
-          teach us about love and about endless giving.
-     She is one of millions of beings who provide our air,
-          our homes, our fuel, our books. Working with
-      the spirit of the tree can bring us renewed energy,
-             powerful inspiration, deep communion..
-                    - from the teaching material of the Ovate Grade
+ Approaching a tree we approach a sacred being who can
+ teach us about love and about endless giving.
+ She is one of millions of beings who provide our air,
+ our homes, our fuel, our books. Working with
+ the spirit of the tree can bring us renewed energy,
+ powerful inspiration, deep communion..
+ - from the teaching material of the Ovate Grade
 
 Help on skill: Oil of desecration.
 Usage duration: automatic.
@@ -2623,7 +2850,7 @@ Help on skill: Optimize transfer.
 Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): con.
-This skill is checked every time you cast a transfer spell.  It
+This skill is checked every time you cast a transfer spell. It
 helps decrease the damage taken by the caster for the healing done.
 
 Help on skill: order from chaos
@@ -2789,7 +3016,7 @@ Affecting stat(s): str and dex.
 When a young monk is first learning to fight with his hands and feet, it is
 natural to learn the simpler, faster blows delivered with the hands first.
 However, the monks do not neglect the increased power that can be delivered
-using the larger muscles of the legs and stronger surfaces of the feet.  By
+using the larger muscles of the legs and stronger surfaces of the feet. By
 taking advantage of this and making a powerful kick at the enemy, even a
 young monk is capable of dealing significant damage.
 
@@ -2884,12 +3111,14 @@ skill adds to the knowledge of basics techniques, honing those towards
 perfection. With the full knowledge of this skill and the basic techniques
 the fighter's sword may truly dance.
 
-Help on skill: Psionic efficiency.
-Usage duration: automatic.
-Skill type: special.
-This skill will help decrease the spell cost of
-psionicist spells.
-It is automatically in use.
+Help on skill: Psionic efficiency
+Usage duration: automatic
+Skill type: special
+This skill will help to decrease the spell cost of psionicist spells.
+This skill does not stack with offensive efficiency. If a player has
+both offensive efficiency and psionic efficiency trained, the skill
+which is trained to the highest percent will be the one that takes
+effect. This skill is automatically in use.
 
 Help on skill: Pummel.
 Usage duration: 2.
@@ -2902,7 +3131,7 @@ stunned by excruciating pain.
 Help on skill: Purify soul.
 Usage duration: 4.
 Skill type: neutral.
-With this skill powerful clerics  can attempt to make the target
+With this skill powerful clerics can attempt to make the target
 to see the error of his ways and repent. Power of this skill depends
 on your skill percent, wisdom and alignment.
 
@@ -2911,7 +3140,7 @@ Usage duration: automatic.
 Skill type: special..
 Affecting Stat: skill percent
 This skill brings a Paladin closer to the forces of Light
-and Life.  This increases the effect of any healing spell
+and Life. This increases the effect of any healing spell
 cast upon the Paladin.
 
 Help on skill: Purse evaluation.
@@ -2993,7 +3222,7 @@ Skill type: special.
 Affecting stat(s): int and cha.
 Through skillful use of this ability, a bard can turn a boring,
 run of the mill song into an exciting tale enjoyable for all
-who watch and listen.  Training this skill also allows the bard
+who watch and listen. Training this skill also allows the bard
 to compose and create more songs and add a bit more variance to
 his or her performances.
 
@@ -3009,9 +3238,9 @@ Mental Cost: 100 SPs.
 Skill type: neutral.
 When a monk successfully summons the nearby elemental energies and focuses
 them into his knuckles, he retains some small amount of control over these
-forces.  For this reason, it is a simpler task for the monk to dispel the
+forces. For this reason, it is a simpler task for the monk to dispel the
 elements surrounding his knuckles than it is to summon them in the first
-place, taking far less mental energy.  Since the monks are taught from an
+place, taking far less mental energy. Since the monks are taught from an
 early age that these forces are beneficial, and in fact almost necessary,
 this skill is most often used so that the monk can call a different
 element into his knuckles.
@@ -3111,6 +3340,19 @@ occasionally succeed in augmenting the audio-visual part of
 their binded magics to such proportions that it will momentarily
 distract their enemy as their senses are overwhelmed.
 
+Help on skill: Sereg aesa
+Usage duration: 4
+Skill type: neutral
+Like many who travel the deep woods, those who spend time in the forests
+learn to discern with ease exactly which herbs can be used in a poultice
+to cure various ills. One particular herb, found only in the deepest of
+forests, has been found to aid the blood circulation of those of elven kin
+greatly. It is the Silvadien who have devised the skills to make the most
+use of this extremely rare herb, the 'Sereg Aesa', or 'Bloodleaf' as it is
+known in common speech. Once applied, the poultice will greatly increase
+the regeneration of those of elven blood, but should it be used on any
+other race, no effects will be sensed at all.
+
 Help on skill: Sharpen.
 Usage duration: 20.
 Skill type: neutral.
@@ -3120,7 +3362,7 @@ Help on skill: Shield fighting.
 Usage duration: automatic.
 Skill type: special.
 This skill allows a Paladin to use his shield effectively
-in combat.  It is automatically in effect, but you must
+in combat. It is automatically in effect, but you must
 log out and back in after first training it in order for
 it to take effect.
 Note: At higher levels of mastery, this skill can
@@ -3161,7 +3403,7 @@ Usage duration: Random.
 Skill type: Attack.
 The use of skewer allows a skilled polearm fighter to try and
 puncture deeply into an opponent's vital organs or limbs, causing
-massive damage and often times debilitating bleeding.  Successful
+massive damage and often times debilitating bleeding. Successful
 use of this skill will cause great internal or external damage to
 one's enemy.
 
@@ -3169,16 +3411,16 @@ Help on skill: Skill that saves sp.
 Usage duration: automatic.
 Skill type: special.
 This skill reduces the spell point loss
-on spell failure.  The amount you save is
+on spell failure. The amount you save is
 dependant upon your skill knowledge.
 
-Help on skill: Slash.
-Usage duration: random.
-Skill type: attack.
-Affecting stat(s): dex and str.
-This skill allows you to slash your enemy with your sword. Knowledge
-in the skills strike and bladed fury will increase the damage.
-You must be wielding a sword to use this skill.
+Help on skill: Slash
+Usage duration: random
+Skill type: attack
+Affecting stat(s): dex and str
+This skill allows you to slash your enemy with your sword. Knowledge in
+the skills slash, strike, whirlwind slash and bladed fury will increase
+the damage. You must be wielding a sword to use this skill.
 
 Help on skill: Sleight.
 Usage duration: random.
@@ -3198,20 +3440,20 @@ This skill is used to give items to the target unnoticed.
 The items to be given must be in your inventory. You can also
 drop items quietly by using this skill at an item only..
 Usage: use slip at <target> [give <item(s)>]
-       - items can be separated with commas
+ - items can be separated with commas
 
 Help on skill: Smash.
 Usage duration: Random.
 Skill type: attack.
 With this powerful skill a cleric may bludgeon a hated enemy to
 death with several powerful blows from either a bludgeoning
-weapon or a staff.  The damage performed depends on the cleric's
-strength and weapon power.  Enraged priests are known to do
-a bit more damage with this skill as well.  The true power of
+weapon or a staff. The damage performed depends on the cleric's
+strength and weapon power. Enraged priests are known to do
+a bit more damage with this skill as well. The true power of
 smash, however, lies in the priest's ability to deal multiple
-attacks, causing much more damage than normal.  These attacks
+attacks, causing much more damage than normal. These attacks
 have been known to rarely interrupt the target's concentration
-or even stun them completely.  The number of extra attacks is
+or even stun them completely. The number of extra attacks is
 related to the priest's wisdom, weapon skills and the amount
 of holy might they can channel, while to the damage of each
 extra attack directly relates to the priest's faith.
@@ -3237,7 +3479,7 @@ Help on skill: Spacial manipulation.
 Usage duration: automatic.
 Skill type: special.
 This skill helps you create spells dealing with spacial
-manipulations.  The higher this skill is trained the more effective
+manipulations. The higher this skill is trained the more effective
 these types of spells will be.
 
 Help on skill: Specify part.
@@ -3407,7 +3649,7 @@ Usage duration: random.
 Skill type: defensive.
 This skill allows you to use a drunken stupor to your
 advantage by allowing your staggering to confuse
-the enemy.  The advantage is dependent on your skill
+the enemy. The advantage is dependent on your skill
 percent and the duration is dependent on your
 your intoxication.
 
@@ -3420,7 +3662,7 @@ Autosave.
 
 Help on skill: summon mastery
 There is no help available for this skill. (UNKNOWN)
-No such known skill.  Check 'all skills'.
+No such known skill. Check 'all skills'.
 
 Help on skill: Sun lore.
 Usage duration: automatic.
@@ -3443,12 +3685,12 @@ This skill is used by rangers to quickly switch a wielded weapon
 to a weapon in the combat weapon belt. It is a bit harder but not
 impossible while fighting.
 Syntax: use 'switch weapon' <weapon 1> <weapon2>
-or      use 'switch weapon' <weapon 1> to <weapon2>
+or use 'switch weapon' <weapon 1> to <weapon2>
 
 Help on skill: Symmetry recognition.
 Usage duration: automatic.
 Skill type: special.
-Since the early times, people have acknowledged that things arranged in certain symmetries bring to it an astetic pleasure.  Mastery in this skill allows the jeweler to be able to recognize these astetically pleasing patterns, and arrange his/her gems in a way  maximize the effectiveness of his/her creation.
+Since the early times, people have acknowledged that things arranged in certain symmetries bring to it an astetic pleasure. Mastery in this skill allows the jeweler to be able to recognize these astetically pleasing patterns, and arrange his/her gems in a way maximize the effectiveness of his/her creation.
 
 Help on skill: System shock.
 Usage duration: Automatic.
@@ -3464,13 +3706,15 @@ shock will suffer a smaller portion of the damage ignored, and if
 lucky, they can sometimes survive even if the damage felt exceeds
 their current stamina.
 
-Help on skill: Tameshivar.
-Usage duration: automatic.
-Skill type: special.
-Affecting stat(s): str and weapon stats.
-This is samurai's special manoeuvre skill. It will give you a chance
-to hit special attack with your sword. This skill is automatically
-in use.
+Help on skill: Tameshivar
+Usage duration: automatic
+Skill type: special
+Affecting stat(s): dex, skill percent, blade's weapon class, hit bonus and damage bonus.
+The nature of the Spirits of the Samurai blades closely resemble their
+physical forms. Unmerciful and never tiring, the blades were designed to draw
+blood from the Samurai's enemies. In the offense known as Tameshivar, the
+Spirit of the blade is able to tap into the life energies of the enemy, causing
+even greater harm than the blade wound itself would indicate.
 
 Help on skill: Target.
 Usage duration: 11.
@@ -3484,7 +3728,7 @@ Help on skill: Taunt.
 Usage duration: Random.
 Skill type: combat.
 A skilled bard always keeps a repitoire of insults and abuse
-handy, learned from her time travelling the world.  A bard
+handy, learned from her time travelling the world. A bard
 can use these insults to enrage an enemy, causing them to
 loose much in the way of defense power, but angering them
 enough that they deal a great deal more damage in combat.
@@ -3547,7 +3791,7 @@ Skill type: special.
 This skill is a measure of a polearm fighter's ability to handle thrusting
 polearms such as the bardiche, lance, spear, pike and any other polearm
 that relies a strong, thrusting motion and a sharp point to cause damage
-to the enemy.  It is known that certain polearm fighter's skills are more
+to the enemy. It is known that certain polearm fighter's skills are more
 advantageous to a skilled thrusting polearm user.
 
 Help on skill: Tinning.
@@ -3566,7 +3810,7 @@ Skill type: special.
 Affecting stat(s): cha.
 This skill is checked every time you sing a song.
 It helps amplify the effects and/or duration of
-many songs.  In some cases it will even double the
+many songs. In some cases it will even double the
 max effect.
 
 Help on skill: Tonal projection.
@@ -3592,9 +3836,9 @@ Usage duration: automatic.
 Skill type: Attack.
 Affecting stat(s): str and dex.
 A juggling skill that allows the bard to throw one of the
-items she is juggling at her enemy.  The damage done by
+items she is juggling at her enemy. The damage done by
 the object is dependant on what object the bard throws,
-as well as her strength and dexterity.  Certain objects
+as well as her strength and dexterity. Certain objects
 have special effects when thrown as well.
 
 Help on skill: Tracking.
@@ -3681,8 +3925,8 @@ Usage duration: automatic.
 Skill type: neutral.
 Of the attack spells currently known to the spellcasting guilds of the realm,
 a great number are released from the caster's body and travel in a physical path
-towards the intended victim.  When this is true, and depending upon the spell,
-it may be possible for someone to tumble and avoid the spell entirely.  This of
+towards the intended victim. When this is true, and depending upon the spell,
+it may be possible for someone to tumble and avoid the spell entirely. This of
 course requires extensive training, and even then is a risky thing to rely on,
 since these spells are designed to hit the target, not to be avoided.
 
@@ -3777,7 +4021,7 @@ Skill type: Attack.
 Affecting stat(s): str, con and skill percentage.
 This brutal skill is used by many of the realm's undead to draw
 sustanance from a living soul, thereby prolonging their own vile
-existance.  The target of such an attack will be leeched of some
+existance. The target of such an attack will be leeched of some
 of his health, which in turn will be given to the undead.
 
 Help on skill: Wandmaking.
@@ -3785,7 +4029,7 @@ Usage duration: 30.
 Skill type: neutral.
 Affecting stat(s): wis and dex.
 This skill allows you to create a wand charged with one of your known
-spells.  To use this skill you need to have a wand of nothing in your
+spells. To use this skill you need to have a wand of nothing in your
 inventory and your target spell at a minimum of 60%.
 Syntax: use wandmaking at <spell>.
 
@@ -3936,15 +4180,15 @@ Skill type: Attack.
 With this basic polearm fighting skill, the warrior swings his weapon
 quickly about himself, attempting to hack and/or pierce his enemy.
 The main use of this skill is to setup some of the more intricate hits
-that the fighter can accomplish.  Wild blow is known to fail much
+that the fighter can accomplish. Wild blow is known to fail much
 more frequently than most other polearm fighting skills, as it relies
 more on blind luck than on pure skill.
 
-Help on skill: Wilderness survival.
-Usage duration: automatic.
-Skill type: special.
-This skill increased the effectiveness of camping, hunting, and fire
-building.
+Help on skill: Wilderness survival
+Usage duration: automatic
+Skill type: special
+This skill increased the effectiveness of camping, hunting, foraging
+and fire building.
 
 Help on skill: Will of god.
 Usage duration: automatic.
@@ -3995,3 +4239,29 @@ magically charged wands that are popular especially within the Mage
 guild. These wands are often enchanted and sold, the benefits of
 them are without question.
 It is automatically in use.
+
+Help on skill: Zhinakoku
+Usage duration: automatic
+Skill type: special
+Zhinakoku is the word that describes the deeper reflections of the Way
+of the Samurai. It is a reflection within action, and action through honor.
+Once this path is understood, the samurai can employ its teachings in all
+aspects of their warcraft. It aids them in the construction of the deadly
+shuriken, their skillful usage and it also enables them to focus their being
+in a single devastating attack, known only as Kiru.
+
+Help on skill:  Silent movement
+Usage duration: automatic
+Skill type:     special
+Silent movement is an aspect of Ninjutsu. It is the way of assassins to
+approach their targets without sound, unheard until the very last moment.
+While the Ninja focus in methods of assasination and combat in their studies
+rather than stealth, this skill complements the samurai magical walking
+techniques, and makes it possible for the Ninja to move in secret while
+walking magically. In combat, the art of silent movement makes the Ninja's
+foot movement harder to anticipate, which creates openings for additional
+headcuts and tameshivars and aids in the art of Tebukuro kenjutsu. Many of
+the legendary Master Ninjas have later continued their training in stealth
+by joining the Guild of Thieves. This has allowed them to achieve perfect
+understanding in the ways of the silent blade.
+

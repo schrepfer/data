@@ -1,4 +1,4 @@
-Updated 2005.11.23
+Updated 2011.04.13
 
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
@@ -60,7 +60,7 @@ Updated 2005.11.23
 |     | Poison resistance(1), Physical resistance(1)                    |
 `-----------------------------------------------------------------------'
 
-info full
+
 ------------------------------------------------------.
 
 Level 1 abilities:
@@ -71,9 +71,12 @@ May study spell cure serious wounds to 10%
 May study spell darkness to 10%
 May study spell light to 10%
 May study spell regeneration to 10%
-May train skill skill that saves sp to 5%
-May train skill consider to 10%
 May train skill first aid to 10%
+May train skill consider to 10%
+May train skill skill that saves sp to 5%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 2 abilities:
@@ -84,9 +87,12 @@ May study spell cure serious wounds to 20%
 May study spell darkness to 20%
 May study spell light to 20%
 May study spell regeneration to 20%
-May train skill tinning to 10%
 May train skill skill that saves sp to 10%
 May train skill essence eye to 5%
+May train skill tinning to 10%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 3 abilities:
@@ -98,10 +104,13 @@ May study spell darkness to 40%
 May study spell healing smoke to 5%
 May study spell light to 40%
 May study spell regeneration to 30%
-May train skill skill that saves sp to 15%
-May train skill consider to 35%
-May train skill healing resonance to 5%
 May train skill first aid to 25%
+May train skill consider to 35%
+May train skill skill that saves sp to 15%
+May train skill healing resonance to 5%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 4 abilities:
@@ -116,6 +125,9 @@ May study spell regeneration to 40%
 May train skill skill that saves sp to 20%
 May train skill tinning to 35%
 May train skill flow of life to 5%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 5 abilities:
@@ -134,11 +146,14 @@ May study spell remove poison to 5%
 May study spell remove scar to 5%
 May study spell shelter to 5%
 May study spell shield of protection to 10%
-May train skill skill that saves sp to 25%
-May train skill essence eye to 10%
 May train skill consider to 45%
 May train skill healing resonance to 10%
 May train skill dodge to 5%
+May train skill skill that saves sp to 25%
+May train skill essence eye to 10%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 6 abilities:
@@ -150,11 +165,14 @@ May study spell minor transfer to 20%
 May study spell regeneration to 60%
 May study spell shield of protection to 15%
 May study spell teleport with error to 5%
+May train skill quick chant to 5%
+May train skill first aid to 35%
 May train skill skill that saves sp to 30%
 May train skill essence eye to 15%
 May train skill tinning to 45%
-May train skill quick chant to 5%
-May train skill first aid to 35%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 7 abilities:
@@ -172,14 +190,17 @@ May study spell relocate to 5%
 May study spell sex change to 5%
 May study spell shield of protection to 20%
 May study spell transfer damage to 10%
-May train skill essence eye to 20%
-May train skill skill that saves sp to 35%
-May train skill mastery of medicine to 5%
 May train skill consider to 65%
-May train skill healing resonance to 15%
+May train skill mastery of medicine to 5%
 May train skill prepare potion to 5%
+May train skill healing resonance to 15%
 May train skill first aid to 45%
+May train skill skill that saves sp to 35%
+May train skill essence eye to 20%
 May train skill flow of life to 10%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 8 abilities:
@@ -195,10 +216,13 @@ May study spell remove scar to 10%
 May study spell shield of protection to 25%
 May study spell teleport without error to 10%
 May study spell transfer damage to 15%
-May train skill tinning to 65%
 May train skill essence eye to 25%
-May train skill skill that saves sp to 40%
 May train skill quick chant to 10%
+May train skill skill that saves sp to 40%
+May train skill tinning to 65%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 9 abilities:
@@ -214,12 +238,15 @@ May study spell regeneration to 85%
 May study spell remove scar to 20%
 May study spell shield of protection to 30%
 May study spell transfer damage to 20%
-May train skill essence eye to 35%
-May train skill skill that saves sp to 45%
 May train skill consider to 75%
-May train skill prepare potion to 10%
 May train skill enhance features to 10%
+May train skill prepare potion to 10%
 May train skill first aid to 55%
+May train skill skill that saves sp to 45%
+May train skill essence eye to 35%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 10 abilities:
@@ -245,12 +272,17 @@ May study spell remove scar to 30%
 May study spell shelter to 10%
 May study spell shield of protection to 40%
 May study spell transfer damage to 25%
-May train skill skill that saves sp to 50%
-May train skill leadership to 10%
-May train skill optimize transfer to 5%
 May train skill healing resonance to 30%
+May train skill optimize transfer to 5%
+May train skill skill that saves sp to 50%
 May train skill dodge to 10%
+May train skill leadership to 10%
 May train skill flow of life to 15%
+------------------------------------------------------.
+
+
+
+
 ------------------------------------------------------.
 
 Level 11 abilities:
@@ -269,9 +301,13 @@ May study spell remove scar to 40%
 May study spell sex change to 10%
 May study spell shield of protection to 50%
 May study spell transfer damage to 30%
-May train skill essence eye to 45%
 May train skill first aid to 65%
 May train skill quick chant to 15%
+May train skill essence eye to 45%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 12 abilities:
@@ -293,12 +329,17 @@ May study spell teleport with error to 10%
 May study spell teleport without error to 15%
 May study spell transfer damage to 40%
 May study spell true transfer to 5%
-May train skill skill that saves sp to 60%
-May train skill essence eye to 65%
 May train skill quick chant to 20%
 May train skill prepare potion to 15%
 May train skill first aid to 80%
+May train skill skill that saves sp to 60%
+May train skill essence eye to 65%
 May train skill flow of life to 30%
+------------------------------------------------------.
+
+
+
+
 ------------------------------------------------------.
 
 Level 13 abilities:
@@ -315,12 +356,16 @@ May study spell minor unpain to 55%
 May study spell poison fend to 10%
 May study spell sex change to 15%
 May study spell shield of protection to 70%
+May train skill enhance features to 25%
+May train skill prepare potion to 20%
+May train skill first aid to 100%
 May train skill essence eye to 75%
 May train skill skill that saves sp to 70%
 May train skill leadership to 25%
-May train skill prepare potion to 20%
-May train skill enhance features to 25%
-May train skill first aid to 100%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 14 abilities:
@@ -340,10 +385,14 @@ May study spell shelter to 15%
 May study spell shield of protection to 80%
 May study spell transfer damage to 50%
 May study spell true transfer to 10%
-May train skill essence eye to 85%
 May train skill mastery of medicine to 10%
-May train skill healing resonance to 35%
+May train skill essence eye to 85%
 May train skill prepare potion to 25%
+May train skill healing resonance to 35%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 15 abilities:
@@ -366,13 +415,17 @@ May study spell remove poison to 25%
 May study spell sex change to 20%
 May study spell teleport with error to 15%
 May study spell transfer damage to 60%
-May train skill healing efficiency to 5%
-May train skill skill that saves sp to 80%
-May train skill zapping to 5%
 May train skill quick chant to 25%
+May train skill zapping to 5%
 May train skill prepare potion to 30%
-May train skill flow of life to 35%
 May train skill dodge to 15%
+May train skill skill that saves sp to 80%
+May train skill healing efficiency to 5%
+May train skill flow of life to 35%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 16 abilities:
@@ -394,10 +447,13 @@ May study spell shield of protection to 90%
 May study spell teleport without error to 20%
 May study spell transfer damage to 70%
 May study spell true transfer to 15%
-May train skill essence eye to 100%
-May train skill zapping to 10%
 May train skill optimize transfer to 10%
+May train skill zapping to 10%
+May train skill essence eye to 100%
 May train skill healing resonance to 40%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 17 abilities:
@@ -418,11 +474,14 @@ May study spell relocate to 30%
 May study spell sex change to 25%
 May study spell teleport with error to 20%
 May study spell true distant transfer to 5%
-May train skill skill that saves sp to 90%
 May train skill zapping to 15%
 May train skill quick chant to 30%
 May train skill prepare potion to 35%
+May train skill skill that saves sp to 90%
 May train skill flow of life to 40%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 18 abilities:
@@ -446,8 +505,11 @@ May study spell shelter to 20%
 May study spell shield of protection to 95%
 May study spell teleport without error to 25%
 May study spell true transfer to 20%
-May train skill healing resonance to 45%
 May train skill contemplate harmony to 5%
+May train skill healing resonance to 45%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 19 abilities:
@@ -467,9 +529,13 @@ May study spell relocate to 35%
 May study spell sex change to 30%
 May study spell transfer damage to 80%
 May study spell true distant transfer to 10%
-May train skill leadership to 45%
 May train skill enhance features to 45%
+May train skill leadership to 45%
 May train skill flow of life to 45%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 20 abilities:
@@ -497,14 +563,18 @@ May study spell stun resistance to 10%
 May study spell true distant heal to 5%
 May study spell true distant transfer to 20%
 May study spell true transfer to 25%
-May train skill healing efficiency to 10%
-May train skill skill that saves sp to 100%
-May train skill zapping to 20%
 May train skill quick chant to 35%
-May train skill contemplate harmony to 10%
-May train skill healing resonance to 50%
+May train skill zapping to 20%
 May train skill prepare potion to 40%
+May train skill healing resonance to 50%
 May train skill dodge to 20%
+May train skill skill that saves sp to 100%
+May train skill healing efficiency to 10%
+May train skill contemplate harmony to 10%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 21 abilities:
@@ -524,10 +594,14 @@ May study spell sex change to 40%
 May study spell stun resistance to 20%
 May study spell teleport with error to 25%
 May study spell transfer damage to 90%
-May train skill contemplate harmony to 15%
 May train skill mastery of medicine to 15%
+May train skill contemplate harmony to 15%
 May train skill healing resonance to 55%
 May train skill flow of life to 50%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 22 abilities:
@@ -553,6 +627,10 @@ May study spell true transfer to 30%
 May train skill healing resonance to 60%
 ------------------------------------------------------.
 
+
+
+------------------------------------------------------.
+
 Level 23 abilities:
 May study spell half heal to 65%
 May study spell harmony armour to 60%
@@ -567,12 +645,16 @@ May study spell relocate to 45%
 May study spell sex change to 60%
 May study spell stun resistance to 40%
 May study spell true distant transfer to 45%
-May train skill leadership to 55%
-May train skill quick chant to 40%
-May train skill healing resonance to 65%
-May train skill prepare potion to 45%
-May train skill flow of life to 55%
 May train skill enhance features to 55%
+May train skill quick chant to 40%
+May train skill prepare potion to 45%
+May train skill healing resonance to 65%
+May train skill leadership to 55%
+May train skill flow of life to 55%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 24 abilities:
@@ -593,9 +675,13 @@ May study spell stun resistance to 45%
 May study spell teleport without error to 35%
 May study spell transfer damage to 100%
 May study spell true transfer to 35%
-May train skill contemplate harmony to 20%
 May train skill optimize transfer to 15%
 May train skill healing resonance to 70%
+May train skill contemplate harmony to 20%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 25 abilities:
@@ -618,13 +704,17 @@ May study spell stun resistance to 50%
 May study spell teleport with error to 30%
 May study spell true distant heal to 20%
 May study spell true unpain to 5%
-May train skill healing efficiency to 15%
-May train skill zapping to 25%
 May train skill quick chant to 45%
-May train skill attend wounds to 10%
-May train skill healing resonance to 75%
+May train skill zapping to 25%
 May train skill prepare potion to 50%
+May train skill healing resonance to 75%
 May train skill dodge to 25%
+May train skill attend wounds to 10%
+May train skill healing efficiency to 15%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 26 abilities:
@@ -643,10 +733,14 @@ May study spell teleport without error to 40%
 May study spell true distant transfer to 50%
 May study spell true transfer to 40%
 May study spell true unpain to 10%
+May train skill enhance features to 65%
 May train skill leadership to 65%
 May train skill healing resonance to 80%
-May train skill enhance features to 65%
 May train skill flow of life to 60%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 27 abilities:
@@ -667,10 +761,14 @@ May study spell sex change to 95%
 May study spell stun resistance to 60%
 May study spell true distant heal to 25%
 May study spell true unpain to 15%
+May train skill quick chant to 50%
+May train skill prepare potion to 55%
 May train skill contemplate harmony to 25%
 May train skill healing resonance to 85%
-May train skill prepare potion to 55%
-May train skill quick chant to 50%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 28 abilities:
@@ -681,10 +779,13 @@ May study spell stun resistance to 65%
 May study spell teleport without error to 50%
 May study spell true transfer to 45%
 May study spell true unpain to 20%
-May train skill zapping to 30%
-May train skill mastery of medicine to 20%
-May train skill healing resonance to 90%
 May train skill attend wounds to 25%
+May train skill mastery of medicine to 20%
+May train skill zapping to 30%
+May train skill healing resonance to 90%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 29 abilities:
@@ -700,8 +801,11 @@ May study spell stun resistance to 70%
 May study spell true distant heal to 35%
 May study spell true transfer to 50%
 May study spell true unpain to 25%
-May train skill healing resonance to 95%
 May train skill contemplate harmony to 30%
+May train skill healing resonance to 95%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 30 abilities:
@@ -721,16 +825,19 @@ May study spell true distant heal to 40%
 May study spell true distant transfer to 55%
 May study spell true transfer to 55%
 May study spell true unpain to 30%
-May train skill flow of life to 65%
 May train skill enhance features to 75%
+May train skill quick chant to 55%
+May train skill prepare potion to 60%
+May train skill healing resonance to 100%
+May train skill flow of life to 65%
+May train skill healing efficiency to 20%
 May train skill zapping to 35%
 May train skill leadership to 75%
-May train skill healing efficiency to 20%
-May train skill quick chant to 55%
-May train skill attend wounds to 35%
-May train skill healing resonance to 100%
-May train skill prepare potion to 60%
 May train skill dodge to 30%
+May train skill attend wounds to 35%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 31 abilities:
@@ -749,6 +856,9 @@ May study spell true unpain to 35%
 May train skill contemplate harmony to 35%
 ------------------------------------------------------.
 
+
+------------------------------------------------------.
+
 Level 32 abilities:
 May study spell blurred image to 65%
 May study spell heal body to 35%
@@ -764,6 +874,9 @@ May train skill optimize transfer to 20%
 May train skill mastery of medicine to 25%
 ------------------------------------------------------.
 
+
+------------------------------------------------------.
+
 Level 33 abilities:
 May study spell create healing potion to 65%
 May study spell lesser party heal to 100%
@@ -775,9 +888,12 @@ May study spell true transfer to 75%
 May study spell true unpain to 45%
 May train skill zapping to 40%
 May train skill quick chant to 60%
-May train skill contemplate harmony to 40%
 May train skill prepare potion to 65%
 May train skill flow of life to 70%
+May train skill contemplate harmony to 40%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 34 abilities:
@@ -795,6 +911,9 @@ May train skill enhance features to 85%
 May train skill leadership to 85%
 ------------------------------------------------------.
 
+
+------------------------------------------------------.
+
 Level 35 abilities:
 May study spell create healing potion to 70%
 May study spell dimension door to 35%
@@ -809,13 +928,16 @@ May study spell stun resistance to 100%
 May study spell true transfer to 85%
 May study spell true unpain to 55%
 May study spell venom fend to 10%
-May train skill healing efficiency to 25%
-May train skill zapping to 45%
 May train skill quick chant to 65%
-May train skill attend wounds to 45%
-May train skill contemplate harmony to 45%
+May train skill zapping to 45%
 May train skill prepare potion to 70%
 May train skill dodge to 35%
+May train skill attend wounds to 45%
+May train skill healing efficiency to 25%
+May train skill contemplate harmony to 45%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 36 abilities:
@@ -835,6 +957,9 @@ May study spell venom fend to 15%
 May train skill flow of life to 75%
 ------------------------------------------------------.
 
+
+------------------------------------------------------.
+
 Level 37 abilities:
 May study spell cure blindness to 85%
 May study spell major distant heal to 95%
@@ -845,9 +970,12 @@ May study spell teleport with error to 55%
 May study spell true distant heal to 55%
 May study spell true transfer to 95%
 May study spell true unpain to 65%
-May train skill contemplate harmony to 50%
 May train skill optimize transfer to 25%
 May train skill prepare potion to 75%
+May train skill contemplate harmony to 50%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 38 abilities:
@@ -866,11 +994,14 @@ May study spell true distant heal to 60%
 May study spell true distant transfer to 70%
 May study spell true transfer to 100%
 May study spell true unpain to 70%
-May train skill leadership to 95%
+May train skill enhance features to 95%
 May train skill quick chant to 70%
+May train skill leadership to 95%
 May train skill attend wounds to 55%
 May train skill contemplate harmony to 55%
-May train skill enhance features to 95%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 39 abilities:
@@ -882,10 +1013,13 @@ May study spell poison fend to 60%
 May study spell true unpain to 75%
 May study spell venom fend to 25%
 May train skill mastery of medicine to 30%
-May train skill contemplate harmony to 60%
 May train skill prepare potion to 80%
 May train skill dodge to 40%
 May train skill flow of life to 80%
+May train skill contemplate harmony to 60%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 40 abilities:
@@ -903,12 +1037,15 @@ May study spell true distant heal to 65%
 May study spell true distant transfer to 75%
 May study spell true unpain to 80%
 May study spell venom fend to 35%
-May train skill leadership to 100%
+May train skill enhance features to 100%
 May train skill zapping to 60%
-May train skill healing efficiency to 35%
 May train skill quick chant to 75%
 May train skill prepare potion to 85%
-May train skill enhance features to 100%
+May train skill leadership to 100%
+May train skill healing efficiency to 35%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 41 abilities:
@@ -921,11 +1058,14 @@ May study spell summon to 20%
 May study spell true distant transfer to 80%
 May study spell true unpain to 85%
 May study spell venom fend to 45%
-May train skill attend wounds to 65%
 May train skill quick chant to 80%
-May train skill contemplate harmony to 65%
 May train skill optimize transfer to 30%
+May train skill attend wounds to 65%
 May train skill flow of life to 85%
+May train skill contemplate harmony to 65%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 42 abilities:
@@ -943,6 +1083,9 @@ May train skill flow of life to 90%
 May train skill quick chant to 85%
 ------------------------------------------------------.
 
+
+------------------------------------------------------.
+
 Level 43 abilities:
 May study spell create healing potion to 90%
 May study spell greater party heal to 75%
@@ -955,12 +1098,16 @@ May study spell true distant heal to 75%
 May study spell true distant transfer to 90%
 May study spell true unpain to 95%
 May study spell venom fend to 65%
-May train skill mastery of medicine to 35%
 May train skill quick chant to 90%
+May train skill mastery of medicine to 35%
+May train skill prepare potion to 90%
 May train skill attend wounds to 75%
 May train skill contemplate harmony to 70%
-May train skill prepare potion to 90%
 May train skill flow of life to 95%
+------------------------------------------------------.
+
+
+
 ------------------------------------------------------.
 
 Level 44 abilities:
@@ -974,9 +1121,12 @@ May study spell true distant transfer to 95%
 May study spell true unpain to 100%
 May study spell venom fend to 75%
 May train skill optimize transfer to 35%
-May train skill prepare potion to 95%
 May train skill quick chant to 95%
+May train skill prepare potion to 95%
 May train skill flow of life to 100%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 45 abilities:
@@ -991,14 +1141,15 @@ May study spell shelter to 75%
 May study spell true distant heal to 90%
 May study spell true distant transfer to 100%
 May study spell venom fend to 100%
-May train skill healing efficiency to 50%
-May train skill zapping to 75%
 May train skill quick chant to 100%
-May train skill attend wounds to 85%
-May train skill contemplate harmony to 75%
+May train skill zapping to 75%
 May train skill prepare potion to 100%
 May train skill dodge to 50%
+May train skill attend wounds to 85%
+May train skill healing efficiency to 50%
+May train skill contemplate harmony to 75%
 ------------------------------------------------------.
+
 
 Subguilds:
 Harmonizers 9

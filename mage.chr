@@ -1,4 +1,4 @@
-Updated 2007.11.18
+Updated 2011.04.13
 
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
@@ -144,12 +144,12 @@ May study spell magic missile to 60%
 May study spell shocking grasp to 100%
 May study spell teleport with error to 10%
 May study spell water walking to 45%
-May train skill essence eye to 10%
-May train skill skill that saves sp to 15%
-May train skill create illusion to 15%
 May train skill appraise to 20%
 May train skill consider to 55%
 May train skill offensive efficiency to 15%
+May train skill essence eye to 10%
+May train skill create illusion to 15%
+May train skill skill that saves sp to 15%
 ------------------------------------------------------.
 
 Level 6 abilities:
@@ -161,8 +161,8 @@ May study spell infravision to 25%
 May study spell light to 90%
 May study spell magic missile to 75%
 May train skill consider to 65%
-May train skill tinning to 35%
 May train skill stunning blow to 5%
+May train skill tinning to 35%
 ------------------------------------------------------.
 
 Level 7 abilities:
@@ -211,10 +211,10 @@ May study spell floating letters to 100%
 May study spell identify to 75%
 May study spell infravision to 55%
 May study spell water walking to 75%
-May train skill essence eye to 35%
+May train skill consider to 100%
 May train skill attack to 15%
 May train skill appraise to 45%
-May train skill consider to 100%
+May train skill essence eye to 35%
 May train skill interrupting force to 10%
 May train skill tinning to 55%
 ------------------------------------------------------.
@@ -248,11 +248,11 @@ May study spell summon familiar to 10%
 May study spell summon phantom warriors to 10%
 May study spell teleport with error to 35%
 May study spell word of recall to 15%
-May train skill skill that saves sp to 25%
-May train skill create illusion to 25%
-May train skill quick chant to 10%
 May train skill appraise to 65%
+May train skill quick chant to 10%
 May train skill offensive efficiency to 20%
+May train skill create illusion to 25%
+May train skill skill that saves sp to 25%
 ------------------------------------------------------.
 
 Level 11 abilities:
@@ -270,16 +270,16 @@ May study spell lightning bolt to 20%
 May study spell magical preference to 15%
 May study spell spacial barrier to 15%
 May study spell water walking to 85%
-May train skill essence eye to 45%
-May train skill fire enchanting to 5%
-May train skill weapon skill 2h staff to 10%
-May train skill weapon skill 1h staff to 10%
 May train skill appraise to 75%
-May train skill weapon skill 2h dagger to 10%
-May train skill stunning blow to 10%
 May train skill weapon skill 1h dagger to 10%
-May train skill tinning to 65%
+May train skill stunning blow to 10%
 May train skill magical enchanting to 5%
+May train skill fire enchanting to 5%
+May train skill tinning to 65%
+May train skill weapon skill 1h staff to 10%
+May train skill weapon skill 2h dagger to 10%
+May train skill weapon skill 2h staff to 10%
+May train skill essence eye to 45%
 ------------------------------------------------------.
 
 Level 12 abilities:
@@ -331,16 +331,16 @@ May study spell power blast to 20%
 May study spell see magic to 30%
 May study spell spacial barrier to 25%
 May study spell teleport with error to 55%
-May train skill skill that saves sp to 45%
-May train skill essence eye to 75%
+May train skill appraise to 100%
+May train skill attack to 25%
+May train skill weapon skill 1h dagger to 25%
+May train skill create illusion to 45%
+May train skill tinning to 100%
+May train skill weapon skill 2h dagger to 25%
 May train skill weapon skill 1h staff to 25%
 May train skill weapon skill 2h staff to 25%
-May train skill appraise to 100%
-May train skill weapon skill 2h dagger to 25%
-May train skill attack to 25%
-May train skill create illusion to 45%
-May train skill weapon skill 1h dagger to 25%
-May train skill tinning to 100%
+May train skill skill that saves sp to 45%
+May train skill essence eye to 75%
 ------------------------------------------------------.
 
 Level 14 abilities:
@@ -388,13 +388,13 @@ May study spell see magic to 40%
 May study spell shelter to 35%
 May study spell summon familiar to 35%
 May study spell teleport with error to 85%
-May train skill skill that saves sp to 55%
 May train skill mastery of illusion to 10%
-May train skill quick chant to 25%
 May train skill attack to 35%
-May train skill create illusion to 55%
-May train skill randomize preference to 10%
+May train skill quick chant to 25%
 May train skill offensive efficiency to 25%
+May train skill randomize preference to 10%
+May train skill skill that saves sp to 55%
+May train skill create illusion to 55%
 ------------------------------------------------------.
 
 Level 16 abilities:
@@ -429,12 +429,12 @@ May study spell see magic to 50%
 May study spell shelter to 40%
 May study spell summon familiar to 45%
 May study spell teleport with error to 100%
+May train skill weapon skill 2h staff to 35%
 May train skill weapon skill 2h dagger to 35%
-May train skill skill that saves sp to 65%
-May train skill create illusion to 65%
 May train skill weapon skill 1h dagger to 35%
 May train skill weapon skill 1h staff to 35%
-May train skill weapon skill 2h staff to 35%
+May train skill skill that saves sp to 65%
+May train skill create illusion to 65%
 ------------------------------------------------------.
 
 Level 18 abilities:
@@ -468,13 +468,13 @@ May study spell lesser magical invulnerability to 65%
 May study spell see invisible to 90%
 May study spell summon familiar to 65%
 May study spell word of recall to 75%
+May train skill weapon skill 2h staff to 45%
 May train skill weapon skill 2h dagger to 45%
+May train skill weapon skill 1h dagger to 45%
+May train skill weapon skill 1h staff to 45%
 May train skill skill that saves sp to 75%
 May train skill create illusion to 75%
 May train skill interrupting force to 20%
-May train skill weapon skill 1h dagger to 45%
-May train skill weapon skill 1h staff to 45%
-May train skill weapon skill 2h staff to 45%
 ------------------------------------------------------.
 
 Level 20 abilities:
@@ -511,15 +511,15 @@ May study spell summon phantom warriors to 20%
 May study spell teleport without error to 10%
 May study spell water breathing to 5%
 May study spell word of recall to 85%
-May train skill mastery of illusion to 20%
-May train skill skill that saves sp to 90%
-May train skill spacial manipulation to 10%
+May train skill attack to 65%
 May train skill quick chant to 35%
+May train skill create illusion to 90%
+May train skill spacial manipulation to 10%
+May train skill mastery of illusion to 20%
+May train skill offensive efficiency to 30%
 May train skill focus power to 10%
 May train skill randomize preference to 20%
-May train skill attack to 65%
-May train skill create illusion to 90%
-May train skill offensive efficiency to 30%
+May train skill skill that saves sp to 90%
 ------------------------------------------------------.
 
 Level 21 abilities:
@@ -530,14 +530,14 @@ May study spell firebolt to 70%
 May study spell lesser magical invulnerability to 75%
 May study spell summon familiar to 100%
 May study spell word of recall to 100%
-May train skill weapon skill 2h dagger to 60%
-May train skill skill that saves sp to 100%
 May train skill stunning blow to 20%
-May train skill focus power to 20%
-May train skill create illusion to 100%
+May train skill weapon skill 2h staff to 60%
+May train skill weapon skill 2h dagger to 60%
 May train skill weapon skill 1h dagger to 60%
 May train skill weapon skill 1h staff to 60%
-May train skill weapon skill 2h staff to 60%
+May train skill focus power to 20%
+May train skill skill that saves sp to 100%
+May train skill create illusion to 100%
 ------------------------------------------------------.
 
 Level 22 abilities:
@@ -560,15 +560,15 @@ May study spell see magic to 85%
 May study spell shelter to 75%
 May study spell spacial barrier to 40%
 May study spell water breathing to 10%
-May train skill focus power to 30%
-May train skill fire enchanting to 35%
-May train skill weapon skill 2h staff to 75%
-May train skill weapon skill 1h staff to 75%
-May train skill weapon skill 2h dagger to 75%
 May train skill attack to 75%
-May train skill damage analysis to 5%
 May train skill weapon skill 1h dagger to 75%
 May train skill magical enchanting to 35%
+May train skill fire enchanting to 35%
+May train skill weapon skill 2h dagger to 75%
+May train skill weapon skill 1h staff to 75%
+May train skill weapon skill 2h staff to 75%
+May train skill damage analysis to 5%
+May train skill focus power to 30%
 ------------------------------------------------------.
 
 Level 23 abilities:
@@ -601,11 +601,11 @@ May study spell relocate to 65%
 May study spell spacial barrier to 45%
 May study spell teleport without error to 25%
 May study spell water breathing to 15%
-May train skill focus power to 50%
 May train skill damage analysis to 10%
+May train skill magical enchanting to 45%
+May train skill focus power to 50%
 May train skill fire enchanting to 45%
 May train skill interrupting force to 25%
-May train skill magical enchanting to 45%
 ------------------------------------------------------.
 
 Level 25 abilities:
@@ -619,17 +619,17 @@ May study spell lesser magical invulnerability to 100%
 May study spell see magic to 100%
 May study spell shelter to 85%
 May study spell summon phantom warriors to 30%
-May train skill mastery of illusion to 30%
+May train skill weapon skill 1h dagger to 85%
 May train skill quick chant to 45%
-May train skill spacial manipulation to 30%
-May train skill focus power to 60%
 May train skill wandmaking to 10%
-May train skill randomize preference to 30%
+May train skill spacial manipulation to 30%
+May train skill weapon skill 2h dagger to 85%
+May train skill mastery of illusion to 30%
 May train skill weapon skill 1h staff to 85%
 May train skill weapon skill 2h staff to 85%
-May train skill weapon skill 2h dagger to 85%
-May train skill weapon skill 1h dagger to 85%
+May train skill focus power to 60%
 May train skill offensive efficiency to 35%
+May train skill randomize preference to 30%
 ------------------------------------------------------.
 
 Level 26 abilities:
@@ -645,9 +645,9 @@ May study spell mirror image to 100%
 May study spell summon phantom warriors to 40%
 May study spell teleport without error to 35%
 May study spell water breathing to 20%
+May train skill stunning blow to 25%
 May train skill damage analysis to 20%
 May train skill focus power to 70%
-May train skill stunning blow to 25%
 ------------------------------------------------------.
 
 Level 27 abilities:
@@ -659,8 +659,8 @@ May study spell poison preference to 10%
 May study spell remove preference to 45%
 May study spell shelter to 100%
 May study spell summon phantom warriors to 50%
-May train skill channel power to 5%
 May train skill focus power to 80%
+May train skill channel power to 5%
 ------------------------------------------------------.
 
 Level 28 abilities:
@@ -692,11 +692,11 @@ May study spell hellfire to 25%
 May study spell poison preference to 15%
 May study spell summon phantom warriors to 80%
 May train skill damage analysis to 25%
-May train skill focus power to 100%
+May train skill magical enchanting to 55%
 May train skill channel power to 10%
+May train skill focus power to 100%
 May train skill fire enchanting to 55%
 May train skill interrupting force to 30%
-May train skill magical enchanting to 55%
 ------------------------------------------------------.
 
 Level 30 abilities:
@@ -713,13 +713,13 @@ May study spell remove preference to 60%
 May study spell spacial barrier to 55%
 May study spell summon phantom warriors to 90%
 May study spell water breathing to 30%
-May train skill leadership to 10%
-May train skill mastery of illusion to 40%
-May train skill spacial manipulation to 50%
 May train skill quick chant to 55%
+May train skill mastery of illusion to 40%
 May train skill wandmaking to 35%
-May train skill randomize preference to 40%
 May train skill offensive efficiency to 40%
+May train skill randomize preference to 40%
+May train skill leadership to 10%
+May train skill spacial manipulation to 50%
 ------------------------------------------------------.
 
 Level 31 abilities:
@@ -728,8 +728,8 @@ May study spell meteor storm to 100%
 May study spell relocate to 75%
 May study spell summon phantom warriors to 100%
 May study spell teleport without error to 45%
-May train skill stunning blow to 30%
 May train skill channel power to 15%
+May train skill stunning blow to 30%
 ------------------------------------------------------.
 
 Level 32 abilities:
@@ -776,17 +776,17 @@ May study spell energy hauberk to 40%
 May study spell greater magical invulnerability to 10%
 May study spell killing cloud to 35%
 May study spell summon to 5%
-May train skill mastery of illusion to 50%
-May train skill leadership to 45%
 May train skill quick chant to 65%
-May train skill spacial manipulation to 60%
-May train skill channel power to 25%
-May train skill fire enchanting to 75%
 May train skill wandmaking to 45%
-May train skill zapping to 10%
-May train skill randomize preference to 50%
 May train skill magical enchanting to 75%
+May train skill spacial manipulation to 60%
+May train skill fire enchanting to 75%
+May train skill mastery of illusion to 50%
+May train skill zapping to 10%
+May train skill channel power to 25%
 May train skill offensive efficiency to 45%
+May train skill randomize preference to 50%
+May train skill leadership to 45%
 ------------------------------------------------------.
 
 Level 36 abilities:
@@ -826,8 +826,8 @@ May study spell poison preference to 25%
 May study spell teleport without error to 95%
 May study spell water breathing to 80%
 May train skill leadership to 65%
-May train skill wandmaking to 65%
 May train skill offensive control to 10%
+May train skill wandmaking to 65%
 ------------------------------------------------------.
 
 Level 39 abilities:
@@ -862,16 +862,16 @@ May study spell spacial barrier to 70%
 May study spell summon to 15%
 May study spell teleport without error to 100%
 May study spell water breathing to 100%
-May train skill mastery of illusion to 60%
-May train skill spacial manipulation to 75%
-May train skill offensive control to 20%
-May train skill fire enchanting to 85%
-May train skill zapping to 55%
-May train skill randomize preference to 60%
-May train skill damage analysis to 40%
-May train skill sensory overload to 10%
-May train skill offensive efficiency to 50%
 May train skill magical enchanting to 85%
+May train skill spacial manipulation to 75%
+May train skill fire enchanting to 85%
+May train skill sensory overload to 10%
+May train skill mastery of illusion to 60%
+May train skill zapping to 55%
+May train skill offensive efficiency to 50%
+May train skill damage analysis to 40%
+May train skill randomize preference to 60%
+May train skill offensive control to 20%
 ------------------------------------------------------.
 
 Level 41 abilities:
@@ -879,13 +879,13 @@ May study spell death wish to 30%
 May study spell greater magical invulnerability to 45%
 May study spell invisibility to 65%
 May study spell killing cloud to 65%
-May train skill leadership to 75%
-May train skill offensive control to 25%
 May train skill quick chant to 75%
-May train skill channel power to 40%
 May train skill stunning blow to 40%
-May train skill sensory overload to 20%
 May train skill wandmaking to 75%
+May train skill channel power to 40%
+May train skill leadership to 75%
+May train skill sensory overload to 20%
+May train skill offensive control to 25%
 ------------------------------------------------------.
 
 Level 42 abilities:
@@ -898,11 +898,11 @@ May study spell hellfire to 85%
 May study spell invisibility to 75%
 May study spell killing cloud to 75%
 May study spell power blast to 90%
-May train skill offensive control to 30%
-May train skill fire enchanting to 90%
-May train skill sensory overload to 30%
 May train skill zapping to 65%
 May train skill magical enchanting to 90%
+May train skill fire enchanting to 90%
+May train skill sensory overload to 30%
+May train skill offensive control to 30%
 ------------------------------------------------------.
 
 Level 43 abilities:
@@ -913,12 +913,12 @@ May study spell greater magical invulnerability to 65%
 May study spell invisibility to 85%
 May study spell killing cloud to 85%
 May study spell summon to 20%
+May train skill zapping to 75%
+May train skill quick chant to 90%
+May train skill wandmaking to 85%
+May train skill channel power to 45%
 May train skill leadership to 85%
 May train skill offensive control to 35%
-May train skill quick chant to 90%
-May train skill channel power to 45%
-May train skill wandmaking to 85%
-May train skill zapping to 75%
 ------------------------------------------------------.
 
 Level 44 abilities:
@@ -946,18 +946,20 @@ May study spell invisibility to 100%
 May study spell killing cloud to 100%
 May study spell poison preference to 40%
 May study spell power blast to 100%
-May train skill mastery of illusion to 70%
-May train skill leadership to 100%
-May train skill offensive control to 60%
 May train skill quick chant to 100%
+May train skill wandmaking to 100%
+May train skill magical enchanting to 100%
 May train skill spacial manipulation to 80%
 May train skill fire enchanting to 100%
-May train skill zapping to 100%
-May train skill randomize preference to 75%
-May train skill wandmaking to 100%
 May train skill sensory overload to 50%
-May train skill magical enchanting to 100%
+May train skill mastery of illusion to 70%
+May train skill zapping to 100%
+May train skill leadership to 100%
+May train skill randomize preference to 75%
+May train skill offensive control to 60%
 ------------------------------------------------------.
+
+
 
 Subguilds:
 Master_magicians 10

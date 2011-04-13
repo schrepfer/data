@@ -1,4 +1,4 @@
-Updated 2006.02.10
+Updated 2011.04.13
 
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
@@ -19,7 +19,7 @@ Updated 2006.02.10
 |     | Physical resistance(1)                                          |
 `-----------------------------------------------------------------------'
 
-info full
+
 ------------------------------------------------------.
 
 Level 1 abilities:
@@ -31,6 +31,9 @@ May study spell wyvern watch to 5%
 May train skill arcane focus to 10%
 ------------------------------------------------------.
 
+
+------------------------------------------------------.
+
 Level 2 abilities:
 May study spell alarm to 40%
 May study spell immolate to 10%
@@ -38,6 +41,9 @@ May study spell unholy presence to 60%
 May study spell wyvern watch to 10%
 May train skill arcane focus to 20%
 May train skill arcane lore to 85%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 3 abilities:
@@ -50,6 +56,9 @@ May study spell wyvern watch to 15%
 May train skill arcane focus to 30%
 ------------------------------------------------------.
 
+
+------------------------------------------------------.
+
 Level 4 abilities:
 May study spell alarm to 80%
 May study spell clinging darkness to 10%
@@ -58,6 +67,9 @@ May study spell unholy presence to 70%
 May study spell wyvern watch to 20%
 May train skill arcane focus to 40%
 May train skill arcane lore to 90%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 5 abilities:
@@ -72,6 +84,9 @@ May study spell wyvern watch to 30%
 May train skill arcane focus to 50%
 ------------------------------------------------------.
 
+
+------------------------------------------------------.
+
 Level 6 abilities:
 May study spell cause disease to 10%
 May study spell clinging darkness to 40%
@@ -82,6 +97,9 @@ May study spell were curse to 10%
 May study spell wyvern watch to 40%
 May train skill arcane focus to 60%
 May train skill stunning blow to 5%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 7 abilities:
@@ -95,8 +113,11 @@ May study spell unholy presence to 85%
 May study spell were curse to 25%
 May study spell wyvern watch to 55%
 May train skill arcane focus to 70%
-May train skill arcane lore to 95%
 May train skill stunning blow to 10%
+May train skill arcane lore to 95%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 8 abilities:
@@ -109,6 +130,9 @@ May study spell were curse to 40%
 May study spell wyvern watch to 70%
 May train skill arcane focus to 80%
 May train skill stunning blow to 15%
+------------------------------------------------------.
+
+
 ------------------------------------------------------.
 
 Level 9 abilities:
@@ -124,6 +148,9 @@ May train skill arcane focus to 90%
 May train skill stunning blow to 20%
 ------------------------------------------------------.
 
+
+------------------------------------------------------.
+
 Level 10 abilities:
 May study spell cause disease to 50%
 May study spell clinging darkness to 100%
@@ -134,6 +161,6 @@ May study spell unholy presence to 100%
 May study spell were curse to 80%
 May study spell wyvern watch to 100%
 May train skill arcane focus to 100%
-May train skill arcane lore to 100%
 May train skill stunning blow to 25%
+May train skill arcane lore to 100%
 ------------------------------------------------------.
