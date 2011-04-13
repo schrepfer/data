@@ -14,7 +14,7 @@ The user of this skill has developed enough control
 over their bodies that they can force the pumping of
 adrenaline into their system, causing enhanced physical
 characteristics. These enhancements last only a short
-while, and it is difficult to summon the strength to 
+while, and it is difficult to summon the strength to
 do it again quickly.
 
 Help on skill: Adrenaline rush.
@@ -256,7 +256,7 @@ Usage duration: automatic.
 Skill type: neutral.
 Affecting stat(s): wis and cha.
 This skill will allow you to obtain more information from the
-the spell know your audience. 
+the spell know your audience.
 
 Help on skill: augment darkness
 There is no help available for this skill. (UNKNOWN)
@@ -296,7 +296,7 @@ repertoire. Using the cover provided by the masses of people present, or
 of the shielding obstacles, the assassin approaches his target from behind
 and scores a quick hit, or even three, before the target can react. Based
 on the element of surprise, this skill can not be used in combat..
-Affecting elements: 
+Affecting elements:
 Dex, Str, skills sneak, backstab, attack, anatomy and weapon skill.
 Sharpness, accuracy and damage of the weapon, and the hand it is wielded in.
 Different means of stealth such as invisibility or hiding, carried weight.
@@ -317,7 +317,7 @@ possible to learn the finer points of whirling your cudgel to a point,
 but the rest will come with the knowledge of organs required to balance your
 blows so that maximum damage is inflicted with the minimal loss of momentum.
 The fighters proficient in this skill and mauling can also estimate the
-the amount of momentum their weapons currently have by simply typing: 
+the amount of momentum their weapons currently have by simply typing:
 'momentum'. Higher skill gives more accurate estimations.
 
 Help on skill: Barbs.
@@ -549,7 +549,7 @@ Usage duration: random.
 Skill type: attack.
 This skill is actually a combination of different talents that all
 have to do with being proficient in using different weapons of the ancients
-weapons class. These weapons can be roughly divided to four subcategories: 
+weapons class. These weapons can be roughly divided to four subcategories:
 puncturing weapons, bladed weapons, whips and different bludgeons.
 This skill teaches its master to effectively use all of these odd weapons
 with such deadly force that a skilled brawler is a terror to any opponent.
@@ -790,7 +790,7 @@ Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): wis.
 This skill is checked every time you cast a spell requiring harmony.
-It will decrease the randomness of the spell that is cast 
+It will decrease the randomness of the spell that is cast
 more towards your actual percent in the spell.
 
 Help on skill: Conjure light.
@@ -897,7 +897,7 @@ Help on skill: Cross slash.
 Usage duration: Random.
 Skill type: Attack.
 An extremely potent polearm fighting skill, where a warrior using this
-slashing technique attempts to hit their enemy with it, not once, but 
+slashing technique attempts to hit their enemy with it, not once, but
 twice, dealing double the damage. The use of this skill has been known
 to cause incredible harm to one's foes.
 
@@ -920,10 +920,10 @@ Help on skill: Damage analysis.
 Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): int.
-This skill will allow the caster to have an idea 
-about how much damage the target is taking from 
+This skill will allow the caster to have an idea
+about how much damage the target is taking from
 an offensive spell.
-It is automatically in use.  
+It is automatically in use.
 
 Help on skill: Damage awareness.
 Usage duration: 1.
@@ -965,8 +965,8 @@ but a light touch.
 Help on skill: Deceitful blow.
 Usage duration: Random.
 Skill type: Attack.
-This clever attack, which is derived from the cross slash skill, 
-involves a deceptive attack, which intentionally misses, allowing a 
+This clever attack, which is derived from the cross slash skill,
+involves a deceptive attack, which intentionally misses, allowing a
 powerful blow at the enemy, which is similar to a backhanded strike.
 Successful use of this skill can sometimes confuse one's enemy.
 
@@ -1095,7 +1095,7 @@ The pinnacle of learning for the lancer, when used properly this
 technique allows the warrior to cause massive damage to various
 parts of his opponent's anatomy using a good, sharp edge on his
 weapon. This technique is known to be able to leave enemies both
-confused and stunned when executed by a master, especially when 
+confused and stunned when executed by a master, especially when
 shown in graphic detail.
 
 Help on skill: Distract.
@@ -1151,8 +1151,8 @@ an additional attack will occur.
 Help on skill: Downward strike.
 Usage duration: Random.
 Skill type: Attack.
-This skill allows a polearm wielder to put all their force behind a 
-single downwards, or diagonally downwards, strike with one's weapon, in 
+This skill allows a polearm wielder to put all their force behind a
+single downwards, or diagonally downwards, strike with one's weapon, in
 an attempt to inflict a horrible wound to one's enemy.
 
 Help on skill: Dragon lore.
@@ -1248,7 +1248,7 @@ Affecting stat(s): dex.
 This skill allows you to mold the targets features
 so that they are more pleasing to the eye.  It can
 be quite painful to the target, so make sure they
-are not ill of heart.  It will be more difficult to 
+are not ill of heart.  It will be more difficult to
 enhance an already beautiful person's features.
 
 Help on skill: Enhance tracking.
@@ -1286,7 +1286,7 @@ the spell he/she is casting will go off.
 Help on skill: Establish roost.
 Usage duration: 102.
 Skill type: neutral.
-This skill allows you to establish a pigeon roost.  The 
+This skill allows you to establish a pigeon roost.  The
 higher your skill percent the shorter the time it will
 take to establish your roost.
 
@@ -1560,7 +1560,7 @@ Talisman was forged and awakened.  Note that only the Druid that
 Awakens the Talisman can take advantage of its full power.  Other
 Druids, and Bards, can take good advantage of the Talisman, with
 other guilds being able to take advantage of only some of a Talisman's
-power.  Talisman's can NOT be focused on the following skills/spells: 
+power.  Talisman's can NOT be focused on the following skills/spells:
 awaken talisman
 forge talisman
 leadership
@@ -1584,7 +1584,7 @@ all it's attributes. These forged copies will _NOT_ save over boots, or be
 sold in booths. Selling a forged item as a real one on sales channel is
 considered to be sales cheating just like selling an item and then not giving
 it. The Gods of the realm are not known to punish this, but if a mortal takes
-action towards you because of this, he/she does so with a legimate reason. 
+action towards you because of this, he/she does so with a legimate reason.
 
 Help on skill: Gem placement.
 Usage duration: automatic.
@@ -1632,16 +1632,16 @@ Help on skill: Greater vulnerability.
 Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): wisdom.
-Vulnerabilities are a perversion of the elemental shielding magic 
-abjurers use actively. They are fundamental when dealing with 
-resistant and tough enemies; The realm of Zombiemud is chock full 
-of creatures that have developed impressive resistances against 
-damage. Fortunately the School of Abjuration is equally impressive 
-in their ability to breach these resistances. The vulnerabilities 
-are an advanced form of magic that require much time to master, 
-but are well worth the time put into them. This skill and the 
-spell percents respectively will affect the outcome. 
-It is automatically in use. 
+Vulnerabilities are a perversion of the elemental shielding magic
+abjurers use actively. They are fundamental when dealing with
+resistant and tough enemies; The realm of Zombiemud is chock full
+of creatures that have developed impressive resistances against
+damage. Fortunately the School of Abjuration is equally impressive
+in their ability to breach these resistances. The vulnerabilities
+are an advanced form of magic that require much time to master,
+but are well worth the time put into them. This skill and the
+spell percents respectively will affect the outcome.
+It is automatically in use.
 
 Help on skill: Grounding.
 Usage duration: automatic.
@@ -1701,7 +1701,7 @@ Help on skill: Healing efficiency.
 Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): con.
-This skill is checked every time you cast a healing spell.  It 
+This skill is checked every time you cast a healing spell.  It
 helps make healing spells more efficient.
 
 Help on skill: Healing resonance.
@@ -1956,7 +1956,7 @@ Skill type: special.
 Affecting stat(s): int.
 This skill will allow offensive spells to interrupt the
 targets concentration.
-It is automatically in use.  
+It is automatically in use.
 
 Help on skill: invocation
 There is no help available for this skill. (UNKNOWN)
@@ -2352,7 +2352,7 @@ Help on skill: Mastery of medicine.
 Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): wis.
-This skill is checked every time you cast a healing spell.  It 
+This skill is checked every time you cast a healing spell.  It
 helps increase the max healing done with healing spells.
 
 Help on skill: Mastery of psychokinetics.
@@ -2366,16 +2366,16 @@ Help on skill: Mastery of shielding.
 Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): wisdom.
-Protecting is what abjurers do best. In a world of deadly dungeons 
-and massive monsters an adventurer cherishes any magical warding 
-he can acquire. The mastering of shielding magic is what has made 
-the School of Abjuration revered as they have become a fundamental 
-part of any party seeking to defeat a powerful foe and live to 
-tell about it. This skill represents insight in all the 
-invulnerabilities and will affect their duration and strength. 
-Wisdom and the spell percents of each invulnerability spell 
-respectively will also affect the resulting protection. 
-It is automatically in use. 
+Protecting is what abjurers do best. In a world of deadly dungeons
+and massive monsters an adventurer cherishes any magical warding
+he can acquire. The mastering of shielding magic is what has made
+the School of Abjuration revered as they have become a fundamental
+part of any party seeking to defeat a powerful foe and live to
+tell about it. This skill represents insight in all the
+invulnerabilities and will affect their duration and strength.
+Wisdom and the spell percents of each invulnerability spell
+respectively will also affect the resulting protection.
+It is automatically in use.
 
 Help on skill: Mastery of stealing.
 Usage duration: automatic.
@@ -2590,7 +2590,7 @@ the time required to cast a woven spell.
 Help on skill: Offensive efficiency.
 Usage duration: automatic.
 Skill type: special.
-This skill will help decrease the spell cost of 
+This skill will help decrease the spell cost of
 offensive spells.
 It is automatically in use.
 
@@ -2623,7 +2623,7 @@ Help on skill: Optimize transfer.
 Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): con.
-This skill is checked every time you cast a transfer spell.  It 
+This skill is checked every time you cast a transfer spell.  It
 helps decrease the damage taken by the caster for the healing done.
 
 Help on skill: order from chaos
@@ -2713,10 +2713,10 @@ and skill knowledge.
 Help on skill: Piercing-blows.
 Usage duration: Random.
 Skill type: Attack.
-Much like the polearm skill transpierce, a warrior using this 
+Much like the polearm skill transpierce, a warrior using this
 technique attempts to thrust his weapon into an opponent, causing
 a puncture wound. However, unlike the transpierce skill, the warrior
-attempts to follow up their first strike with another piercing 
+attempts to follow up their first strike with another piercing
 attack, to increase the effect.
 
 Help on skill: Piety.
@@ -2887,7 +2887,7 @@ the fighter's sword may truly dance.
 Help on skill: Psionic efficiency.
 Usage duration: automatic.
 Skill type: special.
-This skill will help decrease the spell cost of 
+This skill will help decrease the spell cost of
 psionicist spells.
 It is automatically in use.
 
@@ -3384,9 +3384,9 @@ Help on skill: Stunning blow.
 Usage duration: automatic.
 Skill type: special.
 Affecting stat(s): int.
-This skill will allow the caster a small chance to 
+This skill will allow the caster a small chance to
 stun his target with good offensive spells.
-It is automatically in use.  
+It is automatically in use.
 
 Help on skill: Stunning force.
 Usage duration: automatic.
@@ -3406,9 +3406,9 @@ Help on skill: Stupor stagger.
 Usage duration: random.
 Skill type: defensive.
 This skill allows you to use a drunken stupor to your
-advantage by allowing your staggering to confuse 
+advantage by allowing your staggering to confuse
 the enemy.  The advantage is dependent on your skill
-percent and the duration is dependent on your 
+percent and the duration is dependent on your
 your intoxication.
 
 Help on skill: Suicide.
@@ -3433,7 +3433,7 @@ Usage duration: Random.
 Skill type: Attack.
 An advanced polearm fighting skill in which the polearm fighter attempts
 to use the pole or even head of his weapon to trip his opponent up so
-that the warrior may deliver some kind of secondary attack, utilizing 
+that the warrior may deliver some kind of secondary attack, utilizing
 their physical upper body strength.
 
 Help on skill: Switch weapon.

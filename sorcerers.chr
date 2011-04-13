@@ -1,112 +1,112 @@
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
 |=====|=================================================================|
-|   1 | Sp(4), Hp(4), Int(2), Wis(1),     |
-|     | Sp_regen(1)                                     |
-|   2 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|   3 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|   4 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Sp_regen(2), Hp_regen(1)          |
-|   5 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|   6 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|   7 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Con(1), Sp_regen(2),                   |
-|     | Hp_regen(1)                                       |
-|   8 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|   9 | Sp(6), Hp(6), Int(3), Wis(2),     |
-|     | Con(1), Sp_regen(2),                   |
-|     | Hp_regen(1)                                       |
-|  10 | Sp(4), Hp(4), Int(2), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|  11 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|  12 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Sp_regen(2), Cold resistance(1),                |
+|   1 | Sp(4), Hp(4), Int(2), Wis(1),                                   |
+|     | Sp_regen(1)                                                     |
+|   2 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|   3 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|   4 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Sp_regen(2), Hp_regen(1)                                        |
+|   5 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|   6 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|   7 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Con(1), Sp_regen(2),                                            |
+|     | Hp_regen(1)                                                     |
+|   8 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|   9 | Sp(6), Hp(6), Int(3), Wis(2),                                   |
+|     | Con(1), Sp_regen(2),                                            |
+|     | Hp_regen(1)                                                     |
+|  10 | Sp(4), Hp(4), Int(2), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|  11 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|  12 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Sp_regen(2), Cold resistance(1),                                |
 |     | Magical resistance(1), Physical resistance(1),                  |
 |     | Electric resistance(1), Asphyxiation resistance(1)              |
-|  13 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Con(1), Sp_regen(2),                   |
-|     | Hp_regen(1)                                       |
-|  14 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|  15 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|  16 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Sp_regen(2), Hp_regen(1)          |
-|  17 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|  18 | Sp(6), Hp(6), Int(3), Wis(2),     |
-|     | Sp_regen(2), Hp_regen(1)          |
-|  19 | Sp(4), Hp(4), Int(2), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|  20 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|  21 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|  22 | Sp(5), Hp(5), Int(2), Wis(1),     |
-|     | Sp_regen(2), Hp_regen(1)          |
-|  23 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Con(1), Sp_regen(2),                   |
+|  13 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Con(1), Sp_regen(2),                                            |
+|     | Hp_regen(1)                                                     |
+|  14 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|  15 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|  16 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Sp_regen(2), Hp_regen(1)                                        |
+|  17 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|  18 | Sp(6), Hp(6), Int(3), Wis(2),                                   |
+|     | Sp_regen(2), Hp_regen(1)                                        |
+|  19 | Sp(4), Hp(4), Int(2), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|  20 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|  21 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|  22 | Sp(5), Hp(5), Int(2), Wis(1),                                   |
+|     | Sp_regen(2), Hp_regen(1)                                        |
+|  23 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Con(1), Sp_regen(2),                                            |
 |     | Cold resistance(1), Magical resistance(1),                      |
 |     | Physical resistance(1), Electric resistance(1),                 |
 |     | Asphyxiation resistance(1)                                      |
-|  24 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|  25 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Con(1), Sp_regen(2),                   |
-|     | Hp_regen(1)                                       |
-|  26 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|  27 | Sp(6), Hp(6), Int(3), Wis(2),     |
-|     | Con(1), Sp_regen(2),                   |
-|     | Hp_regen(1)                                       |
-|  28 | Sp(4), Hp(4), Int(2), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|  29 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|  30 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|  31 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Con(1), Sp_regen(2),                   |
-|     | Hp_regen(1)                                       |
-|  32 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|  33 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|  34 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Sp_regen(2), Hp_regen(1),         |
+|  24 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|  25 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Con(1), Sp_regen(2),                                            |
+|     | Hp_regen(1)                                                     |
+|  26 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|  27 | Sp(6), Hp(6), Int(3), Wis(2),                                   |
+|     | Con(1), Sp_regen(2),                                            |
+|     | Hp_regen(1)                                                     |
+|  28 | Sp(4), Hp(4), Int(2), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|  29 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|  30 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|  31 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Con(1), Sp_regen(2),                                            |
+|     | Hp_regen(1)                                                     |
+|  32 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|  33 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|  34 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Sp_regen(2), Hp_regen(1),                                       |
 |     | Cold resistance(1), Magical resistance(1),                      |
 |     | Physical resistance(1), Electric resistance(1),                 |
 |     | Asphyxiation resistance(1)                                      |
-|  35 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|  36 | Sp(6), Hp(6), Int(3), Wis(2),     |
-|     | Sp_regen(2), Hp_regen(1)          |
-|  37 | Sp(4), Hp(4), Int(2), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|  38 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|  39 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|  40 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Sp_regen(2), Hp_regen(1)          |
-|  41 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Con(1), Sp_regen(2)                    |
-|  42 | Sp(5), Hp(5), Int(2), Wis(2),     |
-|     | Sp_regen(2)                                     |
-|  43 | Sp(5), Hp(5), Int(3), Wis(2),     |
-|     | Con(1), Sp_regen(1),                   |
-|     | Hp_regen(1)                                       |
-|  44 | Sp(5), Hp(5), Int(2), Wis(1),     |
-|     | Sp_regen(2)                                     |
-|  45 | Sp(6), Hp(6), Int(3), Wis(3),     |
-|     | Con(1), Sp_regen(3),                   |
-|     | Hp_regen(1), Cold resistance(1),                  |
+|  35 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|  36 | Sp(6), Hp(6), Int(3), Wis(2),                                   |
+|     | Sp_regen(2), Hp_regen(1)                                        |
+|  37 | Sp(4), Hp(4), Int(2), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|  38 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|  39 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|  40 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Sp_regen(2), Hp_regen(1)                                        |
+|  41 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Con(1), Sp_regen(2)                                             |
+|  42 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
+|     | Sp_regen(2)                                                     |
+|  43 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
+|     | Con(1), Sp_regen(1),                                            |
+|     | Hp_regen(1)                                                     |
+|  44 | Sp(5), Hp(5), Int(2), Wis(1),                                   |
+|     | Sp_regen(2)                                                     |
+|  45 | Sp(6), Hp(6), Int(3), Wis(3),                                   |
+|     | Con(1), Sp_regen(3),                                            |
+|     | Hp_regen(1), Cold resistance(1),                                |
 |     | Magical resistance(1), Physical resistance(1),                  |
 |     | Electric resistance(1), Asphyxiation resistance(1)              |
 `-----------------------------------------------------------------------'

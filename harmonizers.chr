@@ -3,25 +3,25 @@ Updated 2004.01.15
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
 |=====|=================================================================|
-|   1 | Sp(5), Hp(3), Wis(3), Con(1),     |
-|     | Sp_regen(1)                                     |
-|   2 | Sp(6), Hp(4), Wis(3), Con(2),     |
-|     | Sp_regen(2), Poison resistance(1)               |
-|   3 | Sp(6), Hp(4), Wis(4), Con(1),     |
-|     | Sp_regen(2)                                     |
-|   4 | Sp(6), Hp(4), Wis(3), Con(2),     |
-|     | Sp_regen(2), Hp_regen(1),         |
+|   1 | Sp(5), Hp(3), Wis(3), Con(1),                                   |
+|     | Sp_regen(1)                                                     |
+|   2 | Sp(6), Hp(4), Wis(3), Con(2),                                   |
+|     | Sp_regen(2), Poison resistance(1)                               |
+|   3 | Sp(6), Hp(4), Wis(4), Con(1),                                   |
+|     | Sp_regen(2)                                                     |
+|   4 | Sp(6), Hp(4), Wis(3), Con(2),                                   |
+|     | Sp_regen(2), Hp_regen(1),                                       |
 |     | Poison resistance(1)                                            |
-|   5 | Sp(6), Hp(4), Wis(4), Con(1),     |
-|     | Sp_regen(2)                                     |
-|   6 | Sp(6), Hp(4), Wis(3), Con(2),     |
-|     | Sp_regen(2), Poison resistance(1)               |
-|   7 | Sp(6), Hp(4), Wis(4), Con(1),     |
-|     | Sp_regen(2), Hp_regen(1)          |
-|   8 | Sp(6), Hp(4), Wis(3), Con(2),     |
-|     | Sp_regen(2), Poison resistance(1)               |
-|   9 | Sp(7), Hp(5), Wis(4), Con(2),     |
-|     | Sp_regen(3), Hp_regen(1),         |
+|   5 | Sp(6), Hp(4), Wis(4), Con(1),                                   |
+|     | Sp_regen(2)                                                     |
+|   6 | Sp(6), Hp(4), Wis(3), Con(2),                                   |
+|     | Sp_regen(2), Poison resistance(1)                               |
+|   7 | Sp(6), Hp(4), Wis(4), Con(1),                                   |
+|     | Sp_regen(2), Hp_regen(1)                                        |
+|   8 | Sp(6), Hp(4), Wis(3), Con(2),                                   |
+|     | Sp_regen(2), Poison resistance(1)                               |
+|   9 | Sp(7), Hp(5), Wis(4), Con(2),                                   |
+|     | Sp_regen(3), Hp_regen(1),                                       |
 |     | Poison resistance(1)                                            |
 `-----------------------------------------------------------------------'
 

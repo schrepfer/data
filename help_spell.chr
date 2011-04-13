@@ -82,7 +82,7 @@ Damage type: acid.
 Spell words: norbitz burnn arse.
 This spell will decrease the target's
 resistance to acid damage.  The degree of vulnerability
-of this spell is based on your spell % and your 
+of this spell is based on your spell % and your
 percent in greater vulnerability.
 
 Help on spell: Agility boost.
@@ -140,7 +140,7 @@ been animated it has no understanding, it's only kept together by the
 knights willpower. Knight needs to charm the creature before it decides
 to return to the ground. All animated undeads have a decay time which is
 determined by the animators spell %, wisdom and the level of the corpse
-which is being animated. How powerful corpses the knight can animate 
+which is being animated. How powerful corpses the knight can animate
 depends on the intelligence, spell % and skill % of focus death magic.
 
 Help on spell: Animate weapon.
@@ -194,10 +194,10 @@ Spell cost: 375 SPs.
 Spell type: defensive.
 Spell words: major arx magus.
 This spell is a greater invulnerability against magical damage.
-The caster releases a torrent of radiant energy that swirls around 
-the recipient, creating an anti-magic armour that absorbs even 
-the most powerful of magical attacks. As an unfortunate drawback 
-the anti-magic also seems to feed on the mana resources of the 
+The caster releases a torrent of radiant energy that swirls around
+the recipient, creating an anti-magic armour that absorbs even
+the most powerful of magical attacks. As an unfortunate drawback
+the anti-magic also seems to feed on the mana resources of the
 protected occasionally.
 
 Help on spell: Aria of the eagles.
@@ -248,7 +248,7 @@ Damage type: asphyxiation.
 Spell words: norbitz gag gag.
 This spell will decrease the target's
 resistance to asphyxiation damage.  The degree of vulnerability
-of this spell is based on your spell % and your 
+of this spell is based on your spell % and your
 percent in greater vulnerability.
 
 Help on spell: Aura detection.
@@ -328,8 +328,8 @@ Casting time: 2 rounds.
 Spell cost: 101 SPs.
 Spell type: defensive.
 Spell words: crusta velieris.
-This spell enchants the target's skin, turning it into a layer 
-of tough and thick bark. This will provide protection in melee. 
+This spell enchants the target's skin, turning it into a layer
+of tough and thick bark. This will provide protection in melee.
 The protection given depends on the caster's level and spell knowledge.
 
 Help on spell: Barrier of the mind.
@@ -372,13 +372,13 @@ Maximum damage: 130.
 Spell words: Ffulf fo lluf.
 With this spell the caster summons a thick cloud of miasma in the room.
 The miasma is so thick and suffocating that it makes all the caster's
-foes have breathing difficulties, while the experienced caster and his 
+foes have breathing difficulties, while the experienced caster and his
 party of immediate friends are immune to the smoke. In order to make
 this spell work, the caster must gather all the filth from the air
 and transform it into suffocating miasma. But still after dozens of
 hours spent studying this spell the mages have not found how to make
 this spell incessant. The suffocating billow of miasma disappears as
-fast as it was created, leaving the stronger enemies only slightly 
+fast as it was created, leaving the stronger enemies only slightly
 hurt but the weakest might have taken more permanent damage. It is
 said that the knowledge of this spell enhances the amount of time
 the billow deals damage.
@@ -389,9 +389,9 @@ Song cost: 277 SPs.
 Song type: area attack..
 Damage type: acid..
 Maximum damage: 1110.
-When surrounded by men without purpose who care 
-little about the ways of the world or their own salvation.  A 
-bard can bring such a sense of regret as to create bitterness 
+When surrounded by men without purpose who care
+little about the ways of the world or their own salvation.  A
+bard can bring such a sense of regret as to create bitterness
 in ones heart.
 Last line: Too late you realize life has past you by, so feel the pain.
 
@@ -426,9 +426,9 @@ Spell cost: 220 SPs.
 Spell type: attack.
 Damage type: poison.
 Spell words: macula valetudo.
-This spell is used to create a deficiency in an opponent's 
-health, effectively weakening the immune system and rendering 
-him or her more susceptible to toxins. 
+This spell is used to create a deficiency in an opponent's
+health, effectively weakening the immune system and rendering
+him or her more susceptible to toxins.
 
 Help on spell: Blindness.
 Casting time: 3 rounds.
@@ -469,7 +469,7 @@ Affecting stat(s): int, wis and level.
 Blurred image is a more powerful and advanced version of the
 displacement spell. Instead of phazing the target's entire image,
 the spell blurs the outlines, causing them to appear to be
-shifting back and forth. Due to the hazy and blurry image, 
+shifting back and forth. Due to the hazy and blurry image,
 the target's next move will be always harder to predict,
 making it harder to hit.
 This spell is stackable with other similar kinds of spells.
@@ -920,7 +920,7 @@ Spell words: Xeratox daimio sword.
 This spell will create to you the magical samurai sword. It is the
 Samurai's primary weapon. The weapon that you get highly depends on
 a following skills: headcut, tameshivar and blade mastery. High level
-samurai will cast at the blade many spells and that supplies you with 
+samurai will cast at the blade many spells and that supplies you with
 incredible weapon.
 You can also name your sword. Syntax: cast call for sword at <swords name>.
 
@@ -1035,7 +1035,7 @@ Spell words: minor subsisto solvo.
 This spell is a lesser invulnerability against acid damage.
 The caster channels his or her powers to condense moisture
 out of the air and enchant the water, turning it into an
-adhesive magical liquid that settles on the target's skin. 
+adhesive magical liquid that settles on the target's skin.
 This liquid neutralizes any caustic substances connecting
 with it. Unfortunately, it cannot always fully cover the
 protected, thus leaving him or her vulnerable if an attack is
@@ -1165,7 +1165,7 @@ knight which will constantly set aflame small parts of the bodies
 of the good aligned monsters near the knight, causing continuous.
 Damage. The orb will follow its creator everywhere and drain the
 creators spell points in order to maintain itself. The knight can
-banish the orb at any time with 'banish_orb'                    
+banish the orb at any time with 'banish_orb'
 Note: Due to the chaotic nature of this spell the orb will explode
 violently if it becomes in contact with another chaos orb causing
 great damage to its surroundings. The damage caused by the orb is
@@ -1403,7 +1403,7 @@ Damage type: cold.
 Spell words: norbitz antifreez merc.
 This spell will decrease the target's
 resistance to cold damage.  The degree of vulnerability
-of this spell is based on your spell % and your 
+of this spell is based on your spell % and your
 percent in greater vulnerability.
 
 Help on spell: Colored lights.
@@ -1526,17 +1526,17 @@ The undead creature is unaware of being commanded, as the unholy essence
 guiding it is simply overridden by the sheer power of the necromancer's mind.
 A strong link between the necromancer and his minion is required, effectively
 rendering this spell only useful on undead beings the caster has himself animated.
-Syntax: 
+Syntax:
             - kill            causes the undead to attack the target.
                               'cast control at <number>/<name> kill
                               <target>'
                               <number> is the undead number to be
                               controlled.
-                              sp cost depends on target's level, caster's 
+                              sp cost depends on target's level, caster's
                               wisdom and spell percent.
             - direction       causes undead to move current direction
                               'cast control at <number>/<name> <direction>.
-     Other working commands are (syntax is equal to players): 
+     Other working commands are (syntax is equal to players):
      get, drop and keep.
      The ability of controlling a large horde of undead is dependant
      on caster's level.
@@ -1572,7 +1572,7 @@ Spell words: major subsisto concremo.
 This spell is a greater invulnerability against acid damage.
 The caster channels his or her powers to condense moisture out
 of the air and place an arcane enchantment on the water, turning
-it into an viscid magical goo that settles on the target's skin. 
+it into an viscid magical goo that settles on the target's skin.
 This goo neutralizes even the most powerful corrosive substances
 connecting with it. Unfortunately, it cannot always fully cover
 the protected, thus leaving him or her vulnerable if an attack is
@@ -1911,10 +1911,10 @@ Spell cost: 220 SPs.
 Spell type: attack.
 Damage type: cold.
 Spell words: aufero fervens.
-This spell allows an adept abjurer to steal warmth from 
-an unsuspecting foe, causing his or her bodily temperature 
-to drop. This will render the victim vulnerable to harm 
-caused by coldness. 
+This spell allows an adept abjurer to steal warmth from
+an unsuspecting foe, causing his or her bodily temperature
+to drop. This will render the victim vulnerable to harm
+caused by coldness.
 
 Help on spell: Detect alignment.
 Casting time: 3 rounds.
@@ -2090,9 +2090,9 @@ Singing time: 5 rounds.
 Song cost: 60 SPs.
 Song type: neutral.
 Some say that beauty is only skin deep but,
-those who know better, know that beauty can 
+those who know better, know that beauty can
 not only change the way you interact with others,
-but also your future. 
+but also your future.
 Last line: Leper may be pretty, But YOU are the fairest of the ball.
 
 Help on spell: Divorce.
@@ -2205,7 +2205,7 @@ Damage type: electric.
 Spell words: norbitz AC/DC.
 This spell will decrease the target's
 resistance to electric damage.  The degree of vulnerability
-of this spell is based on your spell % and your 
+of this spell is based on your spell % and your
 percent in greater vulnerability.
 
 Help on spell: Electrical field.
@@ -2234,18 +2234,18 @@ Spell cost: 400 SPs.
 Spell type: attack.
 Damage type: physical.
 Spell words: nequam victus confundo mentis.
-Abjuration has come a long way since the first days of trial 
-and error with vulnerability magic. Research has yielded 
-a potentially more efficient way to use time and mana to 
-weaken a foe. Created by the elite of the Abjurers, this 
-spell involves manipulating the essence in a living being. At 
-first painstaking experiments in this form of magic were an 
+Abjuration has come a long way since the first days of trial
+and error with vulnerability magic. Research has yielded
+a potentially more efficient way to use time and mana to
+weaken a foe. Created by the elite of the Abjurers, this
+spell involves manipulating the essence in a living being. At
+first painstaking experiments in this form of magic were an
 utter failure, but through a significant breakthrough in
-sorcery brought about by the second coming of the Sorcerers, 
-a series of successful invocations were made. With this spell, 
-the abjurer uses runic magic to disturb the elements of the 
-victim, causing increased susceptability against electric, 
-magical, fire, physical and asphyxiating attacks. 
+sorcery brought about by the second coming of the Sorcerers,
+a series of successful invocations were made. With this spell,
+the abjurer uses runic magic to disturb the elements of the
+victim, causing increased susceptability against electric,
+magical, fire, physical and asphyxiating attacks.
 
 
 Help on spell: Enchant arrow.
@@ -2306,11 +2306,11 @@ Spell type: defensive.
 Spell words: minor auxilium pneum.
 This spell is a lesser invulnerability against asphyxiating attacks.
 With this spell the caster breathes out a magical breeze of air that
-carries an enchantment meant to enhance the efficiency of one's 
+carries an enchantment meant to enhance the efficiency of one's
 respiration. The enchantment is so strong it lessens the damage
 taken from asphyxia. There is a slight drawback to this however;
 it seems that the magic also slows down the metabolic rate of the
-enchanted person, causing him or her to heal slower. 
+enchanted person, causing him or her to heal slower.
 
 Help on spell: Energetic frailty.
 Casting time: 4 rounds.
@@ -2318,10 +2318,10 @@ Spell cost: 220 SPs.
 Spell type: attack.
 Damage type: electric.
 Spell words: fulmen infractus.
-This spell will render the recipient more susceptible to 
-electric attacks as the air around him or her is magically 
-enhanced to conduct electricity better and the body is 
-cursed with a disability to withstand the flow of energy. 
+This spell will render the recipient more susceptible to
+electric attacks as the air around him or her is magically
+enhanced to conduct electricity better and the body is
+cursed with a disability to withstand the flow of energy.
 
 Help on spell: energy consumption
 There is no help available for this spell. (UNKNOWN)
@@ -2343,12 +2343,12 @@ Spell cost: 361 SPs.
 Spell type: defensive.
 Spell words: candidus lorica.
 Energy hauberk is a mainstay in any abjurer's or spellweaver's .
-Spell collection. The caster channels magical energies around 
-the recipient and densifies the energy to form a force in the 
-shape of a hauberk. This hauberk will provide protection in melee 
-against physical harm. Energy hauberk requires more mana than 
-similar spells a lot simpler in their design, but on the other 
-hand it lasts longer granting more powerful protection. 
+Spell collection. The caster channels magical energies around
+the recipient and densifies the energy to form a force in the
+shape of a hauberk. This hauberk will provide protection in melee
+against physical harm. Energy hauberk requires more mana than
+similar spells a lot simpler in their design, but on the other
+hand it lasts longer granting more powerful protection.
 
 Help on spell: Enlarge spirit.
 Casting time: 10 rounds.
@@ -2602,7 +2602,7 @@ Damage type: fire.
 Spell words: norbitz burn unres.
 This spell will decrease the target's
 resistance to fire damage.  The degree of vulnerability
-of this spell is based on your spell % and your 
+of this spell is based on your spell % and your
 percent in greater vulnerability.
 
 Help on spell: Fireball.
@@ -2696,7 +2696,7 @@ Damage type: fire.
 Spell words: rife orf het esmsas
 Affecting stat(s): level.
 This spell conjures up hundreds of tiny fire nymphs and casts
-them at the target where they burn and harrass their victim 
+them at the target where they burn and harrass their victim
 causing him or her to fight them off exclusively.
 
 Help on spell: Flash of power.
@@ -2807,9 +2807,9 @@ Spell cost: 220 SPs.
 Spell type: attack.
 Damage type: physical.
 Spell words: afflictus corpus.
-This spell severly weakens a foe's skeletal structure 
-to the point where his or her bones will snap like 
-twigs if physical force is exerted. 
+This spell severly weakens a foe's skeletal structure
+to the point where his or her bones will snap like
+twigs if physical force is exerted.
 
 Help on spell: Free servant.
 Casting time: 50 rounds.
@@ -3257,7 +3257,7 @@ Casting time: 10 rounds.
 Spell cost: 250 SPs.
 Spell type: defensive.
 Spell words: hcout t'nac.
-This spell will absorb some damage if that damage is large enough 
+This spell will absorb some damage if that damage is large enough
 to be a threat to your life.  The amount absorbed depends partially
 on the % the spell has been studied, and partly on the harmoniousness
 of the target.  The duration is dependent on casters wisdom, level,
@@ -3271,7 +3271,7 @@ Spell type: defensive.
 Spell words: hcout tnod.
 This spell will reflect some of the damage back at the attacker
 based partially on the % the spell has been studied, and partly
-on the harmoniousness of the target.  The duration is dependent on 
+on the harmoniousness of the target.  The duration is dependent on
 casters wisdom, level, and their ability to contemplate the meaning of
 harmony.
 
@@ -3661,10 +3661,10 @@ Spell cost: 220 SPs.
 Spell type: attack.
 Damage type: fire.
 Spell words: ardens amictus.
-This spell is used to conjure a coating of magical substance 
-that is extremely flammable on a victim. It will render the 
-recipient more vulnerable to attacks based on fire, as 
-the substance ignites increasing damage. 
+This spell is used to conjure a coating of magical substance
+that is extremely flammable on a victim. It will render the
+recipient more vulnerable to attacks based on fire, as
+the substance ignites increasing damage.
 
 Help on spell: Infernal vestment.
 Casting time: 8 rounds.
@@ -3771,11 +3771,11 @@ Spell cost: 325 SPs.
 Spell type: defensive.
 Spell words: validus ferocia
 Affecting stat(s): intelligence and wisdom.
-This spell is the result of co-operation between two very different factions 
-of spellcasters, namely the psionicists and abjurers. Iron Will is the 
+This spell is the result of co-operation between two very different factions
+of spellcasters, namely the psionicists and abjurers. Iron Will is the
 combination of a psionic enchantment and a basic protective aura. A successful .
-Casting of this spell will boost the recipient's concentration so greatly, 
-that he or she will be nigh impervious to any kind of distraction, whether 
+Casting of this spell will boost the recipient's concentration so greatly,
+that he or she will be nigh impervious to any kind of distraction, whether
 it is purely physical pain or a magical illusion seeking to stun the mind.
 The caster's intelligence and wisdom will affect the duration of this spell.
 Proficiency in this abjuration will also affect its power and duration.
@@ -3838,9 +3838,9 @@ Spell cost: 220 SPs.
 Spell type: attack.
 Damage type: asphyxiation.
 Spell words: infirmus respiro.
-With this spell an abjurer conjures a dark cloud of magic 
-that a constricts an enemy's respiration, thus rendering 
-the victim more susceptible to asphyxiating attacks. 
+With this spell an abjurer conjures a dark cloud of magic
+that a constricts an enemy's respiration, thus rendering
+the victim more susceptible to asphyxiating attacks.
 
 Help on spell: Languished soul.
 Casting time: 4 rounds.
@@ -3848,9 +3848,9 @@ Spell cost: 220 SPs.
 Spell type: attack.
 Damage type: psionic.
 Spell words: ignavus animus.
-This spell will cause the target to slip into a somnolent, 
-indifferent state of mind where he or she will be more 
-susceptible to psionic attacks. 
+This spell will cause the target to slip into a somnolent,
+indifferent state of mind where he or she will be more
+susceptible to psionic attacks.
 
 Help on spell: Lava storm.
 Casting time: 4 rounds.
@@ -4112,12 +4112,12 @@ Spell cost: 375 SPs.
 Spell type: defensive.
 Spell words: major tutamen tempestas.
 This spell is a greater invulnerability against electric damage.
-The abjurer unleashes an eruption of ardent energy which enters 
+The abjurer unleashes an eruption of ardent energy which enters
 the target's body and creates an intricate network of conduits,
 each conduit controlling electrical currents entering the body by
 channelling the energies safely past any organs and back out
-again. This creation is not perfect, and the subject may 
-experience occasional jolts in the nervous system. 
+again. This creation is not perfect, and the subject may
+experience occasional jolts in the nervous system.
 
 Help on spell: Lightning storm.
 Casting time: 3 rounds.
@@ -4270,7 +4270,7 @@ Damage type: magical.
 Spell words: norbitz merlin merc.
 This spell will decrease the target's
 resistance to magical damage.  The degree of vulnerability
-of this spell is based on your spell % and your 
+of this spell is based on your spell % and your
 percent in greater vulnerability.
 
 Help on spell: Major distant heal.
@@ -4708,7 +4708,7 @@ Spell cost: 300 SPs.
 Spell type: defensive.
 Spell words: AROT arot arot
 Affecting stat(s): level, spell percent and art of telepathy.
-With this spell a telepath can protect a mind against psionic attacks,this is 
+With this spell a telepath can protect a mind against psionic attacks,this is
 done by creating a psionic mirror of that mind. That image will reflect some of
 the psionic effects back to the attacker and even counter some effects totally.
 
@@ -4780,10 +4780,10 @@ Casting time: 8 rounds.
 Spell cost: 375 SPs.
 Spell type: defensive.
 Spell words: minor praesidium magus.
-This spell is a lesser invulnerability against magical damage. 
-The caster releases a stream of mystic energy that swirls around the 
-the recipient, creating an anti-magic shell that shields against 
-magical attacks. As an unfortunate drawback the anti-magic also 
+This spell is a lesser invulnerability against magical damage.
+The caster releases a stream of mystic energy that swirls around the
+the recipient, creating an anti-magic shell that shields against
+magical attacks. As an unfortunate drawback the anti-magic also
 seems to feed on the mana resources of the protected occasionally.
 
 Help on spell: Mystic impairment.
@@ -4792,9 +4792,9 @@ Spell cost: 220 SPs.
 Spell type: attack.
 Damage type: magical.
 Spell words: magus foramen.
-This spell will allow an abjurer to severely impair a 
-foe's magical composition and create a vulnerability in 
-his or her resistance against magic. 
+This spell will allow an abjurer to severely impair a
+foe's magical composition and create a vulnerability in
+his or her resistance against magic.
 
 Help on spell: Mystic vision.
 Casting time: 5 rounds.
@@ -4858,7 +4858,7 @@ Spell cost: 50 SPs.
 Spell type: neutral.
 Spell words: tca'n ese stih
 Affecting stat(s): wisdom and level.
-This spell fills a room with a thick cloud of mist, almost 
+This spell fills a room with a thick cloud of mist, almost
 completely obscuring sight within the room.
 
 Help on spell: Pain.
@@ -5002,7 +5002,7 @@ Damage type: physical.
 Spell words: norbitz lotsa phys.
 This spell will decrease the target's
 resistance to physical damage.  The degree of vulnerability
-of this spell is based on your spell % and your 
+of this spell is based on your spell % and your
 percent in greater vulnerability.
 
 Help on song: Pigeon melody.
@@ -5106,7 +5106,7 @@ Damage type: poison.
 Spell words: norbitz snake biit.
 This spell will decrease the target's
 resistance to poison damage.  The degree of vulnerability
-of this spell is based on your spell % and your 
+of this spell is based on your spell % and your
 percent in greater vulnerability.
 
 Help on spell: Poisonous pigeons.
@@ -5272,7 +5272,7 @@ Damage type: psionic.
 Spell words: norbitz psycho nydleihs.
 This spell will decrease the target's
 resistance to psionic damage.  The degree of vulnerability
-of this spell is based on your spell % and your 
+of this spell is based on your spell % and your
 percent in greater vulnerability.
 
 Help on spell: Psychic aegis.
@@ -5282,8 +5282,8 @@ Spell type: defensive.
 Spell words: major animus contego.
 This spell is a greater invulnerability against psionic damage.
 A magical barrier forms inside the target's mind, granting a
-high resistance against psionic attacks. When the protection drops 
-however, the protected's mind is brought back into full contact 
+high resistance against psionic attacks. When the protection drops
+however, the protected's mind is brought back into full contact
 with cruel reality and this causes some damage to the brain.
 
 Help on spell: Psychic crush.
@@ -5331,7 +5331,7 @@ Song cost: 495 SPs.
 Song type: attack..
 Damage type: electric..
 Maximum damage: 1000.
-This song is known for its ability to conjure the god of 
+This song is known for its ability to conjure the god of
 thunder.  His wrath has been known to be quite severe.
 Last line: Ayyyyyoooooooo BOOOM BOOM rumblebleble BANG!.
 
@@ -5371,17 +5371,17 @@ Damage type: physical.
 Spell words: spero candeo forem.
 Powerful and arcane abjuration has conquered new ground
 with this spell, created by an elite few of an inner
-circle of the Abjurer guild. By mastering a combination of 
+circle of the Abjurer guild. By mastering a combination of
 runic magic and basic invocations, the creators of
 this spell were able to create a potent new way to decrease
-multiple natural resistances of a creature with one 
-concentrated ray of energy. At first this evocation was 
+multiple natural resistances of a creature with one
+concentrated ray of energy. At first this evocation was
 kept a secret and tested for anomalies, but as time went by
 a risk of potential abuse gave rise, and a decision to
 unveil the details of the spell was made. With this spell
 a ray of condensed magic is created, which upon connecting
 with a target will severly decrease his or her resistances
-against cold, corrosive substances, psionic damage, poisons 
+against cold, corrosive substances, psionic damage, poisons
 and physical damage.
 
 Help on spell: Razor edge.
@@ -5467,7 +5467,7 @@ This spell is a lesser invulnerability against fire damage.
 The caster conjures a circle of cold energy which collapses into
 a magical shell designed to ward off attacks based on fire by
 absorbing heat. As a drawback it also causes the protected to
-be more susceptible to cold. 
+be more susceptible to cold.
 
 Help on spell: Recall undead.
 Casting time: 20 rounds.
@@ -5547,7 +5547,7 @@ removed, but there is a way to dismantle any greater and lesser
 invulnerabilities shielding a target. This spell is designed to do
 precisely that, and nothing else. It will not affect other protections
 on the target. Disabling an invulnerability is like untying a knot;
-you just have to pull the right string. 
+you just have to pull the right string.
 
 Help on spell: Remove poison.
 Casting time: 3 rounds.
@@ -5622,10 +5622,10 @@ Spell words: major auxilium aquilo.
 This spell is a greater invulnerability against asphyxiating attacks.
 With this spell the caster breathes out a magical gust of air that
 carries a powerful enchantment meant to enhance the efficiency of
-one's respiration. The enchantment is very strong and it greatly 
+one's respiration. The enchantment is very strong and it greatly
 lessens the damage taken from asphyxia. There is a slight drawback
 to this however; it seems that the magic also slows down the metabolic
-rate of the enchanted person, causing him or her to heal slower. 
+rate of the enchanted person, causing him or her to heal slower.
 
 Help on spell: Restore.
 Casting time: 4 rounds.
@@ -5786,10 +5786,10 @@ Casting time: 3 rounds.
 Spell cost: 135 SPs.
 Spell type: defensive.
 Spell words: vis aversor.
-Shield of protection is a basic abjuration that creates a barrier of repulsive 
-magic around the recipient, granting an advantage in melee. The protection 
-from this spell depends on the caster's intelligence and wisdom. Level will 
-affect duration. This spell is stackable. 
+Shield of protection is a basic abjuration that creates a barrier of repulsive
+magic around the recipient, granting an advantage in melee. The protection
+from this spell depends on the caster's intelligence and wisdom. Level will
+affect duration. This spell is stackable.
 
 Help on spell: Shizen.
 Casting time: 4 rounds.
@@ -6061,7 +6061,7 @@ Spell type: defensive.
 Spell words: zruphture cspace.
 This spell allows the sorcerer to cause space to warp around his
 present location, thus disturbing the effects of area attack spells.
-Any area attack spell casted while this spell is active will be 
+Any area attack spell casted while this spell is active will be
 reduced in power.  The effectiveness of this spell is based on the
 casters level and knowledge of spacial manipulation.
 
@@ -6071,12 +6071,12 @@ Spell cost: 375 SPs.
 Spell type: defensive.
 Spell words: minor tutamen caelum.
 This spell is a lesser invulnerability against electric damage.
-The abjurer unleashes a burst of magical energy which enters 
-the target's body and creates a network of tendrils, each 
-tendril controlling electrical currents entering the body by 
-channelling the energies past any vital organs and back out 
-again. This creation is not perfect, and the subject may 
-experience occasional jolts in the nervous system. 
+The abjurer unleashes a burst of magical energy which enters
+the target's body and creates a network of tendrils, each
+tendril controlling electrical currents entering the body by
+channelling the energies past any vital organs and back out
+again. This creation is not perfect, and the subject may
+experience occasional jolts in the nervous system.
 
 Help on spell: Spellshield.
 Casting time: 28 rounds.
@@ -6782,7 +6782,7 @@ Spell type: attack.
 Damage type: magical.
 Maximum damage: 290.
 Spell words: niapym ekat.
-This spell causes 1d5 * lvl damage, and will 
+This spell causes 1d5 * lvl damage, and will
 heal the player a fraction of that amount.
 
 Help on spell: Transfer mana.
@@ -6813,7 +6813,7 @@ Spell type: heal.
 Maximum healing: 262.
 Spell words: struh yawa yelurti.
 This spell allows you to heal a person who is not present.
-The amount of healing done is equal to 20 + 2/3wis + d3*con 
+The amount of healing done is equal to 20 + 2/3wis + d3*con
 
 Help on spell: True distant transfer.
 Casting time: 5 rounds.
@@ -6841,7 +6841,7 @@ Spell type: attack.
 Damage type: magical.
 Maximum damage: 470.
 Spell words: niapym ekat WON.
-This spell causes 2d5 * lvl damage, and will 
+This spell causes 2d5 * lvl damage, and will
 heal the player a fraction of that amount.
 
 Help on spell: True unpain.
@@ -7025,10 +7025,10 @@ Spell cost: 375 SPs.
 Spell type: defensive.
 Spell words: major patronus ferratus.
 This spell is a greater invulnerability against physical damage.
-The caster conjures a ward that is a blend of arcane magic and adamant 
-around the target, fortifying him or her against physical harm. 
-Unfortunately the magical component is imperfect, and sporadically 
-causes the recipient of this spell to be magically weighted down. 
+The caster conjures a ward that is a blend of arcane magic and adamant
+around the target, fortifying him or her against physical harm.
+Unfortunately the magical component is imperfect, and sporadically
+causes the recipient of this spell to be magically weighted down.
 
 Help on spell: Ward of stone.
 Casting time: 8 rounds.
@@ -7036,10 +7036,10 @@ Spell cost: 375 SPs.
 Spell type: defensive.
 Spell words: minor patronus saxum.
 This spell is a lesser invulnerability against physical damage.
-The caster conjures a ward that is a blend of magic and stone 
-around the target, shielding him or her against physical harm. 
-Unfortunately the magical component is imperfect, and sporadically 
-causes the recipient of this spell to be magically weighted down. 
+The caster conjures a ward that is a blend of magic and stone
+around the target, shielding him or her against physical harm.
+Unfortunately the magical component is imperfect, and sporadically
+causes the recipient of this spell to be magically weighted down.
 
 Help on spell: Ward undead.
 Casting time: 4 rounds.
@@ -7085,10 +7085,10 @@ Spell cost: 375 SPs.
 Spell type: defensive.
 Spell words: major claudo toxicum.
 This spell is a greater invulnerability against poisonous damage.
-With this spell an arcane serum is injected into the veins 
-of a living being, protecting against even the vilest of venoms. 
-This antivenom has a nasty side-effect however: the subject 
-may experience trauma as the serum's imperfect magical nature 
+With this spell an arcane serum is injected into the veins
+of a living being, protecting against even the vilest of venoms.
+This antivenom has a nasty side-effect however: the subject
+may experience trauma as the serum's imperfect magical nature
 occasionally reacts violently with the body.
 
 Help on spell: Were curse.
@@ -7106,7 +7106,7 @@ Spell words: minor prohibeo algidum.
 This spell is a lesser invulnerability against cold damage.
 A magical coating of fiery energy is conjured at the target, and
 this magic protects against any freezing attacks targetting the subject by
-upholding the temperature at all times. As a drawback it also causes the 
+upholding the temperature at all times. As a drawback it also causes the
 protected to be more susceptible to fire.
 
 Help on spell: White orb.
@@ -7149,9 +7149,9 @@ Spell type: defensive.
 Spell words: major obex incendia.
 This spell is a greater invulnerability against fire damage.
 The caster conjures a brilliant halo of freezing energy which
-collapses into an arcane magical shell designed to ward off 
+collapses into an arcane magical shell designed to ward off
 attacks based on fire by vehemently absorbing heat. As a drawback
-it also causes the protected to be more susceptible to cold. 
+it also causes the protected to be more susceptible to cold.
 
 Help on spell: viscous flesh
 There is no help available for this spell. (UNKNOWN)
@@ -7198,10 +7198,10 @@ Spell cost: 220 SPs.
 Spell type: attack.
 Damage type: acid.
 Spell words: macilentus corium.
-This spell will curse a target by diffusing and weakening 
-his or her tegument. The victim's natural resistance against 
-acids will be greatly reduced, causing more damage when 
-coming into contact with sulphurous substances. 
+This spell will curse a target by diffusing and weakening
+his or her tegument. The victim's natural resistance against
+acids will be greatly reduced, causing more damage when
+coming into contact with sulphurous substances.
 
 Help on spell: voids of life
 There is no help available for this spell. (UNKNOWN)
