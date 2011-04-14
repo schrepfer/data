@@ -1,4 +1,4 @@
-Updated 2005.09.22
+Updated 2011.04.14
 
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
@@ -15,13 +15,13 @@ Updated 2005.09.22
 |     | Asphyxiation resistance(1)                                      |
 `-----------------------------------------------------------------------'
 
-info full
 ------------------------------------------------------.
 
 Level 1 abilities:
 May study spell acid preference to 45%
 May study spell asphyxiation preference to 75%
 May study spell cold preference to 35%
+May study spell flash of power to 75%
 May study spell remove preference to 85%
 ------------------------------------------------------.
 
@@ -29,6 +29,7 @@ Level 2 abilities:
 May study spell acid preference to 55%
 May study spell asphyxiation preference to 80%
 May study spell cold preference to 50%
+May study spell flash of power to 80%
 May study spell remove preference to 90%
 ------------------------------------------------------.
 
@@ -36,6 +37,7 @@ Level 3 abilities:
 May study spell acid preference to 65%
 May study spell asphyxiation preference to 85%
 May study spell cold preference to 55%
+May study spell flash of power to 85%
 May study spell remove preference to 95%
 ------------------------------------------------------.
 
@@ -43,11 +45,13 @@ Level 4 abilities:
 May study spell acid preference to 75%
 May study spell asphyxiation preference to 90%
 May study spell cold preference to 75%
+May study spell flash of power to 90%
 ------------------------------------------------------.
 
 Level 5 abilities:
 May study spell acid preference to 100%
 May study spell asphyxiation preference to 100%
 May study spell cold preference to 100%
+May study spell flash of power to 100%
 May study spell remove preference to 100%
 ------------------------------------------------------.
