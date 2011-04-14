@@ -1,4 +1,4 @@
-Updated 2005.11.14
+Updated 2011.04.14
 
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
@@ -60,49 +60,48 @@ Updated 2005.11.14
 |     | Fire resistance(1), Physical resistance(1)                      |
 `-----------------------------------------------------------------------'
 
-info full
 ------------------------------------------------------.
 
 Level 1 abilities:
 May study spell cantana of shadow to 5%
 May study spell torchbearer's march to 5%
-May train skill weapon skill 2h dagger to 10%
-May train skill weapon skill 1h dagger to 10%
-May train skill attack to 5%
-May train skill instrumentation to 5%
 May train skill vocal training to 5%
-May train skill essence eye to 5%
-May train skill consider to 10%
+May train skill weapon skill 1h dagger to 10%
+May train skill weapon skill 2h dagger to 10%
 May train skill pitch control to 5%
+May train skill consider to 10%
+May train skill instrumentation to 5%
+May train skill essence eye to 5%
+May train skill attack to 5%
 ------------------------------------------------------.
 
 Level 2 abilities:
 May study spell cantana of shadow to 10%
 May study spell torchbearer's march to 10%
 May train skill weapon skill 2h dagger to 20%
-May train skill attack to 10%
 May train skill weapon skill 1h dagger to 20%
+May train skill attack to 10%
 ------------------------------------------------------.
 
 Level 3 abilities:
 May study spell cantana of shadow to 15%
 May study spell torchbearer's march to 15%
-May train skill weapon skill 2h dagger to 40%
-May train skill weapon skill 1h dagger to 40%
-May train skill attack to 15%
-May train skill instrumentation to 10%
 May train skill vocal training to 10%
-May train skill essence eye to 10%
-May train skill consider to 35%
+May train skill weapon skill 1h dagger to 40%
+May train skill weapon skill 2h dagger to 40%
 May train skill pitch control to 10%
+May train skill consider to 35%
+May train skill instrumentation to 10%
+May train skill essence eye to 10%
+May train skill attack to 15%
 ------------------------------------------------------.
 
 Level 4 abilities:
 May study spell cantana of shadow to 20%
 May study spell torchbearer's march to 20%
 May train skill weapon skill 2h dagger to 60%
-May train skill attack to 20%
 May train skill weapon skill 1h dagger to 60%
+May train skill attack to 20%
 ------------------------------------------------------.
 
 Level 5 abilities:
@@ -116,17 +115,17 @@ May study spell symphony of solomon to 5%
 May study spell torchbearer's march to 25%
 May study spell vigorous concerto to 5%
 May train skill weapon skill 2h dagger to 80%
-May train skill attack to 25%
-May train skill flip kick to 5%
-May train skill weapon skill 1h dagger to 80%
+May train skill tinning to 10%
 May train skill epitaph to 5%
-May train skill instrumentation to 15%
-May train skill vocal training to 15%
+May train skill skill that saves sp to 10%
 May train skill essence eye to 15%
+May train skill vocal training to 15%
+May train skill weapon skill 1h dagger to 80%
 May train skill consider to 45%
 May train skill pitch control to 15%
-May train skill tinning to 10%
-May train skill skill that saves sp to 10%
+May train skill instrumentation to 15%
+May train skill attack to 25%
+May train skill flip kick to 5%
 ------------------------------------------------------.
 
 Level 6 abilities:
@@ -139,11 +138,11 @@ May study spell floating disc to 15%
 May study spell symphony of solomon to 10%
 May study spell torchbearer's march to 30%
 May study spell vigorous concerto to 10%
-May train skill flip kick to 10%
-May train skill attack to 30%
 May train skill weapon skill 1h dagger to 100%
 May train skill weapon skill 2h dagger to 100%
 May train skill epitaph to 10%
+May train skill attack to 30%
+May train skill flip kick to 10%
 ------------------------------------------------------.
 
 Level 7 abilities:
@@ -158,15 +157,15 @@ May study spell symphony of solomon to 15%
 May study spell torchbearer's march to 40%
 May study spell vigorous concerto to 15%
 May study spell water walking to 10%
-May train skill attack to 35%
-May train skill flip kick to 15%
+May train skill tinning to 20%
 May train skill epitaph to 15%
 May train skill essence eye to 20%
-May train skill consider to 76%
-May train skill vocal training to 20%
-May train skill pitch control to 20%
-May train skill tinning to 20%
 May train skill skill that saves sp to 20%
+May train skill vocal training to 20%
+May train skill consider to 76%
+May train skill pitch control to 20%
+May train skill attack to 35%
+May train skill flip kick to 15%
 ------------------------------------------------------.
 
 Level 8 abilities:
@@ -181,10 +180,10 @@ May study spell teleport without error to 10%
 May study spell torchbearer's march to 50%
 May study spell vigorous concerto to 20%
 May study spell water walking to 15%
-May train skill attack to 40%
-May train skill flip kick to 20%
 May train skill epitaph to 20%
 May train skill instrumentation to 20%
+May train skill attack to 40%
+May train skill flip kick to 20%
 ------------------------------------------------------.
 
 Level 9 abilities:
@@ -192,15 +191,15 @@ May study spell cantana of shadow to 60%
 May study spell floating disc to 30%
 May study spell torchbearer's march to 60%
 May study spell water walking to 20%
-May train skill attack to 45%
-May train skill flip kick to 25%
+May train skill tinning to 30%
 May train skill epitaph to 25%
 May train skill essence eye to 25%
-May train skill consider to 75%
-May train skill vocal training to 25%
-May train skill pitch control to 25%
-May train skill tinning to 30%
 May train skill skill that saves sp to 30%
+May train skill vocal training to 25%
+May train skill consider to 75%
+May train skill pitch control to 25%
+May train skill attack to 45%
+May train skill flip kick to 25%
 ------------------------------------------------------.
 
 Level 10 abilities:
@@ -214,11 +213,11 @@ May study spell symphony of solomon to 25%
 May study spell torchbearer's march to 70%
 May study spell vigorous concerto to 25%
 May study spell water walking to 25%
-May train skill attack to 50%
-May train skill flip kick to 30%
-May train skill acrobatics to 5%
 May train skill epitaph to 30%
 May train skill quick chant to 25%
+May train skill acrobatics to 5%
+May train skill attack to 50%
+May train skill flip kick to 30%
 ------------------------------------------------------.
 
 Level 11 abilities:
@@ -230,15 +229,15 @@ May study spell floating disc to 50%
 May study spell symphony of solomon to 30%
 May study spell vigorous concerto to 30%
 May study spell water walking to 30%
-May train skill flip kick to 35%
+May train skill tinning to 40%
 May train skill acrobatics to 10%
 May train skill epitaph to 35%
-May train skill instrumentation to 25%
+May train skill skill that saves sp to 40%
 May train skill essence eye to 30%
 May train skill vocal training to 30%
 May train skill pitch control to 30%
-May train skill tinning to 40%
-May train skill skill that saves sp to 40%
+May train skill instrumentation to 25%
+May train skill flip kick to 35%
 ------------------------------------------------------.
 
 Level 12 abilities:
@@ -252,10 +251,10 @@ May study spell symphony of solomon to 35%
 May study spell teleport without error to 15%
 May study spell vigorous concerto to 35%
 May study spell water walking to 40%
+May train skill epitaph to 40%
 May train skill acrobatics to 15%
 May train skill attack to 60%
 May train skill flip kick to 40%
-May train skill epitaph to 40%
 ------------------------------------------------------.
 
 Level 13 abilities:
@@ -269,16 +268,16 @@ May study spell symphony of solomon to 40%
 May study spell torchbearer's march to 80%
 May study spell vigorous concerto to 40%
 May study spell water walking to 50%
+May train skill tonal control to 5%
+May train skill tinning to 50%
+May train skill epitaph to 45%
+May train skill acrobatics to 20%
+May train skill essence eye to 35%
+May train skill skill that saves sp to 50%
+May train skill vocal training to 35%
+May train skill pitch control to 35%
 May train skill attack to 70%
 May train skill flip kick to 45%
-May train skill acrobatics to 20%
-May train skill epitaph to 45%
-May train skill vocal training to 35%
-May train skill essence eye to 35%
-May train skill pitch control to 35%
-May train skill tinning to 50%
-May train skill tonal control to 5%
-May train skill skill that saves sp to 50%
 ------------------------------------------------------.
 
 Level 14 abilities:
@@ -291,10 +290,10 @@ May study spell relocate to 15%
 May study spell symphony of solomon to 45%
 May study spell vigorous concerto to 45%
 May study spell water walking to 60%
-May train skill flip kick to 50%
-May train skill acrobatics to 25%
 May train skill epitaph to 50%
+May train skill acrobatics to 25%
 May train skill instrumentation to 30%
+May train skill flip kick to 50%
 ------------------------------------------------------.
 
 Level 15 abilities:
@@ -310,17 +309,17 @@ May study spell surgeon's chant to 5%
 May study spell symphony of solomon to 50%
 May study spell vigorous concerto to 50%
 May study spell water walking to 70%
-May train skill acrobatics to 30%
-May train skill attack to 80%
-May train skill flip kick to 55%
+May train skill tinning to 60%
 May train skill epitaph to 55%
-May train skill vocal training to 40%
+May train skill acrobatics to 30%
+May train skill skill that saves sp to 60%
 May train skill essence eye to 40%
+May train skill vocal training to 40%
 May train skill consider to 100%
 May train skill pitch control to 40%
 May train skill quick chant to 30%
-May train skill tinning to 60%
-May train skill skill that saves sp to 60%
+May train skill attack to 80%
+May train skill flip kick to 55%
 ------------------------------------------------------.
 
 Level 16 abilities:
@@ -340,10 +339,10 @@ May study spell teleport without error to 20%
 May study spell torchbearer's march to 90%
 May study spell vigorous concerto to 60%
 May study spell water walking to 80%
-May train skill acrobatics to 35%
-May train skill flip kick to 60%
 May train skill epitaph to 60%
+May train skill acrobatics to 35%
 May train skill tonal control to 10%
+May train skill flip kick to 60%
 ------------------------------------------------------.
 
 Level 17 abilities:
@@ -361,16 +360,16 @@ May study spell surgeon's chant to 15%
 May study spell symphony of solomon to 70%
 May study spell vigorous concerto to 70%
 May study spell water walking to 90%
-May train skill attack to 90%
-May train skill flip kick to 70%
-May train skill acrobatics to 40%
+May train skill tinning to 70%
 May train skill epitaph to 70%
-May train skill instrumentation to 35%
+May train skill acrobatics to 40%
 May train skill essence eye to 45%
+May train skill skill that saves sp to 70%
 May train skill vocal training to 45%
 May train skill pitch control to 45%
-May train skill tinning to 70%
-May train skill skill that saves sp to 70%
+May train skill instrumentation to 35%
+May train skill attack to 90%
+May train skill flip kick to 70%
 ------------------------------------------------------.
 
 Level 18 abilities:
@@ -387,9 +386,9 @@ May study spell symphony of solomon to 80%
 May study spell teleport without error to 25%
 May study spell vigorous concerto to 80%
 May study spell water walking to 95%
-May train skill flip kick to 80%
-May train skill acrobatics to 45%
 May train skill epitaph to 80%
+May train skill acrobatics to 45%
+May train skill flip kick to 80%
 ------------------------------------------------------.
 
 Level 19 abilities:
@@ -404,12 +403,12 @@ May study spell surgeon's chant to 25%
 May study spell symphony of solomon to 90%
 May study spell vigorous concerto to 90%
 May study spell water walking to 100%
-May train skill acrobatics to 50%
-May train skill flip kick to 90%
-May train skill epitaph to 90%
-May train skill tinning to 80%
 May train skill tonal control to 15%
+May train skill tinning to 80%
+May train skill epitaph to 90%
+May train skill acrobatics to 50%
 May train skill skill that saves sp to 80%
+May train skill flip kick to 90%
 ------------------------------------------------------.
 
 Level 20 abilities:
@@ -429,18 +428,18 @@ May study spell surgeon's chant to 30%
 May study spell symphony of solomon to 100%
 May study spell torchbearer's march to 100%
 May study spell vigorous concerto to 100%
+May train skill tinning to 100%
+May train skill epitaph to 100%
 May train skill acrobatics to 55%
+May train skill essence eye to 50%
+May train skill skill that saves sp to 100%
+May train skill leadership to 5%
+May train skill vocal training to 50%
+May train skill pitch control to 50%
+May train skill instrumentation to 40%
+May train skill quick chant to 35%
 May train skill attack to 100%
 May train skill flip kick to 100%
-May train skill epitaph to 100%
-May train skill instrumentation to 40%
-May train skill vocal training to 50%
-May train skill leadership to 5%
-May train skill essence eye to 50%
-May train skill quick chant to 35%
-May train skill pitch control to 50%
-May train skill tinning to 100%
-May train skill skill that saves sp to 100%
 ------------------------------------------------------.
 
 Level 21 abilities:
@@ -453,8 +452,8 @@ May study spell lullaby of life to 30%
 May study spell relocate to 40%
 May study spell shelter to 15%
 May study spell surgeon's chant to 40%
-May train skill vocal training to 55%
 May train skill acrobatics to 60%
+May train skill vocal training to 55%
 May train skill essence eye to 55%
 May train skill pitch control to 55%
 ------------------------------------------------------.
@@ -467,12 +466,12 @@ May study spell fire breathing act to 60%
 May study spell lullaby of life to 35%
 May study spell surgeon's chant to 50%
 May study spell teleport without error to 30%
-May train skill acrobatics to 70%
 May train skill vocal training to 60%
+May train skill pitch control to 60%
+May train skill tonal control to 20%
+May train skill acrobatics to 70%
 May train skill leadership to 10%
 May train skill essence eye to 60%
-May train skill tonal control to 20%
-May train skill pitch control to 60%
 ------------------------------------------------------.
 
 Level 23 abilities:
@@ -485,8 +484,8 @@ May study spell lullaby of life to 40%
 May study spell relocate to 45%
 May study spell shelter to 25%
 May study spell surgeon's chant to 60%
-May train skill vocal training to 65%
 May train skill acrobatics to 80%
+May train skill vocal training to 65%
 May train skill essence eye to 65%
 May train skill pitch control to 65%
 ------------------------------------------------------.
@@ -498,11 +497,11 @@ May study spell fire breathing act to 80%
 May study spell lullaby of life to 45%
 May study spell surgeon's chant to 70%
 May study spell teleport without error to 35%
+May train skill vocal training to 70%
+May train skill pitch control to 70%
 May train skill acrobatics to 90%
 May train skill instrumentation to 45%
 May train skill essence eye to 70%
-May train skill vocal training to 70%
-May train skill pitch control to 70%
 ------------------------------------------------------.
 
 Level 25 abilities:
@@ -517,14 +516,14 @@ May study spell shelter to 35%
 May study spell sonata of sorcery to 5%
 May study spell surgeon's chant to 80%
 May study spell uplifting melody to 5%
+May train skill vocal training to 75%
+May train skill tonal control to 25%
+May train skill pitch control to 75%
 May train skill acrobatics to 100%
 May train skill tonal projection to 5%
-May train skill vocal training to 75%
-May train skill leadership to 15%
-May train skill essence eye to 75%
-May train skill pitch control to 75%
-May train skill tonal control to 25%
 May train skill quick chant to 45%
+May train skill essence eye to 75%
+May train skill leadership to 15%
 ------------------------------------------------------.
 
 Level 26 abilities:
@@ -551,11 +550,11 @@ May study spell sonata of sorcery to 15%
 May study spell surgeon's chant to 90%
 May study spell uplifting melody to 10%
 May study spell water breathing to 10%
-May train skill tonal projection to 10%
 May train skill vocal training to 85%
+May train skill pitch control to 85%
+May train skill tonal projection to 10%
 May train skill leadership to 20%
 May train skill essence eye to 85%
-May train skill pitch control to 85%
 ------------------------------------------------------.
 
 Level 28 abilities:
@@ -567,12 +566,12 @@ May study spell lullaby of life to 80%
 May study spell sonata of sorcery to 20%
 May study spell teleport without error to 50%
 May study spell water breathing to 15%
-May train skill instrumentation to 50%
 May train skill vocal training to 90%
+May train skill pitch control to 90%
+May train skill tonal control to 30%
+May train skill instrumentation to 50%
 May train skill leadership to 25%
 May train skill essence eye to 90%
-May train skill tonal control to 30%
-May train skill pitch control to 90%
 ------------------------------------------------------.
 
 Level 29 abilities:
@@ -603,13 +602,13 @@ May study spell surgeon's chant to 100%
 May study spell tale of perception to 5%
 May study spell teleport without error to 60%
 May study spell water breathing to 25%
-May train skill tonal projection to 20%
-May train skill negotiate to 5%
 May train skill vocal training to 100%
-May train skill leadership to 30%
-May train skill essence eye to 100%
-May train skill quick chant to 55%
 May train skill pitch control to 100%
+May train skill negotiate to 5%
+May train skill tonal projection to 20%
+May train skill quick chant to 55%
+May train skill essence eye to 100%
+May train skill leadership to 30%
 ------------------------------------------------------.
 
 Level 31 abilities:
@@ -627,15 +626,14 @@ May train skill tonal control to 35%
 
 Level 32 abilities:
 May study spell chant of the beast to 35%
-
 May study spell feather weight to 80%
 May study spell score of the steadfast to 10%
 May study spell sonata of sorcery to 35%
 May study spell teleport without error to 65%
-May train skill leadership to 40%
-May train skill tonal projection to 30%
-May train skill negotiate to 10%
 May train skill instrumentation to 55%
+May train skill negotiate to 10%
+May train skill tonal projection to 30%
+May train skill leadership to 40%
 ------------------------------------------------------.
 
 Level 33 abilities:
@@ -655,8 +653,8 @@ May study spell chant of the beast to 45%
 May study spell feather weight to 90%
 May study spell score of the steadfast to 15%
 May study spell sonata of sorcery to 45%
-May train skill tonal projection to 40%
 May train skill negotiate to 15%
+May train skill tonal projection to 40%
 May train skill tonal control to 40%
 ------------------------------------------------------.
 
@@ -674,9 +672,9 @@ May study spell tale of perception to 35%
 May study spell uplifting melody to 30%
 May study spell water breathing to 30%
 May train skill tonal projection to 45%
+May train skill quick chant to 70%
 May train skill recitation to 5%
 May train skill leadership to 65%
-May train skill quick chant to 70%
 ------------------------------------------------------.
 
 Level 36 abilities:
@@ -688,10 +686,10 @@ May study spell score of the steadfast to 20%
 May study spell sonata of sorcery to 60%
 May study spell song of mending to 10%
 May study spell water breathing to 40%
-May train skill recitation to 10%
-May train skill tonal projection to 50%
-May train skill negotiate to 20%
 May train skill instrumentation to 60%
+May train skill negotiate to 20%
+May train skill tonal projection to 50%
+May train skill recitation to 10%
 ------------------------------------------------------.
 
 Level 37 abilities:
@@ -717,9 +715,9 @@ May study spell score of the steadfast to 25%
 May study spell sonata of sorcery to 80%
 May study spell song of mending to 20%
 May study spell water breathing to 60%
-May train skill recitation to 20%
-May train skill tonal projection to 60%
 May train skill negotiate to 25%
+May train skill tonal projection to 60%
+May train skill recitation to 20%
 ------------------------------------------------------.
 
 Level 39 abilities:
@@ -732,8 +730,8 @@ May study spell song of mending to 25%
 May study spell tale of perception to 65%
 May study spell uplifting melody to 50%
 May study spell water breathing to 70%
-May train skill tonal projection to 65%
 May train skill recitation to 25%
+May train skill tonal projection to 65%
 ------------------------------------------------------.
 
 Level 40 abilities:
@@ -747,14 +745,14 @@ May study spell score of the steadfast to 30%
 May study spell sonata of sorcery to 100%
 May study spell song of mending to 30%
 May study spell water breathing to 80%
-May train skill tonal projection to 70%
-May train skill leftwield to 10%
-May train skill negotiate to 30%
-May train skill instrumentation to 65%
 May train skill recitation to 30%
-May train skill leadership to 80%
-May train skill quick chant to 85%
 May train skill tonal control to 50%
+May train skill instrumentation to 65%
+May train skill negotiate to 30%
+May train skill tonal projection to 70%
+May train skill quick chant to 85%
+May train skill leftwield to 10%
+May train skill leadership to 80%
 ------------------------------------------------------.
 
 Level 41 abilities:
@@ -763,15 +761,14 @@ May study spell chorus of serenity to 55%
 May study spell remove scar to 35%
 May study spell sanctuary to 15%
 May study spell score of the steadfast to 40%
-
 May study spell song of mending to 40%
 May study spell tale of perception to 80%
 May study spell uplifting melody to 70%
-May train skill leftwield to 20%
-May train skill tonal projection to 75%
-May train skill negotiate to 40%
-May train skill instrumentation to 70%
 May train skill recitation to 40%
+May train skill instrumentation to 70%
+May train skill tonal projection to 75%
+May train skill leftwield to 20%
+May train skill negotiate to 40%
 ------------------------------------------------------.
 
 Level 42 abilities:
@@ -782,11 +779,11 @@ May study spell score of the steadfast to 50%
 May study spell song of mending to 50%
 May study spell summon to 30%
 May study spell water breathing to 90%
-May train skill leftwield to 30%
-May train skill tonal projection to 80%
-May train skill negotiate to 50%
-May train skill instrumentation to 75%
 May train skill recitation to 50%
+May train skill instrumentation to 75%
+May train skill tonal projection to 80%
+May train skill leftwield to 30%
+May train skill negotiate to 50%
 ------------------------------------------------------.
 
 Level 43 abilities:
@@ -800,11 +797,11 @@ May study spell score of the steadfast to 60%
 May study spell song of mending to 60%
 May study spell tale of perception to 100%
 May study spell uplifting melody to 100%
-May train skill leftwield to 40%
-May train skill tonal projection to 85%
-May train skill negotiate to 60%
-May train skill instrumentation to 80%
 May train skill recitation to 60%
+May train skill instrumentation to 80%
+May train skill tonal projection to 85%
+May train skill leftwield to 40%
+May train skill negotiate to 60%
 ------------------------------------------------------.
 
 Level 44 abilities:
@@ -812,10 +809,10 @@ May study spell chorus of serenity to 85%
 May study spell sanctuary to 40%
 May study spell score of the steadfast to 80%
 May study spell song of mending to 75%
-May train skill recitation to 80%
-May train skill tonal projection to 90%
-May train skill negotiate to 75%
 May train skill instrumentation to 90%
+May train skill negotiate to 75%
+May train skill tonal projection to 90%
+May train skill recitation to 80%
 ------------------------------------------------------.
 
 Level 45 abilities:
@@ -829,14 +826,14 @@ May study spell score of the steadfast to 100%
 May study spell song of mending to 100%
 May study spell summon to 40%
 May study spell water breathing to 100%
-May train skill tonal projection to 100%
-May train skill leftwield to 50%
-May train skill negotiate to 100%
-May train skill instrumentation to 100%
 May train skill recitation to 100%
-May train skill leadership to 95%
 May train skill allegro con foco to 20%
+May train skill instrumentation to 100%
+May train skill negotiate to 100%
+May train skill tonal projection to 100%
 May train skill quick chant to 100%
+May train skill leftwield to 50%
+May train skill leadership to 95%
 ------------------------------------------------------.
 
 Subguilds:

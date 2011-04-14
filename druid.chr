@@ -1,4 +1,4 @@
-Updated 2005.12.28
+Updated 2011.04.14
 
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
@@ -50,7 +50,6 @@ Updated 2005.12.28
 |  45 | Hp(5), Sp(3), Wis(3), Int(2), Sp_regen(2), Cold resistance(1)   |
 `-----------------------------------------------------------------------'
 
-info full
 ------------------------------------------------------.
 
 Level 1 abilities:
@@ -60,19 +59,19 @@ May study spell detect alignment to 20%
 May study spell dispel curse to 20%
 May study spell light to 20%
 May study spell wisdom of ptah to 20%
-May train skill attack to 15%
-May train skill astronomy to 20%
-May train skill weapon skill 1h dagger to 15%
-May train skill weapon skill 1h ancient to 15%
-May train skill weapon skill 1h bludgeon to 15%
 May train skill stellar shadows to 20%
-May train skill natural order to 20%
 May train skill weapon skill 2h dagger to 15%
-May train skill skill that saves sp to 20%
 May train skill weapon skill 2h bludgeon to 15%
+May train skill weapon skill 1h bludgeon to 15%
+May train skill skill that saves sp to 20%
+May train skill weapon skill 1h ancient to 15%
+May train skill weapon skill 1h dagger to 15%
+May train skill astronomy to 20%
+May train skill natural order to 20%
 May train skill weapon skill 1h staff to 15%
-May train skill weapon skill 2h ancient to 15%
 May train skill weapon skill 2h staff to 15%
+May train skill weapon skill 2h ancient to 15%
+May train skill attack to 15%
 ------------------------------------------------------.
 
 Level 2 abilities:
@@ -86,16 +85,16 @@ May study spell provision to 15%
 May study spell pyrotechnics to 15%
 May study spell summon mule to 10%
 May study spell wisdom of ptah to 40%
-May train skill astronomy to 40%
-May train skill composting to 15%
 May train skill stellar shadows to 40%
-May train skill natural order to 40%
-May train skill fire lore to 5%
+May train skill sun lore to 5%
+May train skill composting to 15%
+May train skill bloodletting to 5%
 May train skill tinning to 15%
 May train skill skill that saves sp to 40%
-May train skill bloodletting to 5%
-May train skill sun lore to 5%
 May train skill taxidermy to 15%
+May train skill astronomy to 40%
+May train skill fire lore to 5%
+May train skill natural order to 40%
 ------------------------------------------------------.
 
 Level 3 abilities:
@@ -113,28 +112,28 @@ May study spell provision to 30%
 May study spell pyrotechnics to 30%
 May study spell summon mule to 25%
 May study spell wisdom of ptah to 60%
-May train skill weapon skill 1h dagger to 30%
-May train skill weapon skill 1h bludgeon to 30%
-May train skill weapon skill 2h dagger to 30%
-May train skill tinning to 30%
-May train skill weapon skill 2h ancient to 30%
-May train skill sun lore to 10%
-May train skill quick chant to 5%
-May train skill taxidermy to 30%
-May train skill attack to 30%
-May train skill astronomy to 60%
-May train skill composting to 30%
-May train skill weapon skill 1h ancient to 30%
 May train skill stellar shadows to 60%
-May train skill natural order to 60%
-May train skill water lore to 5%
-May train skill bloodletting to 10%
-May train skill skill that saves sp to 60%
+May train skill weapon skill 2h dagger to 30%
+May train skill sun lore to 10%
+May train skill composting to 30%
 May train skill weapon skill 2h bludgeon to 30%
+May train skill weapon skill 1h dagger to 30%
+May train skill astronomy to 60%
 May train skill consider to 10%
 May train skill weapon skill 1h staff to 30%
-May train skill essence eye to 10%
 May train skill weapon skill 2h staff to 30%
+May train skill weapon skill 2h ancient to 30%
+May train skill attack to 30%
+May train skill bloodletting to 10%
+May train skill water lore to 5%
+May train skill tinning to 30%
+May train skill weapon skill 1h bludgeon to 30%
+May train skill skill that saves sp to 60%
+May train skill essence eye to 10%
+May train skill taxidermy to 30%
+May train skill weapon skill 1h ancient to 30%
+May train skill quick chant to 5%
+May train skill natural order to 60%
 ------------------------------------------------------.
 
 Level 4 abilities:
@@ -159,20 +158,19 @@ May study spell pyrotechnics to 45%
 May study spell soothing heat to 5%
 May study spell summon mule to 35%
 May study spell wisdom of ptah to 80%
-May train skill astronomy to 80%
-May train skill composting to 45%
 May train skill stellar shadows to 80%
-May train skill natural order to 80%
+May train skill sun lore to 15%
+May train skill bloodletting to 15%
+May train skill composting to 45%
 May train skill earth lore to 5%
 May train skill tinning to 45%
-May train skill bloodletting to 15%
-May train skill consider to 20%
-May train skill skill that saves sp to 80%
 May train skill essence eye to 20%
-May train skill sun lore to 15%
+May train skill skill that saves sp to 80%
 May train skill taxidermy to 45%
+May train skill astronomy to 80%
+May train skill consider to 20%
+May train skill natural order to 80%
 ------------------------------------------------------.
-
 Level 5 abilities:
 May study spell bright light to 100%
 May study spell chill weapon to 5%
@@ -202,30 +200,30 @@ May study spell pyrotechnics to 60%
 May study spell soothing heat to 10%
 May study spell summon mule to 50%
 May study spell wisdom of ptah to 100%
-May train skill air lore to 5%
-May train skill weapon skill 1h dagger to 45%
-May train skill mercury lore to 5%
-May train skill weapon skill 1h bludgeon to 45%
-May train skill tinning to 60%
-May train skill fire lore to 10%
+May train skill stellar shadows to 100%
 May train skill weapon skill 2h dagger to 45%
 May train skill sun lore to 20%
-May train skill weapon skill 2h ancient to 45%
-May train skill taxidermy to 60%
-May train skill attack to 45%
-May train skill astronomy to 100%
 May train skill composting to 60%
-May train skill weapon skill 1h ancient to 45%
-May train skill stellar shadows to 100%
-May train skill zapping to 5%
-May train skill natural order to 100%
-May train skill bloodletting to 20%
-May train skill skill that saves sp to 100%
 May train skill weapon skill 2h bludgeon to 45%
+May train skill weapon skill 1h dagger to 45%
+May train skill air lore to 5%
+May train skill mercury lore to 5%
+May train skill astronomy to 100%
 May train skill consider to 30%
-May train skill weapon skill 1h staff to 45%
-May train skill essence eye to 25%
 May train skill weapon skill 2h staff to 45%
+May train skill weapon skill 1h staff to 45%
+May train skill zapping to 5%
+May train skill weapon skill 2h ancient to 45%
+May train skill attack to 45%
+May train skill bloodletting to 20%
+May train skill tinning to 60%
+May train skill weapon skill 1h bludgeon to 45%
+May train skill skill that saves sp to 100%
+May train skill essence eye to 25%
+May train skill taxidermy to 60%
+May train skill weapon skill 1h ancient to 45%
+May train skill natural order to 100%
+May train skill fire lore to 10%
 ------------------------------------------------------.
 
 Level 6 abilities:
@@ -261,13 +259,13 @@ May study spell soothing heat to 25%
 May study spell sticks to snakes to 5%
 May study spell stoneskin to 5%
 May study spell summon mule to 60%
-May train skill tinning to 75%
-May train skill consider to 40%
-May train skill composting to 75%
-May train skill mercury lore to 10%
-May train skill sun lore to 25%
-May train skill essence eye to 35%
 May train skill taxidermy to 75%
+May train skill sun lore to 25%
+May train skill mercury lore to 10%
+May train skill composting to 75%
+May train skill consider to 40%
+May train skill tinning to 75%
+May train skill essence eye to 35%
 ------------------------------------------------------.
 
 Level 7 abilities:
@@ -308,23 +306,23 @@ May study spell stoneskin to 10%
 May study spell summon mule to 75%
 May study spell summon swarm to 5%
 May study spell time's arrow to 5%
-May train skill weapon skill 1h dagger to 60%
-May train skill weapon skill 1h bludgeon to 60%
-May train skill mercury lore to 15%
 May train skill weapon skill 2h dagger to 60%
-May train skill tinning to 85%
-May train skill weapon skill 2h ancient to 60%
 May train skill sun lore to 30%
-May train skill taxidermy to 85%
-May train skill attack to 60%
-May train skill weapon skill 1h ancient to 60%
 May train skill composting to 85%
-May train skill water lore to 10%
 May train skill weapon skill 2h bludgeon to 60%
+May train skill weapon skill 1h dagger to 60%
+May train skill mercury lore to 15%
 May train skill consider to 50%
-May train skill essence eye to 40%
-May train skill weapon skill 1h staff to 60%
 May train skill weapon skill 2h staff to 60%
+May train skill weapon skill 1h staff to 60%
+May train skill attack to 60%
+May train skill weapon skill 2h ancient to 60%
+May train skill water lore to 10%
+May train skill tinning to 85%
+May train skill weapon skill 1h bludgeon to 60%
+May train skill essence eye to 40%
+May train skill taxidermy to 85%
+May train skill weapon skill 1h ancient to 60%
 ------------------------------------------------------.
 
 Level 8 abilities:
@@ -372,15 +370,15 @@ May study spell summon swarm to 10%
 May study spell time's arrow to 10%
 May study spell wall of fire to 5%
 May study spell wrath of tefnut to 5%
-May train skill mercury lore to 20%
+May train skill sun lore to 35%
 May train skill composting to 100%
-May train skill venus lore to 5%
 May train skill earth lore to 10%
 May train skill tinning to 100%
-May train skill consider to 60%
-May train skill sun lore to 35%
 May train skill essence eye to 50%
 May train skill taxidermy to 100%
+May train skill mercury lore to 20%
+May train skill consider to 60%
+May train skill venus lore to 5%
 ------------------------------------------------------.
 
 Level 9 abilities:
@@ -429,23 +427,23 @@ May study spell summon swarm to 15%
 May study spell thunderclap to 5%
 May study spell wall of fire to 10%
 May study spell wrath of tefnut to 10%
-May train skill air lore to 10%
-May train skill weapon skill 1h dagger to 70%
-May train skill mercury lore to 25%
-May train skill weapon skill 1h bludgeon to 70%
-May train skill fire lore to 15%
 May train skill weapon skill 2h dagger to 70%
 May train skill sun lore to 40%
-May train skill quick chant to 10%
-May train skill weapon skill 2h ancient to 70%
-May train skill attack to 70%
-May train skill weapon skill 1h ancient to 70%
-May train skill venus lore to 10%
 May train skill weapon skill 2h bludgeon to 70%
+May train skill weapon skill 1h dagger to 70%
+May train skill air lore to 10%
+May train skill mercury lore to 25%
 May train skill consider to 70%
 May train skill weapon skill 1h staff to 70%
-May train skill essence eye to 60%
 May train skill weapon skill 2h staff to 70%
+May train skill weapon skill 2h ancient to 70%
+May train skill attack to 70%
+May train skill weapon skill 1h bludgeon to 70%
+May train skill essence eye to 60%
+May train skill weapon skill 1h ancient to 70%
+May train skill quick chant to 10%
+May train skill fire lore to 15%
+May train skill venus lore to 10%
 ------------------------------------------------------.
 
 Level 10 abilities:
@@ -485,13 +483,13 @@ May study spell summon storm to 5%
 May study spell sunray to 5%
 May study spell time's arrow to 15%
 May study spell wall of thorns to 5%
-May train skill bloodletting to 25%
-May train skill consider to 80%
 May train skill mercury lore to 30%
 May train skill sun lore to 45%
-May train skill essence eye to 65%
+May train skill bloodletting to 25%
+May train skill consider to 80%
 May train skill zapping to 15%
 May train skill venus lore to 15%
+May train skill essence eye to 65%
 ------------------------------------------------------.
 
 Level 11 abilities:
@@ -535,25 +533,25 @@ May study spell thunderclap to 10%
 May study spell time's arrow to 20%
 May study spell wall of fire to 15%
 May study spell wrath of tefnut to 15%
-May train skill weapon skill 1h dagger to 80%
-May train skill mercury lore to 35%
-May train skill weapon skill 1h bludgeon to 80%
-May train skill mars lore to 5%
 May train skill weapon skill 2h dagger to 80%
 May train skill sun lore to 50%
-May train skill weapon skill 2h ancient to 80%
-May train skill electric enchanting to 5%
-May train skill poison enchanting to 5%
-May train skill attack to 80%
-May train skill weapon skill 1h ancient to 80%
-May train skill venus lore to 20%
-May train skill water lore to 15%
-May train skill bloodletting to 30%
 May train skill weapon skill 2h bludgeon to 80%
+May train skill weapon skill 1h dagger to 80%
+May train skill mercury lore to 35%
 May train skill consider to 90%
-May train skill essence eye to 75%
-May train skill weapon skill 1h staff to 80%
 May train skill weapon skill 2h staff to 80%
+May train skill weapon skill 1h staff to 80%
+May train skill weapon skill 2h ancient to 80%
+May train skill attack to 80%
+May train skill mars lore to 5%
+May train skill bloodletting to 30%
+May train skill water lore to 15%
+May train skill weapon skill 1h bludgeon to 80%
+May train skill essence eye to 75%
+May train skill poison enchanting to 5%
+May train skill weapon skill 1h ancient to 80%
+May train skill electric enchanting to 5%
+May train skill venus lore to 20%
 ------------------------------------------------------.
 
 Level 12 abilities:
@@ -608,15 +606,15 @@ May study spell time's arrow to 25%
 May study spell wall of fire to 20%
 May study spell wall of thorns to 10%
 May study spell wrath of tefnut to 20%
+May train skill sun lore to 55%
+May train skill bloodletting to 35%
+May train skill earth lore to 15%
+May train skill essence eye to 80%
 May train skill mercury lore to 40%
+May train skill consider to 100%
+May train skill quick chant to 20%
 May train skill venus lore to 25%
 May train skill mars lore to 10%
-May train skill earth lore to 15%
-May train skill bloodletting to 35%
-May train skill consider to 100%
-May train skill sun lore to 55%
-May train skill quick chant to 20%
-May train skill essence eye to 80%
 ------------------------------------------------------.
 
 Level 13 abilities:
@@ -646,16 +644,16 @@ May study spell soothing heat to 100%
 May study spell sticks to snakes to 40%
 May study spell stoneskin to 35%
 May study spell summon swarm to 30%
+May train skill sun lore to 60%
+May train skill bloodletting to 40%
+May train skill essence eye to 90%
+May train skill weapon skill 1h ancient to 90%
 May train skill air lore to 15%
 May train skill mercury lore to 45%
-May train skill weapon skill 1h ancient to 90%
+May train skill fire lore to 20%
+May train skill weapon skill 2h ancient to 90%
 May train skill venus lore to 30%
 May train skill mars lore to 15%
-May train skill fire lore to 20%
-May train skill bloodletting to 40%
-May train skill weapon skill 2h ancient to 90%
-May train skill sun lore to 60%
-May train skill essence eye to 90%
 ------------------------------------------------------.
 
 Level 14 abilities:
@@ -707,15 +705,15 @@ May study spell time's arrow to 30%
 May study spell wall of fire to 25%
 May study spell wall of thorns to 15%
 May study spell wrath of tefnut to 25%
-May train skill poison enchanting to 15%
-May train skill mercury lore to 50%
-May train skill mars lore to 20%
-May train skill venus lore to 35%
-May train skill bloodletting to 45%
 May train skill sun lore to 65%
+May train skill bloodletting to 45%
 May train skill essence eye to 100%
 May train skill jupiter lore to 5%
+May train skill poison enchanting to 15%
+May train skill mercury lore to 50%
 May train skill electric enchanting to 15%
+May train skill venus lore to 35%
+May train skill mars lore to 20%
 ------------------------------------------------------.
 
 Level 15 abilities:
@@ -763,16 +761,16 @@ May study spell time's arrow to 35%
 May study spell wall of fire to 30%
 May study spell wall of thorns to 20%
 May study spell wrath of tefnut to 30%
-May train skill mercury lore to 55%
+May train skill sun lore to 70%
+May train skill bloodletting to 50%
+May train skill water lore to 20%
+May train skill jupiter lore to 10%
 May train skill weapon skill 1h ancient to 100%
+May train skill mercury lore to 55%
+May train skill quick chant to 25%
 May train skill zapping to 25%
 May train skill venus lore to 40%
 May train skill mars lore to 25%
-May train skill water lore to 20%
-May train skill bloodletting to 50%
-May train skill sun lore to 70%
-May train skill quick chant to 25%
-May train skill jupiter lore to 10%
 ------------------------------------------------------.
 
 Level 16 abilities:
@@ -819,9 +817,9 @@ May study spell thunderclap to 25%
 May study spell time's arrow to 40%
 May study spell wall of fire to 35%
 May study spell wrath of tefnut to 35%
-May train skill earth lore to 20%
 May train skill sun lore to 75%
 May train skill mercury lore to 60%
+May train skill earth lore to 20%
 May train skill jupiter lore to 15%
 May train skill mars lore to 30%
 May train skill venus lore to 45%
@@ -866,9 +864,9 @@ May study spell thunderclap to 30%
 May study spell time's arrow to 45%
 May study spell wall of thorns to 25%
 May train skill air lore to 20%
-May train skill quick chant to 30%
 May train skill sun lore to 80%
 May train skill mercury lore to 65%
+May train skill quick chant to 30%
 May train skill saturn lore to 5%
 May train skill jupiter lore to 20%
 May train skill mars lore to 35%
@@ -915,15 +913,15 @@ May study spell stoneskin to 60%
 May study spell summon swarm to 50%
 May study spell wall of fire to 40%
 May study spell wrath of tefnut to 40%
-May train skill poison enchanting to 25%
-May train skill mercury lore to 70%
-May train skill venus lore to 55%
-May train skill mars lore to 40%
-May train skill fire lore to 25%
 May train skill sun lore to 85%
-May train skill electric enchanting to 25%
 May train skill jupiter lore to 25%
 May train skill saturn lore to 10%
+May train skill poison enchanting to 25%
+May train skill mercury lore to 70%
+May train skill electric enchanting to 25%
+May train skill fire lore to 25%
+May train skill venus lore to 55%
+May train skill mars lore to 40%
 ------------------------------------------------------.
 
 Level 19 abilities:
@@ -967,9 +965,9 @@ May study spell time's arrow to 50%
 May study spell wall of fire to 45%
 May study spell wall of thorns to 30%
 May study spell wrath of tefnut to 45%
-May train skill water lore to 25%
 May train skill sun lore to 90%
 May train skill mercury lore to 75%
+May train skill water lore to 25%
 May train skill saturn lore to 15%
 May train skill jupiter lore to 30%
 May train skill mars lore to 45%
@@ -1003,16 +1001,16 @@ May study spell summon swarm to 60%
 May study spell sunray to 35%
 May study spell thunderclap to 40%
 May study spell wall of thorns to 35%
+May train skill sun lore to 95%
+May train skill earth lore to 25%
+May train skill saturn lore to 20%
+May train skill uranus lore to 5%
+May train skill jupiter lore to 35%
 May train skill mercury lore to 80%
+May train skill quick chant to 35%
 May train skill zapping to 35%
 May train skill venus lore to 65%
 May train skill mars lore to 50%
-May train skill earth lore to 25%
-May train skill sun lore to 95%
-May train skill quick chant to 35%
-May train skill saturn lore to 20%
-May train skill jupiter lore to 35%
-May train skill uranus lore to 5%
 ------------------------------------------------------.
 
 Level 21 abilities:
@@ -1048,8 +1046,8 @@ May study spell stoneskin to 70%
 May study spell time's arrow to 55%
 May study spell wall of fire to 50%
 May study spell wrath of tefnut to 50%
-May train skill air lore to 25%
 May train skill sun lore to 100%
+May train skill air lore to 25%
 May train skill mercury lore to 85%
 May train skill saturn lore to 25%
 May train skill uranus lore to 10%
@@ -1092,15 +1090,15 @@ May study spell time's arrow to 60%
 May study spell wall of fire to 55%
 May study spell wall of thorns to 40%
 May study spell wrath of tefnut to 55%
-May train skill poison enchanting to 35%
-May train skill mercury lore to 90%
-May train skill mars lore to 60%
-May train skill venus lore to 75%
-May train skill quick chant to 40%
-May train skill electric enchanting to 35%
 May train skill jupiter lore to 45%
 May train skill uranus lore to 15%
 May train skill saturn lore to 30%
+May train skill poison enchanting to 35%
+May train skill mercury lore to 90%
+May train skill electric enchanting to 35%
+May train skill quick chant to 40%
+May train skill mars lore to 60%
+May train skill venus lore to 75%
 ------------------------------------------------------.
 
 Level 23 abilities:
@@ -1135,6 +1133,7 @@ May study spell skyfire to 55%
 May study spell sticks to snakes to 90%
 May study spell stoneskin to 80%
 May study spell summon swarm to 70%
+May study spell time's arrow to 65%
 May study spell wall of fire to 60%
 May study spell wrath of tefnut to 60%
 May train skill mercury lore to 95%
@@ -1169,15 +1168,15 @@ May study spell sunray to 45%
 May study spell thunderclap to 50%
 May study spell time's arrow to 70%
 May study spell wall of thorns to 45%
-May train skill poison enchanting to 45%
-May train skill mercury lore to 100%
-May train skill mars lore to 70%
-May train skill venus lore to 85%
-May train skill electric enchanting to 45%
 May train skill jupiter lore to 55%
 May train skill uranus lore to 25%
 May train skill neptune lore to 10%
 May train skill saturn lore to 40%
+May train skill poison enchanting to 45%
+May train skill mercury lore to 100%
+May train skill electric enchanting to 45%
+May train skill mars lore to 70%
+May train skill venus lore to 85%
 ------------------------------------------------------.
 
 Level 25 abilities:
@@ -1215,14 +1214,14 @@ May study spell thunderclap to 55%
 May study spell time's arrow to 75%
 May study spell wall of fire to 65%
 May study spell wrath of tefnut to 65%
-May train skill quick chant to 45%
 May train skill zapping to 45%
+May train skill quick chant to 45%
 May train skill saturn lore to 45%
 May train skill neptune lore to 15%
 May train skill uranus lore to 30%
+May train skill jupiter lore to 60%
 May train skill venus lore to 90%
 May train skill mars lore to 75%
-May train skill jupiter lore to 60%
 ------------------------------------------------------.
 
 Level 26 abilities:
@@ -1383,15 +1382,15 @@ May study spell thunderclap to 70%
 May study spell time's arrow to 100%
 May study spell wall of fire to 85%
 May study spell wrath of tefnut to 85%
-May train skill zapping to 55%
-May train skill mars lore to 100%
-May train skill quick chant to 55%
+May train skill pluto lore to 25%
 May train skill leadership to 20%
-May train skill uranus lore to 55%
 May train skill jupiter lore to 85%
+May train skill uranus lore to 55%
 May train skill neptune lore to 40%
 May train skill saturn lore to 70%
-May train skill pluto lore to 25%
+May train skill quick chant to 55%
+May train skill zapping to 55%
+May train skill mars lore to 100%
 ------------------------------------------------------.
 
 Level 31 abilities:
@@ -1405,12 +1404,12 @@ May study spell skyfire to 80%
 May study spell summon storm to 65%
 May study spell sunray to 65%
 May study spell wall of thorns to 65%
-May train skill leadership to 40%
 May train skill pluto lore to 30%
-May train skill uranus lore to 60%
-May train skill jupiter lore to 90%
-May train skill neptune lore to 45%
 May train skill saturn lore to 75%
+May train skill jupiter lore to 90%
+May train skill leadership to 40%
+May train skill uranus lore to 60%
+May train skill neptune lore to 45%
 ------------------------------------------------------.
 
 Level 32 abilities:
@@ -1432,15 +1431,15 @@ May study spell plant door to 75%
 May study spell thunderclap to 75%
 May study spell wall of fire to 90%
 May study spell wrath of tefnut to 90%
-May train skill poison enchanting to 65%
-May train skill quick chant to 60%
-May train skill leadership to 55%
-May train skill electric enchanting to 65%
-May train skill neptune lore to 50%
 May train skill uranus lore to 65%
 May train skill jupiter lore to 95%
+May train skill leadership to 55%
+May train skill neptune lore to 50%
 May train skill saturn lore to 80%
 May train skill pluto lore to 35%
+May train skill poison enchanting to 65%
+May train skill electric enchanting to 65%
+May train skill quick chant to 60%
 ------------------------------------------------------.
 
 Level 33 abilities:
@@ -1464,12 +1463,12 @@ May study spell thunderclap to 80%
 May study spell wall of fire to 95%
 May study spell wall of thorns to 70%
 May study spell wrath of tefnut to 95%
-May train skill leadership to 70%
 May train skill pluto lore to 40%
-May train skill uranus lore to 70%
-May train skill jupiter lore to 100%
-May train skill neptune lore to 55%
 May train skill saturn lore to 85%
+May train skill jupiter lore to 100%
+May train skill leadership to 70%
+May train skill uranus lore to 70%
+May train skill neptune lore to 55%
 ------------------------------------------------------.
 
 Level 34 abilities:
@@ -1490,15 +1489,14 @@ May study spell lion's heart to 85%
 May study spell skyfire to 90%
 May study spell summon storm to 75%
 May study spell sunray to 75%
-May study spell time's arrow to 65%
 May study spell wall of fire to 100%
 May study spell wall of thorns to 75%
 May study spell wrath of tefnut to 100%
+May train skill pluto lore to 45%
+May train skill uranus lore to 75%
 May train skill leadership to 85%
 May train skill neptune lore to 60%
-May train skill uranus lore to 75%
 May train skill saturn lore to 90%
-May train skill pluto lore to 45%
 ------------------------------------------------------.
 
 Level 35 abilities:
@@ -1508,15 +1506,15 @@ May study spell faerie fire to 80%
 May study spell plant door to 85%
 May study spell skyfire to 100%
 May study spell thunderclap to 85%
-May train skill poison enchanting to 75%
-May train skill zapping to 65%
-May train skill quick chant to 65%
-May train skill leadership to 95%
-May train skill electric enchanting to 75%
-May train skill saturn lore to 95%
-May train skill neptune lore to 65%
 May train skill uranus lore to 80%
+May train skill leadership to 95%
+May train skill neptune lore to 65%
+May train skill saturn lore to 95%
 May train skill pluto lore to 50%
+May train skill poison enchanting to 75%
+May train skill electric enchanting to 75%
+May train skill quick chant to 65%
+May train skill zapping to 65%
 ------------------------------------------------------.
 
 Level 36 abilities:
@@ -1584,15 +1582,17 @@ May study spell faerie fire to 100%
 May study spell finger of death to 85%
 May study spell life beyond death to 85%
 May study spell plant door to 100%
+May study spell rock to mud to 20%
 May study spell thunderclap to 100%
 May train skill poison enchanting to 85%
 May train skill electric enchanting to 85%
-May train skill pluto lore to 75%
-May train skill neptune lore to 90%
 May train skill zapping to 75%
+May train skill neptune lore to 90%
+May train skill pluto lore to 75%
 ------------------------------------------------------.
 
 Level 41 abilities:
+May study spell rock to mud to 30%
 May study spell summon storm to 95%
 May study spell sunray to 95%
 May study spell wall of thorns to 95%
@@ -1606,6 +1606,7 @@ May study spell creeping doom to 90%
 May study spell enchant arrow to 90%
 May study spell finger of death to 90%
 May study spell life beyond death to 90%
+May study spell rock to mud to 40%
 May train skill poison enchanting to 90%
 May train skill electric enchanting to 90%
 May train skill neptune lore to 100%
@@ -1616,6 +1617,7 @@ Level 43 abilities:
 May study spell creeping doom to 95%
 May study spell finger of death to 95%
 May study spell life beyond death to 95%
+May study spell rock to mud to 50%
 May study spell summon storm to 100%
 May study spell sunray to 100%
 May study spell wall of thorns to 100%
@@ -1624,6 +1626,7 @@ May train skill quick chant to 90%
 ------------------------------------------------------.
 
 Level 44 abilities:
+May study spell rock to mud to 60%
 May train skill pluto lore to 95%
 ------------------------------------------------------.
 
@@ -1632,6 +1635,7 @@ May study spell creeping doom to 100%
 May study spell enchant arrow to 100%
 May study spell finger of death to 100%
 May study spell life beyond death to 100%
+May study spell rock to mud to 100%
 May train skill poison enchanting to 100%
 May train skill quick chant to 100%
 May train skill electric enchanting to 100%

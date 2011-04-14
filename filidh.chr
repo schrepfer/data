@@ -1,4 +1,4 @@
-Updated 2007.01.15
+Updated 2011.04.14
 
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
@@ -10,6 +10,7 @@ Updated 2007.01.15
 |   5 | Sp(8), Hp(3), Wis(3), Int(3), Sp_regen(3)                       |
 |   6 | Sp(8), Hp(3), Wis(3), Int(3), Sp_regen(3)                       |
 `-----------------------------------------------------------------------'
+
 
 ------------------------------------------------------.
 
@@ -78,6 +79,7 @@ May study spell brew salve of poison resistance to 80%
 May study spell brew salve of psionic resistance to 80%
 May study spell conjure cauldron to 90%
 May study spell invigorate to 80%
+May study spell stun resistance to 15%
 May train skill bloodletting to 90%
 ------------------------------------------------------.
 
@@ -95,6 +97,7 @@ May study spell brew salve of poison resistance to 90%
 May study spell brew salve of psionic resistance to 90%
 May study spell conjure cauldron to 100%
 May study spell invigorate to 100%
+May study spell stun resistance to 30%
 May train skill bloodletting to 100%
 ------------------------------------------------------.
 
@@ -109,4 +112,5 @@ May study spell brew salve of magical resistance to 100%
 May study spell brew salve of physical resistance to 100%
 May study spell brew salve of poison resistance to 100%
 May study spell brew salve of psionic resistance to 100%
+May study spell stun resistance to 45%
 ------------------------------------------------------.

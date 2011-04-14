@@ -1,4 +1,4 @@
-Updated 2005.11.14
+Updated 2011.04.14
 
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
@@ -60,7 +60,7 @@ Updated 2005.11.14
 |     | Poison resistance(1)                                            |
 `-----------------------------------------------------------------------'
 
-info full
+
 ------------------------------------------------------.
 
 Level 1 abilities:
@@ -74,8 +74,8 @@ May study spell light to 10%
 May study spell magic missile to 20%
 May study spell vestment of flame to 5%
 May study spell water walking to 20%
-May train skill consider to 10%
 May train skill tinning to 10%
+May train skill consider to 10%
 ------------------------------------------------------.
 
 Level 2 abilities:
@@ -90,8 +90,8 @@ May study spell light to 20%
 May study spell magic missile to 25%
 May study spell rebuke of ice to 5%
 May study spell vestment of flame to 10%
-May train skill consider to 25%
 May train skill appraise to 5%
+May train skill consider to 25%
 ------------------------------------------------------.
 
 Level 3 abilities:
@@ -111,8 +111,8 @@ May study spell see magic to 10%
 May study spell shield of protection to 15%
 May study spell vestment of flame to 15%
 May study spell water walking to 35%
-May train skill consider to 35%
 May train skill tinning to 20%
+May train skill consider to 35%
 ------------------------------------------------------.
 
 Level 4 abilities:
@@ -158,12 +158,12 @@ May study spell teleport with error to 10%
 May study spell vestment of flame to 25%
 May study spell ward of stone to 10%
 May study spell water walking to 45%
-May train skill consider to 55%
-May train skill essence eye to 10%
-May train skill appraise to 20%
-May train skill skill that saves sp to 15%
-May train skill quick chant to 10%
 May train skill mastery of shielding to 5%
+May train skill consider to 55%
+May train skill quick chant to 10%
+May train skill appraise to 20%
+May train skill essence eye to 10%
+May train skill skill that saves sp to 15%
 ------------------------------------------------------.
 
 Level 6 abilities:
@@ -183,8 +183,8 @@ May study spell see magic to 25%
 May study spell vestment of flame to 30%
 May study spell ward of stone to 15%
 May study spell white orb to 45%
-May train skill consider to 65%
 May train skill tinning to 30%
+May train skill consider to 65%
 ------------------------------------------------------.
 
 Level 7 abilities:
@@ -214,9 +214,9 @@ May study spell teleport with error to 25%
 May study spell vestment of flame to 35%
 May study spell ward of stone to 20%
 May study spell water walking to 55%
+May train skill tinning to 40%
 May train skill consider to 75%
 May train skill appraise to 35%
-May train skill tinning to 40%
 ------------------------------------------------------.
 
 Level 8 abilities:
@@ -262,7 +262,6 @@ May study spell identify to 75%
 May study spell infravision to 55%
 May study spell light to 90%
 May study spell mental aegis to 20%
-
 May study spell mystic bulwark to 15%
 May study spell poison fend to 25%
 May study spell rebuke of ice to 40%
@@ -272,10 +271,10 @@ May study spell spark shelter to 10%
 May study spell vestment of flame to 45%
 May study spell ward of stone to 30%
 May study spell water walking to 75%
-May train skill consider to 100%
-May train skill appraise to 45%
-May train skill essence eye to 35%
 May train skill tinning to 50%
+May train skill appraise to 45%
+May train skill consider to 100%
+May train skill essence eye to 35%
 ------------------------------------------------------.
 
 Level 10 abilities:
@@ -311,9 +310,9 @@ May study spell ward of stone to 35%
 May study spell white orb to 70%
 May train skill magical enchanting to 5%
 May train skill electric enchanting to 5%
-May train skill appraise to 65%
 May train skill quick chant to 25%
 May train skill skill that saves sp to 45%
+May train skill appraise to 65%
 ------------------------------------------------------.
 
 Level 11 abilities:
@@ -335,10 +334,10 @@ May study spell spark shelter to 20%
 May study spell vestment of flame to 55%
 May study spell ward of stone to 40%
 May study spell water walking to 85%
+May train skill tinning to 60%
+May train skill zapping to 10%
 May train skill appraise to 75%
 May train skill essence eye to 45%
-May train skill zapping to 10%
-May train skill tinning to 60%
 ------------------------------------------------------.
 
 Level 12 abilities:
@@ -370,10 +369,10 @@ May study spell vestment of flame to 60%
 May study spell ward of stone to 45%
 May study spell water walking to 100%
 May study spell white orb to 80%
-May train skill appraise to 85%
-May train skill essence eye to 65%
-May train skill skill that saves sp to 55%
 May train skill tinning to 70%
+May train skill appraise to 85%
+May train skill skill that saves sp to 55%
+May train skill essence eye to 65%
 ------------------------------------------------------.
 
 Level 13 abilities:
@@ -397,10 +396,10 @@ May study spell spark shelter to 30%
 May study spell teleport with error to 55%
 May study spell vestment of flame to 65%
 May study spell ward of stone to 50%
+May train skill tinning to 80%
+May train skill zapping to 25%
 May train skill appraise to 100%
 May train skill essence eye to 75%
-May train skill zapping to 25%
-May train skill tinning to 80%
 ------------------------------------------------------.
 
 Level 14 abilities:
@@ -429,9 +428,9 @@ May study spell vestment of flame to 70%
 May study spell ward of stone to 55%
 May study spell white orb to 90%
 May train skill magical enchanting to 15%
-May train skill essence eye to 85%
 May train skill electric enchanting to 15%
 May train skill skill that saves sp to 65%
+May train skill essence eye to 85%
 ------------------------------------------------------.
 
 Level 15 abilities:
@@ -460,8 +459,8 @@ May study spell spark shelter to 40%
 May study spell teleport with error to 85%
 May study spell vestment of flame to 75%
 May study spell ward of stone to 60%
-May train skill mastery of shielding to 10%
 May train skill quick chant to 35%
+May train skill mastery of shielding to 10%
 ------------------------------------------------------.
 
 Level 16 abilities:
@@ -483,15 +482,14 @@ May study spell spark shelter to 45%
 May study spell vestment of flame to 80%
 May study spell ward of stone to 65%
 May study spell white orb to 100%
-May train skill skill that saves sp to 75%
 May train skill essence eye to 100%
+May train skill skill that saves sp to 75%
 ------------------------------------------------------.
 
 Level 17 abilities:
 May study spell blurred image to 100%
 May study spell caustic opposition to 50%
 May study spell cure light wounds to 85%
-
 May study spell curse to 40%
 May study spell dispel curse to 45%
 May study spell enchant arrow to 15%
@@ -539,8 +537,8 @@ May study spell vestment of flame to 90%
 May study spell ward of stone to 75%
 May study spell winter's rebuke to 5%
 May train skill magical enchanting to 25%
-May train skill electric enchanting to 25%
 May train skill skill that saves sp to 90%
+May train skill electric enchanting to 25%
 ------------------------------------------------------.
 
 Level 19 abilities:
@@ -564,7 +562,6 @@ May study spell ward of stone to 80%
 May study spell winter's rebuke to 10%
 May train skill zapping to 45%
 ------------------------------------------------------.
-
 
 Level 20 abilities:
 May study spell barkskin to 55%
@@ -650,8 +647,8 @@ May study spell ward of steel to 15%
 May study spell ward of stone to 95%
 May study spell winter's rebuke to 25%
 May train skill magical enchanting to 35%
-May train skill electric enchanting to 35%
 May train skill zapping to 75%
+May train skill electric enchanting to 35%
 ------------------------------------------------------.
 
 Level 23 abilities:
@@ -697,8 +694,8 @@ May study spell teleport without error to 25%
 May study spell venom fend to 20%
 May study spell ward of steel to 25%
 May study spell winter's rebuke to 35%
-May train skill electric enchanting to 45%
 May train skill magical enchanting to 45%
+May train skill electric enchanting to 45%
 ------------------------------------------------------.
 
 Level 25 abilities:
@@ -726,10 +723,10 @@ May study spell spark shelter to 90%
 May study spell venom fend to 25%
 May study spell ward of steel to 30%
 May study spell winter's rebuke to 40%
-May train skill greater vulnerability to 5%
 May train skill zapping to 85%
-May train skill quick chant to 55%
 May train skill mastery of shielding to 15%
+May train skill quick chant to 55%
+May train skill greater vulnerability to 5%
 ------------------------------------------------------.
 
 Level 26 abilities:
@@ -831,8 +828,8 @@ May study spell resist void to 55%
 May study spell venom fend to 45%
 May study spell ward of steel to 50%
 May study spell winter's rebuke to 60%
-May train skill electric enchanting to 55%
 May train skill magical enchanting to 55%
+May train skill electric enchanting to 55%
 ------------------------------------------------------.
 
 Level 30 abilities:
@@ -857,9 +854,9 @@ May study spell venom fend to 50%
 May study spell vitriolic bane to 15%
 May study spell ward of steel to 55%
 May study spell winter's rebuke to 65%
+May train skill quick chant to 65%
 May train skill greater vulnerability to 10%
 May train skill leadership to 20%
-May train skill quick chant to 65%
 ------------------------------------------------------.
 
 Level 31 abilities:
@@ -909,8 +906,8 @@ May study spell venom fend to 60%
 May study spell vitriolic bane to 20%
 May study spell ward of steel to 65%
 May study spell winter's rebuke to 75%
-May train skill leadership to 30%
 May train skill magical enchanting to 65%
+May train skill leadership to 30%
 May train skill electric enchanting to 65%
 ------------------------------------------------------.
 
@@ -965,7 +962,6 @@ May study spell energetic frailty to 25%
 May study spell fragile frame to 30%
 May study spell infernal vestment to 95%
 May study spell iron will to 65%
-
 May study spell languished soul to 30%
 May study spell lightning guard to 60%
 May study spell mana drain to 100%
@@ -977,10 +973,10 @@ May study spell venom fend to 75%
 May study spell vitriolic bane to 25%
 May study spell ward of steel to 80%
 May study spell winter's rebuke to 90%
-May train skill greater vulnerability to 15%
 May train skill magical enchanting to 75%
-May train skill electric enchanting to 75%
 May train skill mastery of shielding to 20%
+May train skill greater vulnerability to 15%
+May train skill electric enchanting to 75%
 ------------------------------------------------------.
 
 Level 36 abilities:
@@ -1008,8 +1004,8 @@ May study spell teleport without error to 75%
 May study spell venom fend to 80%
 May study spell ward of steel to 85%
 May study spell winter's rebuke to 95%
-May train skill quick chant to 75%
 May train skill leadership to 50%
+May train skill quick chant to 75%
 ------------------------------------------------------.
 
 Level 37 abilities:
@@ -1103,10 +1099,10 @@ May study spell ray of enervation to 50%
 May study spell teleport without error to 100%
 May study spell venom fend to 100%
 May train skill magical enchanting to 85%
-May train skill greater vulnerability to 20%
 May train skill electric enchanting to 85%
-May train skill leadership to 70%
 May train skill quick chant to 90%
+May train skill greater vulnerability to 20%
+May train skill leadership to 70%
 ------------------------------------------------------.
 
 Level 41 abilities:
@@ -1129,7 +1125,6 @@ May study spell corrosive opposition to 95%
 May study spell deprive warmth to 45%
 May study spell elemental disarray to 60%
 May study spell enchant arrow to 90%
-
 May study spell energy hauberk to 90%
 May study spell fragile frame to 45%
 May study spell incendiary coating to 45%
@@ -1140,8 +1135,8 @@ May study spell lightning guard to 95%
 May study spell mana leech to 90%
 May study spell mystic impairment to 45%
 May study spell ray of enervation to 60%
-May train skill electric enchanting to 90%
 May train skill magical enchanting to 90%
+May train skill electric enchanting to 90%
 ------------------------------------------------------.
 
 Level 43 abilities:
@@ -1181,12 +1176,12 @@ May study spell languished soul to 50%
 May study spell mystic impairment to 50%
 May study spell ray of enervation to 75%
 May study spell vitriolic bane to 50%
-May train skill greater vulnerability to 25%
 May train skill magical enchanting to 100%
-May train skill electric enchanting to 100%
-May train skill leadership to 80%
-May train skill quick chant to 100%
 May train skill mastery of shielding to 25%
+May train skill electric enchanting to 100%
+May train skill quick chant to 100%
+May train skill greater vulnerability to 25%
+May train skill leadership to 80%
 ------------------------------------------------------.
 
 Subguilds:
