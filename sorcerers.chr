@@ -1,114 +1,64 @@
+Updated 2011.04.18
+
 ,-----------------------------------------------------------------------.
 | Lvl | Guild bonuses                                                   |
 |=====|=================================================================|
-|   1 | Sp(4), Hp(4), Int(2), Wis(1),                                   |
-|     | Sp_regen(1)                                                     |
-|   2 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|   3 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|   4 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Sp_regen(2), Hp_regen(1)                                        |
-|   5 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|   6 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|   7 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Con(1), Sp_regen(2),                                            |
-|     | Hp_regen(1)                                                     |
-|   8 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|   9 | Sp(6), Hp(6), Int(3), Wis(2),                                   |
-|     | Con(1), Sp_regen(2),                                            |
-|     | Hp_regen(1)                                                     |
-|  10 | Sp(4), Hp(4), Int(2), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|  11 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|  12 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Sp_regen(2), Cold resistance(1),                                |
+|   1 | Sp(6), Hp(6), Int(3), Wis(2), Con(1), Sp_regen(2)               |
+|   2 | Sp(6), Hp(6), Int(3), Wis(3), Con(1), Sp_regen(3), Hp_regen(1)  |
+|   3 | Sp(7), Hp(7), Int(3), Wis(2), Sp_regen(2)                       |
+|   4 | Sp(6), Hp(6), Int(3), Wis(3), Con(1), Sp_regen(3), Hp_regen(1)  |
+|   5 | Sp(6), Hp(6), Int(3), Wis(2), Sp_regen(2)                       |
+|   6 | Sp(7), Hp(7), Int(3), Wis(3), Con(1), Sp_regen(3), Hp_regen(1)  |
+|   7 | Sp(6), Hp(6), Int(3), Wis(2), Con(1), Sp_regen(2)               |
+|   8 | Sp(6), Hp(6), Int(3), Wis(2), Sp_regen(3), Cold resistance(1),  |
 |     | Magical resistance(1), Physical resistance(1),                  |
 |     | Electric resistance(1), Asphyxiation resistance(1)              |
-|  13 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Con(1), Sp_regen(2),                                            |
-|     | Hp_regen(1)                                                     |
-|  14 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|  15 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|  16 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Sp_regen(2), Hp_regen(1)                                        |
-|  17 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|  18 | Sp(6), Hp(6), Int(3), Wis(2),                                   |
-|     | Sp_regen(2), Hp_regen(1)                                        |
-|  19 | Sp(4), Hp(4), Int(2), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|  20 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|  21 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|  22 | Sp(5), Hp(5), Int(2), Wis(1),                                   |
-|     | Sp_regen(2), Hp_regen(1)                                        |
-|  23 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Con(1), Sp_regen(2),                                            |
+|   9 | Sp(7), Hp(7), Int(3), Wis(3), Con(1), Sp_regen(2), Hp_regen(1)  |
+|  10 | Sp(6), Hp(6), Int(3), Wis(2), Sp_regen(3)                       |
+|  11 | Sp(6), Hp(6), Int(3), Wis(3), Con(1), Sp_regen(2), Hp_regen(1)  |
+|  12 | Sp(6), Hp(6), Int(3), Wis(2), Con(1), Sp_regen(2)               |
+|  13 | Sp(5), Hp(5), Int(3), Wis(2), Sp_regen(3)                       |
+|  14 | Sp(6), Hp(6), Int(3), Wis(3), Con(1), Sp_regen(2), Hp_regen(1)  |
+|  15 | Sp(6), Hp(6), Int(3), Wis(2), Sp_regen(2)                       |
+|  16 | Sp(6), Hp(6), Int(3), Wis(2), Con(1), Sp_regen(3), Hp_regen(1)  |
+|  17 | Sp(6), Hp(6), Int(2), Wis(2), Sp_regen(2)                       |
+|  18 | Sp(6), Hp(6), Int(3), Wis(3), Con(1), Sp_regen(2),              |
 |     | Cold resistance(1), Magical resistance(1),                      |
 |     | Physical resistance(1), Electric resistance(1),                 |
 |     | Asphyxiation resistance(1)                                      |
-|  24 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|  25 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Con(1), Sp_regen(2),                                            |
-|     | Hp_regen(1)                                                     |
-|  26 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|  27 | Sp(6), Hp(6), Int(3), Wis(2),                                   |
-|     | Con(1), Sp_regen(2),                                            |
-|     | Hp_regen(1)                                                     |
-|  28 | Sp(4), Hp(4), Int(2), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|  29 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|  30 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|  31 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Con(1), Sp_regen(2),                                            |
-|     | Hp_regen(1)                                                     |
-|  32 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|  33 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|  34 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Sp_regen(2), Hp_regen(1),                                       |
+|  19 | Sp(5), Hp(5), Int(3), Wis(2), Con(1), Sp_regen(3), Hp_regen(1)  |
+|  20 | Sp(6), Hp(6), Int(3), Wis(2), Sp_regen(2)                       |
+|  21 | Sp(5), Hp(5), Int(2), Wis(2), Con(1), Sp_regen(2)               |
+|  22 | Sp(5), Hp(5), Int(3), Wis(2), Sp_regen(2), Hp_regen(1)          |
+|  23 | Sp(5), Hp(5), Int(2), Wis(2), Con(1), Sp_regen(2)               |
+|  24 | Sp(5), Hp(5), Int(3), Wis(2), Sp_regen(2)                       |
+|  25 | Sp(4), Hp(4), Int(2), Wis(2), Con(1), Sp_regen(1), Hp_regen(1)  |
+|  26 | Sp(4), Hp(4), Int(1), Wis(1), Sp_regen(2)                       |
+|  27 | Sp(4), Hp(4), Int(2), Wis(2), Sp_regen(1)                       |
+|  28 | Sp(3), Hp(3), Int(2), Wis(1), Con(1), Sp_regen(2)               |
+|  29 | Sp(4), Hp(4), Int(2), Wis(2), Sp_regen(1), Hp_regen(1),         |
 |     | Cold resistance(1), Magical resistance(1),                      |
 |     | Physical resistance(1), Electric resistance(1),                 |
 |     | Asphyxiation resistance(1)                                      |
-|  35 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|  36 | Sp(6), Hp(6), Int(3), Wis(2),                                   |
-|     | Sp_regen(2), Hp_regen(1)                                        |
-|  37 | Sp(4), Hp(4), Int(2), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|  38 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|  39 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|  40 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Sp_regen(2), Hp_regen(1)                                        |
-|  41 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Con(1), Sp_regen(2)                                             |
-|  42 | Sp(5), Hp(5), Int(2), Wis(2),                                   |
-|     | Sp_regen(2)                                                     |
-|  43 | Sp(5), Hp(5), Int(3), Wis(2),                                   |
-|     | Con(1), Sp_regen(1),                                            |
-|     | Hp_regen(1)                                                     |
-|  44 | Sp(5), Hp(5), Int(2), Wis(1),                                   |
-|     | Sp_regen(2)                                                     |
-|  45 | Sp(6), Hp(6), Int(3), Wis(3),                                   |
-|     | Con(1), Sp_regen(3),                                            |
-|     | Hp_regen(1), Cold resistance(1),                                |
-|     | Magical resistance(1), Physical resistance(1),                  |
-|     | Electric resistance(1), Asphyxiation resistance(1)              |
+|  30 | Sp(4), Hp(4), Int(2), Wis(1), Sp_regen(2)                       |
+|  31 | Sp(4), Hp(4), Int(2), Wis(1), Con(1), Sp_regen(1)               |
+|  32 | Sp(4), Hp(4), Int(2), Wis(2), Sp_regen(2), Hp_regen(1)          |
+|  33 | Sp(4), Hp(4), Int(1), Wis(1), Sp_regen(1)                       |
+|  34 | Sp(3), Hp(3), Int(2), Wis(2), Con(1), Sp_regen(2)               |
+|  35 | Sp(4), Hp(4), Int(2), Wis(1), Sp_regen(1)                       |
+|  36 | Sp(3), Hp(3), Int(2), Wis(2), Con(1), Sp_regen(1)               |
+|  37 | Sp(4), Hp(4), Int(1), Wis(1), Sp_regen(2), Hp_regen(1)          |
+|  38 | Sp(3), Hp(3), Int(2), Wis(1), Sp_regen(1)                       |
+|  39 | Sp(3), Hp(3), Int(2), Wis(2), Con(1), Sp_regen(1)               |
+|  40 | Sp(4), Hp(4), Int(1), Wis(1), Sp_regen(2)                       |
+|  41 | Sp(3), Hp(3), Int(2), Wis(1), Sp_regen(1), Hp_regen(1)          |
+|  42 | Sp(3), Hp(3), Int(2), Wis(2), Con(1), Sp_regen(1)               |
+|  43 | Sp(4), Hp(4), Int(1), Wis(1), Sp_regen(2)                       |
+|  44 | Sp(3), Hp(3), Int(2), Wis(1), Sp_regen(1)                       |
+|  45 | Sp(4), Hp(4), Int(2), Wis(2), Con(1), Sp_regen(2), Hp_regen(1), |
+|     | Cold resistance(1), Magical resistance(1),                      |
+|     | Physical resistance(1), Electric resistance(1),                 |
+|     | Asphyxiation resistance(1)                                      |
 `-----------------------------------------------------------------------'
 
 ------------------------------------------------------.
@@ -117,30 +67,31 @@ Level 1 abilities:
 May study spell detect alignment to 10%
 May study spell heavy weight to 10%
 May study spell infravision to 10%
+May train skill augment darkness to 10%
 May train skill dweomersight to 5%
+May train skill essence eye to 5%
 May train skill skill that saves sp to 5%
 May train skill dodge to 5%
+May train skill produce light to 10%
 May train skill nightsight to 5%
 May train skill zapping to 5%
 May train skill farsight to 5%
-May train skill essence eye to 5%
-May train skill augment darkness to 10%
-May train skill produce light to 10%
 ------------------------------------------------------.
 
 Level 2 abilities:
 May study spell detect alignment to 15%
 May study spell heavy weight to 15%
 May study spell infravision to 15%
+May train skill augment darkness to 20%
 May train skill dweomersight to 10%
+May train skill essence eye to 10%
 May train skill skill that saves sp to 10%
 May train skill dodge to 10%
+May train skill produce light to 20%
 May train skill nightsight to 10%
 May train skill zapping to 10%
+May train skill sentience to 5%
 May train skill farsight to 10%
-May train skill essence eye to 10%
-May train skill augment darkness to 20%
-May train skill produce light to 20%
 ------------------------------------------------------.
 
 Level 3 abilities:
@@ -148,19 +99,20 @@ May study spell detect alignment to 20%
 May study spell heavy weight to 20%
 May study spell infravision to 20%
 May study spell thermal drain to 5%
-May train skill dweomersight to 20%
-May train skill weapon skill 2h dagger to 5%
-May train skill attack to 5%
-May train skill nightsight to 20%
 May train skill weapon skill 1h dagger to 5%
-May train skill dodge to 15%
-May train skill skill that saves sp to 15%
-May train skill farsight to 15%
-May train skill zapping to 15%
-May train skill quick chant to 5%
-May train skill essence eye to 15%
+May train skill attack to 5%
+May train skill dweomersight to 20%
 May train skill augment darkness to 30%
+May train skill essence eye to 15%
+May train skill skill that saves sp to 15%
+May train skill weapon skill 2h dagger to 5%
+May train skill dodge to 15%
+May train skill quick chant to 5%
+May train skill zapping to 15%
+May train skill nightsight to 20%
 May train skill produce light to 30%
+May train skill sentience to 10%
+May train skill farsight to 15%
 ------------------------------------------------------.
 
 Level 4 abilities:
@@ -168,18 +120,19 @@ May study spell detect alignment to 25%
 May study spell heavy weight to 25%
 May study spell infravision to 25%
 May study spell thermal drain to 10%
-May train skill dweomersight to 25%
-May train skill weapon skill 2h dagger to 10%
-May train skill attack to 10%
-May train skill nightsight to 25%
 May train skill weapon skill 1h dagger to 10%
-May train skill skill that saves sp to 20%
-May train skill farsight to 20%
-May train skill zapping to 20%
-May train skill quick chant to 10%
-May train skill essence eye to 20%
+May train skill attack to 10%
+May train skill dweomersight to 25%
 May train skill augment darkness to 40%
+May train skill essence eye to 20%
+May train skill skill that saves sp to 20%
+May train skill weapon skill 2h dagger to 10%
+May train skill quick chant to 10%
+May train skill zapping to 20%
+May train skill nightsight to 25%
 May train skill produce light to 40%
+May train skill sentience to 15%
+May train skill farsight to 20%
 ------------------------------------------------------.
 
 Level 5 abilities:
@@ -187,18 +140,19 @@ May study spell detect alignment to 30%
 May study spell heavy weight to 30%
 May study spell infravision to 30%
 May study spell thermal drain to 15%
-May train skill dweomersight to 30%
-May train skill weapon skill 2h dagger to 15%
-May train skill attack to 15%
-May train skill nightsight to 30%
 May train skill weapon skill 1h dagger to 15%
-May train skill skill that saves sp to 25%
-May train skill farsight to 25%
-May train skill zapping to 25%
-May train skill quick chant to 15%
-May train skill essence eye to 25%
+May train skill attack to 15%
+May train skill dweomersight to 30%
 May train skill augment darkness to 50%
+May train skill essence eye to 25%
+May train skill skill that saves sp to 25%
+May train skill weapon skill 2h dagger to 15%
+May train skill quick chant to 15%
+May train skill zapping to 25%
+May train skill nightsight to 30%
 May train skill produce light to 50%
+May train skill sentience to 20%
+May train skill farsight to 25%
 ------------------------------------------------------.
 
 Level 6 abilities:
@@ -206,18 +160,19 @@ May study spell detect alignment to 35%
 May study spell heavy weight to 35%
 May study spell infravision to 35%
 May study spell thermal drain to 20%
-May train skill dweomersight to 35%
-May train skill weapon skill 2h dagger to 20%
-May train skill attack to 20%
-May train skill nightsight to 35%
 May train skill weapon skill 1h dagger to 20%
-May train skill skill that saves sp to 30%
-May train skill farsight to 30%
-May train skill zapping to 30%
-May train skill quick chant to 20%
-May train skill essence eye to 30%
+May train skill attack to 20%
+May train skill dweomersight to 35%
 May train skill augment darkness to 60%
+May train skill essence eye to 30%
+May train skill skill that saves sp to 30%
+May train skill weapon skill 2h dagger to 20%
+May train skill quick chant to 20%
+May train skill zapping to 30%
+May train skill nightsight to 35%
 May train skill produce light to 60%
+May train skill sentience to 25%
+May train skill farsight to 30%
 ------------------------------------------------------.
 
 Level 7 abilities:
@@ -225,18 +180,19 @@ May study spell detect alignment to 40%
 May study spell heavy weight to 40%
 May study spell infravision to 40%
 May study spell thermal drain to 25%
-May train skill dweomersight to 40%
-May train skill weapon skill 2h dagger to 25%
-May train skill attack to 25%
-May train skill nightsight to 40%
 May train skill weapon skill 1h dagger to 25%
-May train skill skill that saves sp to 35%
-May train skill farsight to 35%
-May train skill zapping to 35%
-May train skill quick chant to 25%
-May train skill essence eye to 35%
+May train skill attack to 25%
+May train skill dweomersight to 40%
 May train skill augment darkness to 70%
+May train skill essence eye to 35%
+May train skill skill that saves sp to 35%
+May train skill weapon skill 2h dagger to 25%
+May train skill quick chant to 25%
+May train skill zapping to 35%
+May train skill nightsight to 40%
 May train skill produce light to 70%
+May train skill sentience to 30%
+May train skill farsight to 35%
 ------------------------------------------------------.
 
 Level 8 abilities:
@@ -245,18 +201,19 @@ May study spell heavy weight to 45%
 May study spell infravision to 45%
 May study spell recognize pattern to 5%
 May study spell thermal drain to 30%
-May train skill dweomersight to 45%
-May train skill weapon skill 2h dagger to 30%
-May train skill attack to 30%
-May train skill nightsight to 45%
 May train skill weapon skill 1h dagger to 30%
-May train skill skill that saves sp to 40%
-May train skill farsight to 40%
-May train skill zapping to 40%
-May train skill quick chant to 30%
-May train skill essence eye to 40%
+May train skill attack to 30%
+May train skill dweomersight to 45%
 May train skill augment darkness to 80%
+May train skill essence eye to 40%
+May train skill skill that saves sp to 40%
+May train skill weapon skill 2h dagger to 30%
+May train skill quick chant to 30%
+May train skill zapping to 40%
+May train skill nightsight to 45%
 May train skill produce light to 80%
+May train skill sentience to 35%
+May train skill farsight to 40%
 ------------------------------------------------------.
 
 Level 9 abilities:
@@ -266,18 +223,19 @@ May study spell infravision to 50%
 May study spell levitate object to 5%
 May study spell recognize pattern to 10%
 May study spell thermal drain to 35%
-May train skill dweomersight to 50%
-May train skill weapon skill 2h dagger to 35%
-May train skill attack to 35%
-May train skill nightsight to 50%
 May train skill weapon skill 1h dagger to 35%
-May train skill skill that saves sp to 45%
-May train skill farsight to 45%
-May train skill zapping to 45%
-May train skill quick chant to 35%
-May train skill essence eye to 45%
+May train skill attack to 35%
+May train skill dweomersight to 50%
 May train skill augment darkness to 90%
+May train skill essence eye to 45%
+May train skill skill that saves sp to 45%
+May train skill weapon skill 2h dagger to 35%
+May train skill quick chant to 35%
+May train skill zapping to 45%
+May train skill nightsight to 50%
 May train skill produce light to 90%
+May train skill sentience to 40%
+May train skill farsight to 45%
 ------------------------------------------------------.
 
 Level 10 abilities:
@@ -287,16 +245,17 @@ May study spell infravision to 55%
 May study spell levitate object to 10%
 May study spell recognize pattern to 15%
 May study spell thermal drain to 40%
-May train skill dweomersight to 55%
-May train skill weapon skill 2h dagger to 40%
-May train skill attack to 40%
 May train skill weapon skill 1h dagger to 40%
-May train skill skill that saves sp to 50%
-May train skill nightsight to 55%
-May train skill farsight to 50%
-May train skill zapping to 50%
-May train skill quick chant to 40%
+May train skill attack to 40%
+May train skill dweomersight to 55%
 May train skill essence eye to 50%
+May train skill skill that saves sp to 50%
+May train skill weapon skill 2h dagger to 40%
+May train skill quick chant to 40%
+May train skill nightsight to 55%
+May train skill zapping to 50%
+May train skill sentience to 45%
+May train skill farsight to 50%
 ------------------------------------------------------.
 
 Level 11 abilities:
@@ -306,16 +265,17 @@ May study spell infravision to 60%
 May study spell levitate object to 15%
 May study spell recognize pattern to 20%
 May study spell thermal drain to 45%
-May train skill dweomersight to 60%
-May train skill weapon skill 2h dagger to 45%
-May train skill attack to 45%
 May train skill weapon skill 1h dagger to 45%
-May train skill skill that saves sp to 55%
-May train skill nightsight to 60%
-May train skill farsight to 55%
-May train skill zapping to 55%
-May train skill quick chant to 45%
+May train skill attack to 45%
+May train skill dweomersight to 60%
 May train skill essence eye to 55%
+May train skill skill that saves sp to 55%
+May train skill weapon skill 2h dagger to 45%
+May train skill quick chant to 45%
+May train skill nightsight to 60%
+May train skill zapping to 55%
+May train skill sentience to 50%
+May train skill farsight to 55%
 ------------------------------------------------------.
 
 Level 12 abilities:
@@ -325,16 +285,17 @@ May study spell infravision to 65%
 May study spell levitate object to 20%
 May study spell recognize pattern to 25%
 May study spell thermal drain to 50%
-May train skill dweomersight to 65%
-May train skill weapon skill 2h dagger to 50%
-May train skill attack to 50%
 May train skill weapon skill 1h dagger to 50%
-May train skill skill that saves sp to 60%
-May train skill nightsight to 65%
-May train skill farsight to 60%
-May train skill zapping to 60%
-May train skill quick chant to 50%
+May train skill attack to 50%
+May train skill dweomersight to 65%
 May train skill essence eye to 60%
+May train skill skill that saves sp to 60%
+May train skill weapon skill 2h dagger to 50%
+May train skill quick chant to 50%
+May train skill nightsight to 65%
+May train skill zapping to 60%
+May train skill sentience to 55%
+May train skill farsight to 60%
 ------------------------------------------------------.
 
 Level 13 abilities:
@@ -345,16 +306,17 @@ May study spell infravision to 70%
 May study spell levitate object to 25%
 May study spell recognize pattern to 30%
 May study spell thermal drain to 55%
-May train skill dweomersight to 70%
-May train skill weapon skill 2h dagger to 55%
-May train skill attack to 55%
 May train skill weapon skill 1h dagger to 55%
-May train skill skill that saves sp to 65%
-May train skill nightsight to 70%
-May train skill farsight to 65%
-May train skill zapping to 65%
-May train skill quick chant to 55%
+May train skill attack to 55%
+May train skill dweomersight to 70%
 May train skill essence eye to 65%
+May train skill skill that saves sp to 65%
+May train skill weapon skill 2h dagger to 55%
+May train skill quick chant to 55%
+May train skill nightsight to 70%
+May train skill zapping to 65%
+May train skill sentience to 60%
+May train skill farsight to 65%
 ------------------------------------------------------.
 
 Level 14 abilities:
@@ -367,16 +329,17 @@ May study spell levitate object to 30%
 May study spell optimize energy consumption to 5%
 May study spell recognize pattern to 35%
 May study spell thermal drain to 60%
-May train skill dweomersight to 75%
-May train skill weapon skill 2h dagger to 60%
-May train skill attack to 60%
 May train skill weapon skill 1h dagger to 60%
-May train skill skill that saves sp to 70%
-May train skill nightsight to 75%
-May train skill farsight to 70%
-May train skill zapping to 70%
-May train skill quick chant to 60%
+May train skill attack to 60%
+May train skill dweomersight to 75%
 May train skill essence eye to 70%
+May train skill skill that saves sp to 70%
+May train skill weapon skill 2h dagger to 60%
+May train skill quick chant to 60%
+May train skill nightsight to 75%
+May train skill zapping to 70%
+May train skill sentience to 65%
+May train skill farsight to 70%
 ------------------------------------------------------.
 
 Level 15 abilities:
@@ -389,16 +352,17 @@ May study spell levitate object to 35%
 May study spell optimize energy consumption to 10%
 May study spell recognize pattern to 40%
 May study spell relocate to 5%
-May train skill dweomersight to 80%
-May train skill weapon skill 2h dagger to 65%
-May train skill attack to 65%
 May train skill weapon skill 1h dagger to 65%
-May train skill skill that saves sp to 75%
-May train skill nightsight to 80%
-May train skill farsight to 75%
-May train skill zapping to 75%
-May train skill quick chant to 65%
+May train skill attack to 65%
+May train skill dweomersight to 80%
 May train skill essence eye to 75%
+May train skill skill that saves sp to 75%
+May train skill weapon skill 2h dagger to 65%
+May train skill quick chant to 65%
+May train skill nightsight to 80%
+May train skill zapping to 75%
+May train skill sentience to 70%
+May train skill farsight to 75%
 ------------------------------------------------------.
 
 Level 16 abilities:
@@ -409,14 +373,15 @@ May study spell optimize energy consumption to 15%
 May study spell recognize pattern to 45%
 May study spell relocate to 10%
 May study spell thermal drain to 65%
-May train skill farsight to 80%
-May train skill zapping to 80%
-May train skill essence eye to 80%
+May train skill weapon skill 1h dagger to 70%
 May train skill attack to 70%
+May train skill skill that saves sp to 80%
+May train skill essence eye to 80%
 May train skill weapon skill 2h dagger to 70%
 May train skill quick chant to 70%
-May train skill skill that saves sp to 80%
-May train skill weapon skill 1h dagger to 70%
+May train skill zapping to 80%
+May train skill sentience to 75%
+May train skill farsight to 80%
 ------------------------------------------------------.
 
 Level 17 abilities:
@@ -427,9 +392,10 @@ May study spell optimize energy consumption to 20%
 May study spell recognize pattern to 50%
 May study spell relocate to 15%
 May study spell thermal drain to 70%
+May train skill zapping to 85%
+May train skill sentience to 80%
 May train skill farsight to 85%
 May train skill skill that saves sp to 85%
-May train skill zapping to 85%
 May train skill essence eye to 85%
 ------------------------------------------------------.
 
@@ -442,14 +408,15 @@ May study spell optimize energy consumption to 25%
 May study spell recognize pattern to 55%
 May study spell relocate to 20%
 May study spell thermal drain to 75%
-May train skill farsight to 90%
-May train skill zapping to 90%
-May train skill essence eye to 90%
+May train skill weapon skill 1h dagger to 75%
 May train skill attack to 75%
+May train skill skill that saves sp to 90%
+May train skill essence eye to 90%
 May train skill weapon skill 2h dagger to 75%
 May train skill quick chant to 75%
-May train skill skill that saves sp to 90%
-May train skill weapon skill 1h dagger to 75%
+May train skill zapping to 90%
+May train skill sentience to 85%
+May train skill farsight to 90%
 ------------------------------------------------------.
 
 Level 19 abilities:
@@ -461,13 +428,14 @@ May study spell optimize energy consumption to 30%
 May study spell recognize pattern to 60%
 May study spell relocate to 25%
 May study spell thermal drain to 80%
-May train skill zapping to 95%
-May train skill essence eye to 95%
-May train skill attack to 80%
+May train skill weapon skill 1h dagger to 80%
 May train skill weapon skill 2h dagger to 80%
 May train skill quick chant to 80%
+May train skill zapping to 95%
+May train skill attack to 80%
+May train skill sentience to 90%
+May train skill essence eye to 95%
 May train skill skill that saves sp to 95%
-May train skill weapon skill 1h dagger to 80%
 ------------------------------------------------------.
 
 Level 20 abilities:
@@ -479,11 +447,11 @@ May study spell optimize energy consumption to 35%
 May study spell recognize pattern to 65%
 May study spell relocate to 30%
 May study spell thermal drain to 85%
+May train skill quick chant to 85%
 May train skill transposition to 5%
+May train skill attack to 85%
 May train skill zapping to 100%
 May train skill leadership to 5%
-May train skill quick chant to 85%
-May train skill attack to 85%
 May train skill essence eye to 100%
 May train skill skill that saves sp to 100%
 ------------------------------------------------------.
@@ -510,8 +478,8 @@ May study spell recognize pattern to 75%
 May study spell relocate to 40%
 May study spell silence to 5%
 May train skill transposition to 15%
-May train skill leadership to 15%
 May train skill quick chant to 95%
+May train skill leadership to 15%
 ------------------------------------------------------.
 
 Level 23 abilities:
@@ -630,8 +598,8 @@ May study spell silence to 50%
 May study spell transformation to 5%
 May study spell unhinge door to 35%
 May study spell vortex magica to 5%
-May train skill lend power to 15%
 May train skill transposition to 60%
+May train skill lend power to 15%
 May train skill leadership to 60%
 May train skill conceal spellcasting to 10%
 ------------------------------------------------------.
@@ -659,10 +627,10 @@ May study spell symmetry in body to 10%
 May study spell transformation to 15%
 May study spell unhinge door to 45%
 May study spell vortex magica to 15%
+May train skill evocation to 4%
 May train skill lend power to 25%
 May train skill leadership to 70%
 May train skill invocation to 4%
-May train skill evocation to 4%
 ------------------------------------------------------.
 
 Level 34 abilities:
@@ -674,10 +642,10 @@ May study spell symmetry in body to 15%
 May study spell transformation to 20%
 May study spell unhinge door to 50%
 May study spell vortex magica to 20%
+May train skill evocation to 10%
 May train skill lend power to 30%
 May train skill leadership to 75%
 May train skill invocation to 10%
-May train skill evocation to 10%
 ------------------------------------------------------.
 
 Level 35 abilities:
@@ -688,13 +656,14 @@ May study spell symmetry in body to 20%
 May study spell transformation to 25%
 May study spell unhinge door to 55%
 May study spell vortex magica to 25%
+May train skill evocation to 15%
 May train skill lend power to 35%
 May train skill leadership to 80%
 May train skill invocation to 15%
-May train skill evocation to 15%
 ------------------------------------------------------.
 
 Level 36 abilities:
+May study spell bond of fates to 5%
 May study spell cancellation to 50%
 May study spell chaotic shelter to 65%
 May study spell magic missile to 5%
@@ -705,19 +674,21 @@ May study spell unhinge door to 60%
 May study spell viscous flesh to 5%
 May study spell voids of life to 5%
 May study spell vortex magica to 30%
+May train skill evocation to 20%
 May train skill lend power to 40%
 May train skill leadership to 85%
 May train skill invocation to 20%
-May train skill evocation to 20%
 ------------------------------------------------------.
 
 Level 37 abilities:
+May study spell bond of fates to 10%
 May study spell cancellation to 55%
 May study spell chaotic shelter to 70%
 May study spell earthslide to 5%
 May study spell energy consumption to 5%
 May study spell magic missile to 10%
 May study spell magical transfixion to 5%
+May study spell reverie shadow to 5%
 May study spell silence to 80%
 May study spell symmetry in body to 30%
 May study spell transformation to 35%
@@ -727,19 +698,21 @@ May study spell voids of life to 10%
 May study spell vortex magica to 35%
 May study spell wildfire to 5%
 May train skill evocation to 25%
-May train skill invocation to 25%
-May train skill leadership to 90%
 May train skill lend power to 45%
 May train skill mathematics to 5%
+May train skill invocation to 25%
+May train skill leadership to 90%
 ------------------------------------------------------.
 
 Level 38 abilities:
+May study spell bond of fates to 15%
 May study spell cancellation to 60%
 May study spell chaotic shelter to 75%
 May study spell earthslide to 10%
 May study spell energy consumption to 10%
 May study spell magic missile to 15%
 May study spell magical transfixion to 10%
+May study spell reverie shadow to 10%
 May study spell silence to 85%
 May study spell symmetry in body to 35%
 May study spell transformation to 40%
@@ -749,13 +722,14 @@ May study spell voids of life to 15%
 May study spell vortex magica to 40%
 May study spell wildfire to 10%
 May train skill evocation to 30%
-May train skill invocation to 30%
 May train skill lend power to 50%
 May train skill protective sphere to 5%
 May train skill mathematics to 10%
+May train skill invocation to 30%
 ------------------------------------------------------.
 
 Level 39 abilities:
+May study spell bond of fates to 20%
 May study spell cancellation to 65%
 May study spell chaotic shelter to 80%
 May study spell earthslide to 15%
@@ -764,6 +738,7 @@ May study spell epilepsy to 5%
 May study spell frost globe to 5%
 May study spell magic missile to 20%
 May study spell magical transfixion to 15%
+May study spell reverie shadow to 15%
 May study spell symmetry in body to 40%
 May study spell transformation to 45%
 May study spell unhinge door to 75%
@@ -772,14 +747,15 @@ May study spell voids of life to 20%
 May study spell vortex magica to 45%
 May study spell wildfire to 15%
 May train skill evocation to 35%
-May train skill invocation to 35%
 May train skill lend power to 55%
-May train skill alternate magics to 5%
 May train skill protective sphere to 10%
 May train skill mathematics to 15%
+May train skill alternate magics to 5%
+May train skill invocation to 35%
 ------------------------------------------------------.
 
 Level 40 abilities:
+May study spell bond of fates to 25%
 May study spell cancellation to 70%
 May study spell chaos lance to 5%
 May study spell chaotic shelter to 85%
@@ -790,6 +766,7 @@ May study spell epilepsy to 10%
 May study spell frost globe to 10%
 May study spell magic missile to 25%
 May study spell magical transfixion to 20%
+May study spell reverie shadow to 20%
 May study spell symmetry in body to 45%
 May study spell transformation to 50%
 May study spell unhinge door to 80%
@@ -798,16 +775,17 @@ May study spell voids of life to 25%
 May study spell vortex magica to 50%
 May study spell wildfire to 20%
 May train skill evocation to 40%
-May train skill invocation to 40%
-May train skill particle manipulation to 5%
 May train skill lend power to 60%
-May train skill alternate magics to 10%
-May train skill protective sphere to 15%
 May train skill mathematics to 20%
+May train skill particle manipulation to 5%
+May train skill protective sphere to 15%
+May train skill alternate magics to 10%
+May train skill invocation to 40%
 ------------------------------------------------------.
 
 Level 41 abilities:
 May study spell black death to 5%
+May study spell bond of fates to 30%
 May study spell cancellation to 75%
 May study spell chaos lance to 10%
 May study spell daggers of ice to 10%
@@ -818,6 +796,7 @@ May study spell frost globe to 15%
 May study spell magic missile to 30%
 May study spell magical storm to 5%
 May study spell magical transfixion to 25%
+May study spell reverie shadow to 25%
 May study spell shatter limb to 5%
 May study spell symmetry in body to 50%
 May study spell transformation to 55%
@@ -826,16 +805,17 @@ May study spell voids of life to 30%
 May study spell vortex magica to 55%
 May study spell wildfire to 25%
 May train skill evocation to 45%
-May train skill invocation to 45%
-May train skill particle manipulation to 10%
 May train skill lend power to 65%
-May train skill alternate magics to 15%
-May train skill protective sphere to 20%
 May train skill mathematics to 25%
+May train skill particle manipulation to 10%
+May train skill protective sphere to 20%
+May train skill alternate magics to 15%
+May train skill invocation to 45%
 ------------------------------------------------------.
 
 Level 42 abilities:
 May study spell black death to 10%
+May study spell bond of fates to 35%
 May study spell cancellation to 80%
 May study spell cellular asphyxia to 5%
 May study spell chaos lance to 15%
@@ -848,6 +828,7 @@ May study spell hour of mercy to 5%
 May study spell magic missile to 35%
 May study spell magical storm to 10%
 May study spell magical transfixion to 30%
+May study spell reverie shadow to 30%
 May study spell shatter limb to 10%
 May study spell symmetry in body to 55%
 May study spell transformation to 60%
@@ -855,20 +836,21 @@ May study spell viscous flesh to 35%
 May study spell voids of life to 35%
 May study spell vortex magica to 60%
 May study spell wildfire to 30%
-May train skill invocation to 50%
-May train skill evocation to 50%
-May train skill alternate magics to 20%
-May train skill protective sphere to 25%
-May train skill transmutation to 5%
-May train skill magical lore to 5%
-May train skill particle collision to 5%
-May train skill lend power to 70%
 May train skill particle manipulation to 15%
 May train skill mathematics to 30%
+May train skill alternate magics to 20%
+May train skill invocation to 50%
+May train skill evocation to 50%
+May train skill transmutation to 5%
+May train skill lend power to 70%
+May train skill particle collision to 5%
+May train skill magical lore to 5%
+May train skill protective sphere to 25%
 ------------------------------------------------------.
 
 Level 43 abilities:
 May study spell black death to 15%
+May study spell bond of fates to 40%
 May study spell cancellation to 85%
 May study spell cellular asphyxia to 10%
 May study spell chain lightning to 5%
@@ -882,24 +864,27 @@ May study spell hour of mercy to 10%
 May study spell immunal disorder to 5%
 May study spell magic missile to 40%
 May study spell magical storm to 15%
+May study spell neural internecion to 5%
+May study spell reverie shadow to 35%
 May study spell shatter limb to 15%
 May study spell symmetry in body to 60%
 May study spell transformation to 65%
 May study spell viscous flesh to 40%
 May study spell voids of life to 40%
-May train skill invocation to 55%
-May train skill evocation to 55%
-May train skill alternate magics to 25%
-May train skill protective sphere to 30%
-May train skill transmutation to 10%
-May train skill magical lore to 10%
-May train skill particle collision to 10%
-May train skill lend power to 75%
 May train skill particle manipulation to 20%
+May train skill invocation to 55%
+May train skill alternate magics to 25%
+May train skill evocation to 55%
+May train skill transmutation to 10%
+May train skill lend power to 75%
+May train skill particle collision to 10%
+May train skill magical lore to 10%
+May train skill protective sphere to 30%
 ------------------------------------------------------.
 
 Level 44 abilities:
 May study spell black death to 20%
+May study spell bond of fates to 45%
 May study spell cellular asphyxia to 15%
 May study spell chain lightning to 10%
 May study spell chaos lance to 25%
@@ -913,27 +898,30 @@ May study spell immunal disorder to 10%
 May study spell magic missile to 45%
 May study spell magical storm to 20%
 May study spell magical transfixion to 35%
+May study spell neural internecion to 10%
+May study spell reverie shadow to 40%
 May study spell shatter limb to 20%
 May study spell symmetry in body to 65%
 May study spell transformation to 70%
 May study spell voids of life to 45%
 May study spell vortex magica to 65%
 May study spell wildfire to 35%
+May train skill ordered mind to 5%
+May train skill particle manipulation to 25%
+May train skill mathematics to 35%
+May train skill alternate magics to 30%
 May train skill invocation to 60%
 May train skill evocation to 60%
-May train skill ordered mind to 5%
-May train skill alternate magics to 30%
-May train skill protective sphere to 35%
-May train skill magical lore to 15%
 May train skill transmutation to 15%
-May train skill particle collision to 15%
-May train skill particle manipulation to 25%
 May train skill lend power to 80%
-May train skill mathematics to 35%
+May train skill particle collision to 15%
+May train skill magical lore to 15%
+May train skill protective sphere to 35%
 ------------------------------------------------------.
 
 Level 45 abilities:
 May study spell black death to 25%
+May study spell bond of fates to 50%
 May study spell cellular asphyxia to 20%
 May study spell chain lightning to 15%
 May study spell chaos lance to 30%
@@ -947,7 +935,8 @@ May study spell immunal disorder to 15%
 May study spell magic missile to 50%
 May study spell magical storm to 25%
 May study spell magical transfixion to 40%
-May study spell neural internecion to 5%
+May study spell neural internecion to 15%
+May study spell reverie shadow to 45%
 May study spell shatter limb to 25%
 May study spell symmetry in body to 70%
 May study spell transformation to 75%
@@ -956,21 +945,21 @@ May study spell voids of life to 50%
 May study spell vortex magica to 70%
 May study spell watery breath to 5%
 May study spell wildfire to 40%
-May train skill invocation to 65%
-May train skill evocation to 65%
 May train skill ordered mind to 10%
-May train skill alternate magics to 35%
-May train skill protective sphere to 40%
-May train skill magical lore to 20%
-May train skill transmutation to 20%
-May train skill particle collision to 20%
-May train skill particle manipulation to 30%
-May train skill lend power to 85%
-May train skill magical engineering to 5%
 May train skill mathematics to 40%
+May train skill particle manipulation to 30%
+May train skill alternate magics to 35%
+May train skill invocation to 65%
+May train skill magical engineering to 5%
+May train skill evocation to 65%
+May train skill transmutation to 20%
+May train skill lend power to 85%
+May train skill particle collision to 20%
+May train skill magical lore to 20%
+May train skill protective sphere to 40%
 ------------------------------------------------------.
 
 Subguilds:
-Chaos 10
-Order 10
-Balance 15
+Faction_of_Chaos 10
+Faction_of_Order 10
+Faction_of_Balance 15
