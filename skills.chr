@@ -1,5 +1,5 @@
 acrobatics:1900
-adrenal surge:
+adrenal surge:0
 adrenaline rush:5000
 advanced martial arts:250000
 aegis:30000
@@ -8,52 +8,52 @@ air lore:2500
 allegro con foco:46000
 alternate magics:50000
 ambidextrous attack:5000
-ambush:
+ambush:0
 amras' touch:2700
 anatomy:11500
 animal lore:6500
-animal summoning:
-apply makeup:
+animal summoning:0
+apply makeup:0
 appraise:100
 arcane focus:1200
 arcane lore:75000
-archery:
-armour piercing:
+archery:0
+armour piercing:0
 arrow handling:300000
 art of telepathy:400000
-artistic license:
+artistic license:0
 assassins dream poison:1600
-assess quality:
+assess quality:0
 astronomy:1200
 attack:1300
 attend wounds:1300
 audience awareness:45000
 augment darkness:300
-avoid fate:
+avoid fate:0
 axe fighting style:6500
 axe mastery:10000
 backstab:1500
 balance momentum:110000
-barbs:
+barbs:0
 bargain:5500
 bash:2000
 battle hardness:15000
 battle stamina:150000
 battle tactics:40000
 battlecry:1500
-bear hug:
+bear hug:0
 beast speech:200
 benediction of embedding:2900
-benumb:
+benumb:0
 berserk:34000
 blade mastery:40000
-blade parry:
+blade parry:0
 bladed fury:3000
 bless:10000
 blinding dust:200
 bloodletting:200
 body control:200000
-body_slam:
+body_slam:0
 bookkeeping:4000
 bravery:34000
 brawl:34000
@@ -78,40 +78,40 @@ combat sense:30000
 commune:100
 composting:100
 conceal spellcasting:50000
-concentration:
+concentration:0
 concentration of harmony:45400
 conjure light:3500
 consider:100
 construct roost:800
 contemplate harmony:500
-control summoning:
-control transfer:
+control summoning:0
+control transfer:0
 convert:1200
-convert damage:
+convert damage:0
 corpse skinning:100
 create illusion:300
-create pitfall:
-cripple:
+create pitfall:0
+cripple:0
 critical:6000
 cross slash:7000
 crowd thievery:32150
-cut gem:
+cut gem:0
 damage analysis:520000
-damage awareness:
+damage awareness:0
 damage direction:110000
 dancing blade:15000
-death blow:
+death blow:0
 deceitful blow:3000
 decisive blows:72000
 dedicate spell:2000
 defend:34000
-desecrate corpse:
-desensitization:
+desecrate corpse:0
+desensitization:0
 dimensional awareness:5000
 dirty blow:45000
-disarm:
+disarm:0
 disarm traps:11500
-disc trick:
+disc trick:0
 disembowel:2500
 disguise:9250
 dismember:10000
@@ -122,20 +122,20 @@ double maul:55000
 double thrust:1000
 doublehit:500
 downward strike:4000
-dragon lore:
-drain vigour:
+dragon lore:0
+drain vigour:0
 drow poison:21700
-dweomercraft:
+dweomercraft:0
 dweomersight:3500
 earth lore:2500
 edged polearms:25000
 electric enchanting:400000
 elemental favor:1500
 elemental mastery:2500
-engrave message:
+engrave message:0
 enhance criticals:5000
 enhance features:1300
-enhance tracking:
+enhance tracking:0
 enhanced riposte:432100
 epitaph:100
 essence eye:100
@@ -143,45 +143,45 @@ establish roost:17000
 estimate efficiency:120000
 eternal shielding:150000
 evaluate corpse:12000
-evil omens:
+evil omens:0
 evocation:12000
-exsanguination:
+exsanguination:0
 extract bodypart:8000
 fake death:2500
 fake guilt:13000
 farsight:1700
 fast blow:1000
-fatal blow:
+fatal blow:0
 find herbs:15700
 find traps:300
 fire building:100
 fire enchanting:200000
 fire lore:2500
-firevision:
+firevision:0
 first aid:600
 flip kick:2600
 flow of life:8600
-flying:
-flying tackle:
-flying toss:
-focus death magic:
+flying:0
+flying tackle:0
+flying toss:0
+focus death magic:0
 focus ki:25000
 focus kungfu attacks:100000
 focus power:2000
-following:
+following:0
 foraging:2000
-forcepush:
+forcepush:0
 forge talisman:6000
-forgery:
-gem placement:
+forgery:0
+gem placement:0
 glance:600
-good omens:
+good omens:0
 grace of god:8000
 grapple:7600
-greater illusion control:
+greater illusion control:0
 greater vulnerability:250200
 grounding:2500
-hack-n-slash:
+hack-n-slash:0
 hammer:37000
 hand of evil poison:600
 hand of god:8000
@@ -197,20 +197,20 @@ herbal food poison:3000
 herbal invisibility:200
 herbal see invisible:600
 herbal smoke resistance:400
-heroic charge:
+heroic charge:0
 hew:30000
 hiding:2000
-hit placement:
+hit placement:0
 holy might:37500
 horsemanship:3000
 hunting:200
 hurl axes:2000
-idling:
+idling:0
 ignore pain:5000000
-ignore zarch whines:
+ignore zarch whines:0
 imitation:213
-immortality:
-impale:
+immortality:0
+impale:0
 inner strength:543200
 instrumentation:300000
 interrupting force:500000
@@ -221,24 +221,24 @@ kamikaze:40000
 ki:10000
 kick:500
 kick placement:40000
-killer instinct:
+killer instinct:0
 kiru:8000
-knowledge of omens:
+knowledge of omens:0
 kungfu:30000
 leadership:500
 leftwield:800
 litany:4000
-locking:
+locking:0
 loc ecsuram:10000
-low blow:
+low blow:0
 lunge:1500
 magical enchanting:400000
 magical engineering:12000
 magical lore:8000
-magical transformation:
+magical transformation:0
 magus:10000
 make acid shuriken:9000
-make bumerang:
+make bumerang:0
 make disguise wax:6400
 make poison shuriken:9000
 make shuriken:2600
@@ -248,19 +248,19 @@ mars lore:800
 martial arts:10000
 master tumbler:250000
 mastery of death illusions:200000
-mastery of death protection:
+mastery of death protection:0
 mastery of draining:110000
-mastery of farfetching:
+mastery of farfetching:0
 mastery of healing trance:25000
-mastery of idling:
+mastery of idling:0
 mastery of illusion:5000
 mastery of kungfu:200000
 mastery of medicine:61100
 mastery of psychokinetics:400000
 mastery of shielding:250200
 mastery of stealing:12000
-mastery of time:
-mastery of war:
+mastery of time:0
+mastery of war:0
 mathematics:10000
 meditate:50000
 memorize features:300
@@ -271,7 +271,7 @@ mounted combat:11800
 mounted parry:16800
 mounted riposte:15000
 munch magic item:800
-mutilate:
+mutilate:0
 mutilation:45600
 natural order:100
 navigate:2500
@@ -286,7 +286,7 @@ offensive efficiency:490000
 ogham rhetoric:1000
 oil of desecration:21700
 optimize transfer:41100
-order from chaos:
+order from chaos:0
 ordered mind:50000
 overhead swing:900000
 overload:300000
@@ -294,7 +294,7 @@ parry:14000
 particle collision:1000
 particle manipulation:10000
 peer:11000
-personalize:
+personalize:0
 pick locks:3100
 pick pockets:4900
 piercing-blows:2500
@@ -311,13 +311,13 @@ prayer:400
 prayer to gods:1000
 pra evaleo:10000
 prepare corpse:50000
-prepare enchantment:
+prepare enchantment:0
 prepare potion:2000
 prev enire:10000
-primal scream:
+primal scream:0
 protected blade:30000
 psionic efficiency:490000
-pummel:
+pummel:0
 purify soul:7000
 purity of spirit:50000
 purse evaluation:400
@@ -331,23 +331,23 @@ ranged tactics:30000
 recitation:1000
 rectitude:25000
 remove elements:2000
-rend:
+rend:0
 rescue:10000
 righteousness:3000
 riposte:13700
 running red:11700
 sacrifice of extended life:2000
 saturn lore:1200
-sense resistances:
-sense stats:
+sense resistances:0
+sense stats:0
 sense weakness:444444
 sensory overload:5000
-sharpen:
+sharpen:0
 shield fighting:4000
-shielding control:
-shielding efficiency:
+shielding control:0
+shielding efficiency:0
 shielding of death:520000
-shrapnel:
+shrapnel:0
 skewer:3000
 skill that saves sp:100
 slash:30000
@@ -358,7 +358,7 @@ smoke bomb:4000
 sneak:15200
 spacial manipulation:9000
 specify part:50000
-spellcraft:
+spellcraft:0
 spinning patterns:917000
 spiritism:400000
 spiritual link:200000
@@ -367,24 +367,24 @@ spot weakness:40000
 steady aim:300000
 steal:79600
 stellar shadows:1500
-sting:
+sting:0
 strangle:12600
 strike:2900
 strike mighty blow:30000
 stun:2000
 stunning blow:500000
 stunning force:10000
-stupify:
-stupor stagger:
+stupify:0
+stupor stagger:0
 suicide:300
-summon mastery:
+summon mastery:0
 sun lore:200
 sweep:4000
 switch weapon:400
-symmetry recognition:
+symmetry recognition:0
 system shock:3000000
 tameshivar:35000
-target:
+target:0
 taunt:900
 taxidermy:100
 thieves kiss poison:200
@@ -412,16 +412,16 @@ true harmony:42400
 tumble:75000
 tumbling:32700
 undead surgery:50000
-unfreeze:
+unfreeze:0
 unholy ceremony:400000
 unholy surgery:50000
 upper hand:45000
 uranus lore:1400
 wall of steel:25000
-vampiric touch:
+vampiric touch:0
 volo:10000
 wandmaking:2000
-warcry:
+warcry:0
 water lore:2500
 weapon skill 1h ancient:300
 weapon skill 1h axe:300
@@ -438,10 +438,10 @@ weapon skill 2h polearm:300
 weapon skill 2h staff:300
 weapon skill 2h sword:300
 weapon skill bow:500
-weaponsmithing:
+weaponsmithing:0
 venus lore:600
 whirling maces:49000
-whirlwind:
+whirlwind:0
 whirlwind attack:1400
 whirlwind slash:34000
 wild blow:500
