@@ -32,12 +32,14 @@ augment darkness:300
 avoid fate:0
 axe fighting style:6500
 axe mastery:10000
+backslash hit:0
 backstab:1500
 balance momentum:110000
 barbs:0
 bargain:5500
 bash:2000
 battle hardness:15000
+battle lore:0
 battle stamina:150000
 battle tactics:40000
 battlecry:1500
@@ -75,19 +77,21 @@ charge:30000
 charging lance:15000
 clot wounds:10000
 combat sense:30000
+combat trance:0
 commune:100
 composting:100
 conceal spellcasting:50000
-concentration:0
+concentrated swing:0
 concentration of harmony:45400
+concentration:0
 conjure light:3500
 consider:100
 construct roost:800
 contemplate harmony:500
 control summoning:0
 control transfer:0
-convert:1200
 convert damage:0
+convert:1200
 corpse skinning:100
 create illusion:300
 create pitfall:0
@@ -109,13 +113,17 @@ desecrate corpse:0
 desensitization:0
 dimensional awareness:5000
 dirty blow:45000
-disarm:0
 disarm traps:11500
+disarm:0
 disc trick:0
 disembowel:2500
 disguise:9250
 dismember:10000
 distract:500
+doctrine of the ancient:0
+doctrine of the axe:0
+doctrine of the bludgeon:0
+doctrine of the sword:0
 dodge:1300
 double backstab:3000
 double maul:55000
@@ -161,9 +169,9 @@ firevision:0
 first aid:600
 flip kick:2600
 flow of life:8600
-flying:0
 flying tackle:0
 flying toss:0
+flying:0
 focus death magic:0
 focus ki:25000
 focus kungfu attacks:100000
@@ -219,8 +227,8 @@ juggling:24000
 jupiter lore:1000
 kamikaze:40000
 ki:10000
-kick:500
 kick placement:40000
+kick:500
 killer instinct:0
 kiru:8000
 knowledge of omens:0
@@ -228,8 +236,8 @@ kungfu:30000
 leadership:500
 leftwield:800
 litany:4000
-locking:0
 loc ecsuram:10000
+locking:0
 low blow:0
 lunge:1500
 magical enchanting:400000
@@ -307,9 +315,9 @@ pon deila:10000
 possessions:700
 power kick:2000
 power manipulation:4000
-prayer:400
-prayer to gods:1000
 pra evaleo:10000
+prayer to gods:1000
+prayer:400
 prepare corpse:50000
 prepare enchantment:0
 prepare potion:2000
@@ -333,6 +341,7 @@ rectitude:25000
 remove elements:2000
 rend:0
 rescue:10000
+retort:0
 righteousness:3000
 riposte:13700
 running red:11700
@@ -369,8 +378,8 @@ steal:79600
 stellar shadows:1500
 sting:0
 strangle:12600
-strike:2900
 strike mighty blow:30000
+strike:2900
 stun:2000
 stunning blow:500000
 stunning force:10000
@@ -388,8 +397,8 @@ target:0
 taunt:900
 taxidermy:100
 thieves kiss poison:200
-throw:15000
 throw sand:20500
+throw:15000
 thrust:700
 thrusting polearms:22000
 tinning:100
@@ -417,9 +426,11 @@ unholy ceremony:400000
 unholy surgery:50000
 upper hand:45000
 uranus lore:1400
-wall of steel:25000
 vampiric touch:0
+venus lore:600
+vocal training:30000
 volo:10000
+wall of steel:25000
 wandmaking:2000
 warcry:0
 water lore:2500
@@ -439,15 +450,13 @@ weapon skill 2h staff:300
 weapon skill 2h sword:300
 weapon skill bow:500
 weaponsmithing:0
-venus lore:600
 whirling maces:49000
-whirlwind:0
 whirlwind attack:1400
 whirlwind slash:34000
+whirlwind:0
 wild blow:500
 wilderness survival:2000
 will of god:8000
 willpower:110000
-vocal training:30000
 zapping:100
 zhinakoku:35000
