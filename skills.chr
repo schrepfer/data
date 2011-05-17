@@ -32,14 +32,14 @@ augment darkness:300
 avoid fate:0
 axe fighting style:6500
 axe mastery:10000
-backslash hit:0
+backslash hit:12000
 backstab:1500
 balance momentum:110000
 barbs:0
 bargain:5500
 bash:2000
 battle hardness:15000
-battle lore:0
+battle lore:75000
 battle stamina:150000
 battle tactics:40000
 battlecry:1500
@@ -77,11 +77,11 @@ charge:30000
 charging lance:15000
 clot wounds:10000
 combat sense:30000
-combat trance:0
+combat trance:34000
 commune:100
 composting:100
 conceal spellcasting:50000
-concentrated swing:0
+concentrated swing:16000
 concentration of harmony:45400
 concentration:0
 conjure light:3500
@@ -120,10 +120,10 @@ disembowel:2500
 disguise:9250
 dismember:10000
 distract:500
-doctrine of the ancient:0
-doctrine of the axe:0
-doctrine of the bludgeon:0
-doctrine of the sword:0
+doctrine of the ancient:1000000
+doctrine of the axe:1000000
+doctrine of the bludgeon:1000000
+doctrine of the sword:1000000
 dodge:1300
 double backstab:3000
 double maul:55000
@@ -341,7 +341,7 @@ rectitude:25000
 remove elements:2000
 rend:0
 rescue:10000
-retort:0
+retort:250000
 righteousness:3000
 riposte:13700
 running red:11700
